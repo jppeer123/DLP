@@ -1,0 +1,5 @@
+﻿l_english:
+ SETTING_VALUE_PERCENTAGE_WARNING:0 "$VALUE|%0X$"
+ RECOMMENDED_GUI_SCALE_TOO_HIGH:1 "#X Schaling boven $VALUE|%0$ zal bepaalde elementen buiten het scherm laten treden#!"
+ RECOMMENDED_GUI_SCALE:1 "Schaling boven $VALUE|%0$ zal bepaalde elementen buiten het scherm laten treden"
+  

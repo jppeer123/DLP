@@ -1,0 +1,6 @@
+﻿l_english:
+ SETTING_ANIMATED_PORTRAITS:0 "Geanimeerde Portretten"
+ SETTING_ANIMATED_PORTRAITS_TOOLTIP:0 "#T $SETTING_ANIMATED_PORTRAITS$\n#!Bepaald of de prominente karakters moeten worden voorzien van animatie, wat hun levendiger maakt.\n\nHet uitzetten hiervan kan de spelprestaties verbeteren."
+ SETTING_PORTRAITS_SSAO:0 "Karakter SSAO"
+ SETTING_PORTRAITS_SSAO_TOOLTIP:0 "#T $SETTING_PORTRAITS_SSAO$\n#!Bepaald of er scherm ruimtelijke omgevings occlusie moet voorkomen.\n\nHet uitzetten hiervan kan de spelprestaties verbeteren."
+ 
