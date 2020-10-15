@@ -3,4 +3,4 @@ tags={
 	"Translation"
 }
 name="Monniken en Ridders: Dutch Language Project"
-supported_version="1.1.2"
+supported_version="1.1.*"
