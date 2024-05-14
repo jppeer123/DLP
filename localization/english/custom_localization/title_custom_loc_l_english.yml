@@ -37,12 +37,12 @@
  MythicalFounder_corineus: "Corineus"
  MythicalFounder_magnus_maximus: "Magnus Maximus"
 
- MythicalFounder_himself:0 "himself"
- MythicalFounder_herself:0 "herself"
- MythicalFounder_themselves:0 "themselves"
+ MythicalFounder_himself:0 "hemzelf"
+ MythicalFounder_herself:0 "haarzelf"
+ MythicalFounder_themselves:0 "henzelf"
 
- TitleRelationToMe_Your_PrimaryTitle:0 "Your [primary_title|E]\n"
- TitleRelationToMe_Your_Title:0 "Your [title|E]\n"
+ TitleRelationToMe_Your_PrimaryTitle:0 "Jouw [primary_title|E]\n"
+ TitleRelationToMe_Your_Title:0 "Jouw [title|E]\n"
  TitleRelationToMe_PrimaryTitle:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]'s [primary_title|E]\n"
  TitleRelationToMe_Title:0 "[second.GetHolder.GetRelationToString( ROOT.Char )]'s [title|E]\n"
  TitleRelationToMe_None:0 ""
