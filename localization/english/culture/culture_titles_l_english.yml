@@ -220,7 +220,7 @@
  barony_theocracy_christianity_religion:0 "Bisdom"
  count_theocracy_male_christianity_religion:0 "Prins-Bisschop"
  count_theocracy_female_christianity_religion:0 "Prinses-Bisschop"
- county_theocracy_christianity_religion:0 "Prins-Bisdom"
+ county_theocracy_christianity_religion:0 "Prinsbisdom"
  duke_theocracy_male_christianity_religion:0 "Prins-Aartsbischop"
  duke_theocracy_female_christianity_religion:0 "Prinses-Aartsbischop"
  duchy_theocracy_christianity_religion:0 "Prins-Aartsbisdom"
