@@ -1,9 +1,9 @@
 ﻿l_english:
- feudal_government:0 "Feudal"
- feudal_government_adjective:0 "Feudal"
- feudal_government_realm:0 "Feudal Realm"
+ feudal_government:0 "Feodaal"
+ feudal_government_adjective:0 "Feodaal"
+ feudal_government_realm:0 "Feodaal Rijk"
  feudal_government_vassals_label:1 "Feudal [obligations|E] are based on each [vassal|E]'s [feudal_contract|E]"
- feudal_government_desc:1 "$game_concept_feudal_desc$\n\n#F Feudalism was the dominant government form in Europe between the 9th and the 15th century. The feudal system is based on the relationship between the landholder and those who provide services and labor in order to live there. The rulers who hold the land appoint vassals which are given fiefs to govern. In return, the vassals provide their liege with [soldiers|E] and [taxes|E].#!"
+ feudal_government_desc:1 "$game_concept_feudal_desc$\n\n#F Feodalisme was tussen de 9e en 15e eeuw de dominante vorm van bestuur in Europa. Het feodale systeem was gebaseerd op de relatie tussen leenman, die het land bestuurde in de naam van de leenheer en daarmee aan zijn herediensten voldeed, en de leenheer; die het land origineel bezat. Deze leent het uit aan leenmannen die het daadwerkelijk besturen. In ruil daarvoor geven deze [vassals|E] hun [soldiers|E] en [taxes|E] aan de leenheer.#!"
  feudal_government_obligations:0 "[GetGovernment( 'feudal_government' ).GetName] [obligations|E]"
  feudal_obligation_low:3 "Low $feudal_government_obligations$"
  feudal_obligation_low_short:0 "Low"

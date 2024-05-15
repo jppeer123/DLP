@@ -1,9 +1,9 @@
 ﻿l_english:
- title_event_francia_name_change.title:0 "End of an Era"
- title_event_francia_name_change.desc:0 "The reign of the Karling dynasty has come to an end!\n\nThe [francia_title.GetName] has finally slipped from their grasp. With the Karlings removed, these lands are truly no longer a part of their old empire.\n\nWith me as the future [ROOT.Char.GetTitleAsNameNoTooltip], we have a new and bright destiny ahead of us. It is, therefore, only fitting to remove #EMP any and all#! reminders of their influence. Including the very #EMP name#! itself!"
- title_event_francia_name_change.a:0 "A new era begins!"
- title_event_francia_name_change.a_tt_1:0 "The [francia_title.GetName] changes name to #high $k_france$#!"
- title_event_francia_name_change.a_tt_2:0 "The [francia_title.GetName] changes name to #high $k_germany$#!"
+ title_event_francia_name_change.title:0 "Einde van een Tijdperk"
+ title_event_francia_name_change.desc:0 "De heerschappij van de Karolingen is ten einde gebracht!\n\ Het [francia_title.GetName] is eindelijk uit hun macht geglipt. Zonder de Karolingen zijn deze landen werkelijk geen onderdeel meer van de oude rijken.\n\nMet mij als toekomstige [ROOT.Char.GetTitleAsNameNoTooltip], ligt er een nieuwe en glansrijke toekomst in het verschiet. Derhalve is het alleen maar zaak dat #EMP al dat#! kan herinneren aan hun voormalig bewind zal worden verwijderd. Inclusief de #EMP naam#! zelve!"
+ title_event_francia_name_change.a:0 "Een nieuw tijdperk lonkt!"
+ title_event_francia_name_change.a_tt_1:0 "Het [francia_title.GetName] heet voortaan #high $k_france$#!"
+ title_event_francia_name_change.a_tt_2:0 "Het [francia_title.GetName] heet voortaan #high $k_germany$#!"
 
  title_event.0012.t:0 "Splitting the Crown"
  title_event.0012.desc:0 "With the creation of the [castille.GetName], and the throne of old [asturias.GetBaseNameNoTier] vacant, the Kingdom of Pelagius has finally been outgrown. Its rump shall forever be known as [leon.GetBaseNameNoTier], at least till that too is eclipsed by the rise of [castille.GetBaseNameNoTierNoTooltip]."
