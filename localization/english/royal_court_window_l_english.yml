@@ -1,5 +1,5 @@
 ﻿l_english:
- ROYAL_COURT_NAME:1 "Royal Court of [Character.GetPrimaryTitle.GetDefinitiveNameNoTooltip]"
+ ROYAL_COURT_NAME:1 "Koninklijk Hof van [Character.GetPrimaryTitle.GetDefinitiveNameNoTooltip]"
  ROYAL_COURT_WINDOW_HEADER:2 "$ROYAL_COURT_NAME$"
  ROYAL_COURT_WINDOW_GRANDEUR_SUMMERY:2 "[GetCourtGrandeurLevelModifier( CourtGrandeurData.GetCurrentLevel ).GetName]"
  OPEN_ROYAL_COURT_TOOLTIP:1 "#T $ROYAL_COURT_NAME$#!\n$ROYAL_COURT_WINDOW_GRANDEUR_SUMMERY$\n\n#I Click to open#!"

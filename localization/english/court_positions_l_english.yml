@@ -37,9 +37,9 @@
 
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_NO_ADD_TT:1 "[SelectLocalization( Not( CourtPositionType.CanHirePosition( Character.Self ) ), 'COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS', '' )]\n[SelectLocalization( Not( CourtPositionType.HasValidCourtiersForCharacter( Character.Self ) ), 'COURT_POSITIONS_WINDOW_EMPTY_POSITION_NO_ELIGIBLE_COURTIERS', '' )]"
  
- COURT_POSITIONS_WINDOW_EMPTY_POSITION_HEADER:0 "Empty [court_positions|E] in your Court"
- COURT_POSITIONS_WINDOW_EMPTY_POSITION_EFFECTS_VARY:0 "Effects vary based on [aptitude|e]:"
- COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS:0 "@warning_icon! #X You do not fulfill the requirements to hire this [court_position|e]#!"
+ COURT_POSITIONS_WINDOW_EMPTY_POSITION_HEADER:0 "Jouw hofhouding bevat lege [court_positions|E]"
+ COURT_POSITIONS_WINDOW_EMPTY_POSITION_EFFECTS_VARY:0 "Effecten zijn gebaseerd op [aptitude|e]:"
+ COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS:0 "@warning_icon! #X Je voldoet niet aan de benodigde vereisten om deze [court_position|e] in te huren#!"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_YOU_DONT_MEET_REQUIREMENTS_TT:0 "#T $COURT_POSITION_TOOLTIP_LIEGE_REQUIREMENT$#!\n[CourtPositionType.GetLiegeRequirementDescriptionText]"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_NO_ELIGIBLE_COURTIERS:0 "@warning_icon! #X No courtiers meet the [court_position|e] requirements#!"
  COURT_POSITIONS_WINDOW_EMPTY_POSITION_NO_ELIGIBLE_COURTIERS_TT:0 "#T $COURT_POSITION_TOOLTIP_EMPLOYEE_REQUIREMENT$#!\n[CourtPositionType.GetEmployeeRequirementDescriptionText]"
