@@ -4,9 +4,9 @@
  ##############################
 
  # Wall Decorations - Large
- artifact_wall_tapestry_name:0 "$artifact_name_prefix$ Tapestry"
- artifact_wall_tapestry_description:1 "A large [newly_created_artifact.GetFeatureText( 'generic_material_cloth' )] tapestry of [SCOPE.Custom('ArtifactQuality')] craftsmanship. [newly_created_artifact.GetFeatureText( 'tapestry_scene' )]"
- feature_tapestry_scene_religious:0 "The cloth depicts several prominent scenes taken from the [Artifact.GetOwner.GetFaith.GetAdjectiveNoTooltip] canon."
+ artifact_wall_tapestry_name:0 "$artifact_name_prefix$ Wandtapijt"
+ artifact_wall_tapestry_description:1 "Een groot [newly_created_artifact.GetFeatureText( 'generic_material_cloth' )] Wandtapijt van [SCOPE.Custom('ArtifactQuality')] vakmanschap. [newly_created_artifact.GetFeatureText( 'tapestry_scene' )]"
+ feature_tapestry_scene_religious:0 "Het doek toont verschillende prominente scènes uit de [Artifact.GetOwner.GetFaith.GetAdjectiveNoTooltip] canon."
  feature_tapestry_scene_historical:0 "The cloth depicts the founding of the [Artifact.GetOwner.GetPrimaryTitle.GetName] and other major historical events leading up to the reign of [Artifact.GetOwner.GetTitledFirstName]."
  feature_tapestry_scene_geometric_patterns:0 "The cloth is woven to show an intricate design of interlocking geometric shapes."
  feature_tapestry_scene_hunt:0 "The cloth depicts a hunting scene: several hunters, armed with bows and spears, surround a wounded animal and are about to deliver the death blow."
