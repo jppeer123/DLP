@@ -1,6 +1,6 @@
 ﻿l_english:
  bm_867_adventurers:0 "De Grote Reizigers"
- bm_867_adventurers_desc:0 "Every dynasty comes from humble beginnings. The climb to power is usually a slow process, each generation moving a few steps up the ladder, through carefully planned marriages and ceaseless wars.\n\n#bold But these are times of great change and upheaval. With a lot of courage, and maybe a little luck, a hero might raise their family name from obscurity to legend. Are you ready to take on the challenge?#!"
+ bm_867_adventurers_desc:0 "Elke dynastie komt van nederige beginselen. De route naar de macht ligt vol gevaren en is een lang proces. Generatie-na-generatie werkt een stapje de ladder op door eindeloze oorlogen en goed geplannede huwelijken.\n\n#bold Maar dit zijn tijden van grote verandering en onrust. Met veel moed, en misschien een beetje geluk, kan een held hun familie naam doen weerklinken in de geschiedenisboeken, van obscuurheid tot legende. Ben je klaar voor de uitdaging?#!"
 
 
  #Jarl Haesteinn
@@ -39,7 +39,7 @@
  bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
 
  #EVENTS
- bookmark.0101.t:0 "What's in a Name?"
+ bookmark.0101.t:0 "Wat betekent een Naam?"
  bookmark.0101.desc_intro:0 "For generations [hausaland.GetNameNoTier] has been ruled by the Magajiya, a line of matriarchal rulers of which I am the latest.\n\nOur traditions have served us well, but the world is changing. The heroic deeds of my [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] have earned him great wealth and respect... though as [bayajidda.GetSheHe] hails from distant lands, [bayajidda.GetHerHis] successes also portend great change for my people.\n\n"
  bookmark.0101.desc_living:1 "My son, [bewo.GetTitledFirstName], is the apple of his father's eye. Though a mere babe, I wonder if he will identify more with his adventuring father, or my own traditional legacy?"
  bookmark.0101.desc_dead:1 "My son, [bewo.GetTitledFirstName], was the apple of his father's eye. Though a mere babe, I wonder if he will identify more with the legend of his adventuring father, or my own traditional legacy?"
@@ -48,12 +48,12 @@
  bookmark.0101.b:1 "My son is my son, whatever his name or culture."
  bookmark.0101.b.tt:1 "#warning @warning_icon! This option may leave you without a [player_heir|E]!#!"
  bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
- bookmark.0101.c.tt:1 "Your sister [shawata.GetUIName] will remain your [player_heir|E]"
+ bookmark.0101.c.tt:1 "Jouw zus, [shawata.GetUIName], zal jouw [player_heir|E] blijven"
 
  #WARS
- war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabid Conquest of Sicily"
- war_867_Saffarid_Tahirid_War:0 "Saffarid-Tahirid War"
- war_867_Reconquest_of_Bari:0 "Reconquest of Bari"
- war_867_Lothbrok_Invasion_of_East_Anglia:1 "Sons of Loðbrók Invasion of East Anglia"
- war_867_Lothbrok_Invasion_of_Lothian:1 "Sons of Loðbrók Invasion of Lothian"
- war_867_Lothbrok_Invasion_of_Northumberland:1 "Sons of Loðbrók Invasion of Northumberland"
+ war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabidische Verrovering van Sicilië"
+ war_867_Saffarid_Tahirid_War:0 "Saffarid-Tahirid Oorlog"
+ war_867_Reconquest_of_Bari:0 "Herrovering van Bari"
+ war_867_Lothbrok_Invasion_of_East_Anglia:1 "Zonen van Loðbrók Invasie van Oost-Anglië"
+ war_867_Lothbrok_Invasion_of_Lothian:1 "Zonen van Loðbrók Invasie van Lothian"
+ war_867_Lothbrok_Invasion_of_Northumberland:1 "Zonen van Loðbrók Invasie van Noord-Humberland"
