@@ -1,6 +1,6 @@
 ﻿l_english:
  bm_1066_hastings:0 "Het Lot van Engeland"
- bm_1066_hastings_desc:2 "When the childless King Edward the Confessor died it plunged England into a succession crisis unlike any that had come before.\n\nThree men attempted to secure the throne for themselves: Harold Godwinson, William the Bastard, and Harald Hardrade, while Svend and Malcolm stood by, ready to pounce at any sign of weakness.\n\n#bold Who will stand victorious after this tumultuous time in history?#!"
+ bm_1066_hastings_desc:2 "Toen de kindloze Koning Eduard de Belijder overleed, viel Engeland in een opvolgingscrisis die zijn weerga niet kende.\n\nDrie man streden om de troon te veroveren voor hunzelf: Harold Godwinson, Willem de Bastaard en Harald Hardrade, terwijl Svend en Malcolm bijstonden, klaar om tot het conflict toe te treden als enkele aanwijzingen van zwakte te vinden waren.\n\n#bold Wie zal zegevieren na deze onstuimige tijd in de geschiedenis?#!"
 
  bookmark_hastings_england:0 "Koning Harold of England"
  bookmark_hastings_england_desc:2 "Harold Godwinson was the leader of a powerful noble house, and the brother-in-law of the King, when the childless King Edward died. Now, elected the new King of England by his peers, he is faced with the challenge of holding onto the throne, as the covetous Duke of Normandy, as well as King Harald of Norway, spurred on and aided by Harold's exiled brother, seek to replace him!\n\n#bold With a large army at your back and the support of the Anglo-Saxon lords — will the wolves find that they have bitten off more than they can chew?#!"
@@ -32,10 +32,10 @@
  bookmark_hastings_scotland_alt_duncan:0 "$Duncan$"
  bookmark_hastings_scotland_alt_donald:0 "$Donald$ $nick_the_fair$"
 
- war_1066_Norman_Conquest:0 "Norman Conquest of England"
- war_1066_Harald_Invasion:0 "Norwegian Invasion of England"
- war_1066_Seljuk_Invasion:0 "Seljuk Invasion of Armenia"
- war_1066_Sinhalese_Rebellion:0 "Sinhalese Rebellion"
+ war_1066_Norman_Conquest:0 "Normandische verovering van Engeland"
+ war_1066_Harald_Invasion:0 "Noorse Invasie van Engeland"
+ war_1066_Seljuk_Invasion:0 "Seljukse Invasie van Armenië"
+ war_1066_Sinhalese_Rebellion:0 "Sinhalese Opstand"
 
  debug_bm_1340_history:0 "#D History Debug: 1340#!"
  debug_bm_1340_history_desc:0 "Run this to debug history files up until 1340"
