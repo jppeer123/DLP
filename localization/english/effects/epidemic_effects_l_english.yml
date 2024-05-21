@@ -1,11 +1,11 @@
-﻿l_english:
-  set_epidemic_outbreak_intensity_global: "Outbreak intensity becomes $NEW_VALUE|V$"
-  set_epidemic_outbreak_intensity_global_past: "Outbreak intensity became $NEW_VALUE|V$"
-  set_epidemic_outbreak_intensity_third: "Outbreak intensity of [EPIDEMIC.GetName] becomes $NEW_VALUE|V$"
-  set_epidemic_outbreak_intensity_third_past: "Outbreak intensity of [EPIDEMIC.GetName] became $NEW_VALUE|V$"
+l_english:
+  set_epidemic_outbreak_intensity_global: "Intensiteit uitbraak wordt $NEW_VALUE|V$"
+  set_epidemic_outbreak_intensity_global_past: "Intensiteit uitbraak werd $NEW_VALUE|V$"
+  set_epidemic_outbreak_intensity_third: "Uitbraakintensiteit van [EPIDEMIC.GetName] wordt $NEW_VALUE|V$"
+  set_epidemic_outbreak_intensity_third_past: "Uitbraakintensiteit van [EPIDEMIC.GetName] werd $NEW_VALUE|V$"
   
-  create_epidemic_outbreak_global: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] outbreak appears"
-  create_epidemic_outbreak_global_past: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] outbreak appeared"
-  create_epidemic_outbreak_third: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] outbreak appears in [PROVINCE.GetName]"
-  create_epidemic_outbreak_third_past: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] outbreak appeared in [PROVINCE.GetName]"
+  create_epidemic_outbreak_global: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] uitbraak verschijnt"
+  create_epidemic_outbreak_global_past: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] uitbraak verscheen"
+  create_epidemic_outbreak_third: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] uitbraak verschijnt in [PROVINCE.GetName]"
+  create_epidemic_outbreak_third_past: "$INTENSITY|V$ [EPIDEMIC_TYPE.GetName] uitbraak verscheen in [PROVINCE.GetName]"
   
