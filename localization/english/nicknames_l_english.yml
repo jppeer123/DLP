@@ -670,7 +670,7 @@
  nick_the_child_desc:1 "Alas, [CharYourHerHis(CHARACTER)] life ended too early for [CHARACTER.GetShortUINameNoTooltipNoFormat] to be known for anything save [CharYourHerHis(CHARACTER)] abrupt ending."
  nick_the_wake:0 "the Wake"
  nick_the_wake_desc:1 "[CHARACTER.Custom('EyeEyes')|U] ever-watchful for injustice, foreign conquerors and native turncoats alike tremble at the mere mention of [CharYourHerHis(CHARACTER)] name!"
- nick_the_bearded:0 "the Bearded"
+ nick_the_bearded:0 "met de Baard"
  nick_the_bearded_desc:1 "Like many men, [CharYouSheHe(CHARACTER)] [CharHaveHas(CHARACTER)] a beard. [CharYouSheHe(CHARACTER)|U] [CharAreIs(CHARACTER)] really not sure why people insist on pointing it out."
  nick_the_mountain_dweller:0 "the Mountain-Dweller"
  nick_the_mountain_dweller_desc:1 "It's a rare thing to see [CHARACTER.GetShortUINameNoTooltipNoFormat] outside of [CharYourHerHis(CHARACTER)] mountainous home."

@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  artifact_type_helmet:0 "kroon"
  artifact_type_primary_armament:0 "wapen"
  artifact_type_armor:0 "bewapening"
@@ -702,13 +702,13 @@ l_english:
  mountain_rock_description:0 "Een grote steen, moeizaam rondgesjouwd door [inspiration_owner.GetTitledFirstName] helemaal terug uit [mountain_location.GetName]."
  
  # Game start additional unique artifacts
- reichskrone_name:0 "Rijkskroon"
+ reichskrone_name:0 "Keizerskroon"
  reichskrone_description:1 "Dit is het embleem van het ambt van Heilige Roomse Keizer. Trekt gegarandeerd de aandacht van elke passerende hertog.."
  nikephoros_crown_name:0 "Kroon van Nikephoros II Phokas"
  nikephoros_crown_description:2 "Dit is de kroon van een van de beste tactici die de keizerlijke linie ooit heeft gezien. Mislukkeling in oorlogen ten westen van het Rijk, maar veroveraar in het oosten."
  skull_cap_charlemagne_name:0 "Schedelkap van Karel de Grote"
  skull_cap_charlemagne_description:0 "De paté van Karel de Grote bevindt zich in deze doos. Misschien zal zijn wijsheid neerdalen op de eigenaar."
- papal_tiara_name:0 "Pauselijke tiara"
+ papal_tiara_name:0 "Pauselijke Tiara"
  papal_tiara_description:1 "Dit is de met juwelen versierde mijter met een gouden kroon die het pauselijk ambt symboliseert. Maar zou het niet prachtig staan op jouw hoofd?"
  essen_crown_name:0 "Kinderkroon"
  essen_crown_description:1 "Sommigen zeggen dat dit een kroon was die gemaakt werd voor de kroning van Otto III in Essen, anderen zeggen dat hij bedoeld was om een Mariabeeld te kronen. Hoe dan ook, hij is erg klein, maar je kunt hem misschien op je hoofd proppen als je het probeert.."

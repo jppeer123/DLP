@@ -2,7 +2,7 @@
 
  # Bookmark Loc
  bm_867_iberia:1 "De Strijd om Iberië"
- bm_867_iberia_desc:3 "De oude machten van Iberië vallen uiteen.\n\nIn het noorden ligt Asturië, rijp met ambiteuze vazallen klaar om te strijden voor vrijheid.\n\nIn het zuiden lijkt al-Andalus sterk, maar wordt geconfronteerd met geruchten van ongenoegen. In de militaire districten aan de grens is er rumoer over onafhankelijkheid en complotten plagen de besturende familie van de Omajjaden.\n\nHongerige buitenlandse machten azen op Iberië's rijke land.\n\n#bold Eeuwen in de maak, de $game_concept_iberian_struggle$ begint een nieuwe fase en of deze in bloed of broederschap eindigt lijkt te alleen te liggen aan de worp van een dobbelsteen."
+ bm_867_iberia_desc:3 "De oude machten van Iberië vallen uiteen.\n\nIn het noorden ligt Asturië, rijp met ambitieuze vazallen, klaar om te strijden voor vrijheid.\n\nIn het zuiden lijkt al-Andalus sterk, maar wordt geconfronteerd met geruchten van onvreden onder de bevolking. In de militaire districten aan de grens is er rumoer over onafhankelijkheid, en complotten plagen de besturende familie van de Omajjaden.\n\nDit alles terwijl hongerige buitenlandse machten azen op Iberië's rijke land.\n\n#bold Eeuwen in de maak, de $game_concept_iberian_struggle$ begint een nieuwe fase en of deze in bloed of broederschap eindigt lijkt te alleen te liggen aan de worp van een dobbelsteen."
  war_867_Vimara_conquest_Portucale:0 "Oorlog voor Vimara's [claim|E] op $d_porto$"
  war_Andalusian_Rebellion:0 "Frontier District Rebellion"
 
