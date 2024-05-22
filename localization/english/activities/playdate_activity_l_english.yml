@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  
  ## PLAYDATE GUEST INVITE RULES
  activity_invite_rule_siblings:0 "Broers en zussen"
@@ -12,8 +12,8 @@ l_english:
 
 
  #Play date
- activity_playdate:0 "Ontmoet Medestanders"
- activity_playdate_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Mederstanders Ontmoeten"
+ activity_playdate:0 "Ontmoet Leeftijdsgenoten"
+ activity_playdate_name:0 "[ACTIVITY.GetOwner.GetNamePossessiveOrMy|U] Leeftijdsgenoten Ontmoeten"
  activity_playdate_selection_tooltip:1 "Elk kind van aanzien in het rijk is uitgenodigd om zich te vermaken, anderen van hun leeftijd te ontmoeten en te spelen!\n\nVerwachte beloningen:\n$BULLET_WITH_TAB$[opinion_i] [opinion|E]"
  activity_playdate_desc:1 "Elke kleine heer en dame in het rijk uitnodigen, jonger dan de leeftijd van [EmptyScope.ScriptValue('less_than_two_years_to_adulthood_value')|0V], om zichzelf te vermaken in het gezelschap van andere kinderen is een bevrijdende en leuke ervaring!"
  activity_playdate_host_desc:0 "$BULLET_WITH_TAB$Deelnemers kunnen andere personen's [opinion|E] verwerven"

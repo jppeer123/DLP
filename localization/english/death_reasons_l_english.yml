@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  death_natural_causes:1 "overleed in [CHARACTER.GetHerHis] slaap"
  death_old_age:0 "stierf door ouderdom"
  death_bubonic_plague:1 "overleed aan de [GetTrait('bubonic_plague').GetName( CHARACTER.Self )]"
