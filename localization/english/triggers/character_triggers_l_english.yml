@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  HAS_GOLD_TRIGGER:0 "Heeft [gold_i]$NUM|V0$"
  NOT_HAS_GOLD_TRIGGER:0 "Heeft geen [gold_i]$NUM|V0$"
