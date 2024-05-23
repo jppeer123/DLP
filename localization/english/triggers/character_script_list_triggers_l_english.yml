@@ -1,23 +1,23 @@
-﻿l_english:
+l_english:
 
- ALL_LIVING_CHARACTERS:0 "All living characters:"
- ANY_LIVING_CHARACTER:0 "Any living character:"
+ ALL_LIVING_CHARACTERS:0 "Alle levende personen:"
+ ANY_LIVING_CHARACTER:0 "Elk levend persoon:"
 
- ALL_POOL_CHARACTERS:0 "All pool characters:"
- ANY_POOL_CHARACTER:0 "Any pool character:"
+ ALL_POOL_CHARACTERS:0 "Alle verenigde personen:"
+ ANY_POOL_CHARACTER:0 "Elk verenigd persoon:"
 
- ANY_OF_CHARACTERS_VASSALS:1 "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
- ANY_OF_CHARACTERS_VASSALS_OR_BELOW: "Any of [CHARACTER.GetShortUINamePossessive] [vassals|E] or [landed|E] characters under them:"
- ALL_OF_CHARACTERS_VASSALS:1 "All of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
- ANY_OF_CHARACTERS_VASSALS_PERCENT:0 "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
- ANY_OF_CHARACTERS_VASSALS_COUNT:0 "$PARAMETERS$ of [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS:1 "Elke van [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_OR_BELOW: "Elke van [CHARACTER.GetShortUINamePossessive] [vassals|E] of [landed|E] personen onder hen:"
+ ALL_OF_CHARACTERS_VASSALS:1 "Elke van [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_PERCENT:0 "$PARAMETERS$ van [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
+ ANY_OF_CHARACTERS_VASSALS_COUNT:0 "$PARAMETERS$ van [CHARACTER.GetShortUINamePossessive] [vassals|E]:"
  
- ANY_DYNASTY_MEMBER_COUNT:0 "$PARAMETERS$ members of the [DYNASTY.GetBaseName] [dynasty|E]:"
+ ANY_DYNASTY_MEMBER_COUNT:0 "$PARAMETERS$ leden van de [DYNASTY.GetBaseName] [dynasty|E]:"
 
- ANY_IN_DE_JURE_ALL_GLOBAL:0 "Any de jure [titles|E]"
- NOT_ANY_IN_DE_JURE_ALL_GLOBAL:0 "Non de jure [titles|E]"
- ANY_IN_DE_JURE_ALL_THIRD:0 "Any de jure [titles|E] of [TITLE.GetName]"
- NOT_ANY_IN_DE_JURE_ALL_THIRD:0 "Non de jure [titles|E] of [TITLE.GetName]"
+ ANY_IN_DE_JURE_ALL_GLOBAL:0 "Elke de jure [titles|E]"
+ NOT_ANY_IN_DE_JURE_ALL_GLOBAL:0 "Geen van de de jure [titles|E]"
+ ANY_IN_DE_JURE_ALL_THIRD:0 "Elke de jure [titles|E] of [TITLE.GetName]"
+ NOT_ANY_IN_DE_JURE_ALL_THIRD:0 "Geen van de de jure [titles|E] of [TITLE.GetName]"
 
- ANY_REALM_COUNTY:0 "Any [realm|E] [county|E]:"
+ ANY_REALM_COUNTY:0 "Elk [realm|E] [county|E]:"
  ANY_REALM_COUNTY_COUNT:0 "$PARAMETERS$ [realm|E] [counties|E]:"
