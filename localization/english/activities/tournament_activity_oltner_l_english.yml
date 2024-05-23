@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  tournament_events.9000.t:0 "De bezienswaardigheden van [tournament_province.GetNameNoTooltip]"
  tournament_events.9000.desc:0 "Wandelend over het terrein van het toernooi word ik overweldigd door de pure schoonheid die me hier omringt in [tournament_province.GetName].\n\nIk liep langs [tournament_province.Custom('TerrainTypeProvince')] bezaaid met stukjes [tournament_province.Custom('get_region_flower_type_plural')], besloot alleen te stoppen om de bast van een ongerepte [tournament_province.Custom('GetRandomAppropriateTree')] boom. Ik kijk op en zie een groep [ROOT.Char.Custom('GetRandomRegionalWildDaytimeBird')]boven me vliegen.\n\n"
  tournament_events.9000.desc_home:0 "Ik zou dit vaker moeten doen, dit is tenslotte mijn thuis."

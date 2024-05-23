@@ -441,7 +441,7 @@
 
  ENABLED_MODS:0 "Mods aangezet:"
  RALLY_POINT_NAME:0 "Verzamelplaats in [PROVINCE.GetNameNoTooltip]"
- CONFIRM:0 "Confirmeren"
+ CONFIRM:0 "Confirmeer"
  friends:0 "Vrienden"
  friend_plural:0 "Vrienden"
  friends_desc:0 "Vriendschappen zijn voor Eeuwig."
