@@ -1,27 +1,27 @@
 ﻿l_english:
 
  GOVERNMENT_HAS_FLAG_TRIGGER:1 "$FLAG$"
- GOVERNMENT_HAS_FLAG_TRIGGER_FIRST:0 "Your $FLAG$"
+ GOVERNMENT_HAS_FLAG_TRIGGER_FIRST:0 "Jouw $FLAG$"
  GOVERNMENT_HAS_FLAG_TRIGGER_THIRD:0 "[CHARACTER.GetShortUINamePossessive|U] $FLAG$"
 
- NOT_GOVERNMENT_HAS_FLAG_TRIGGER:0 "Requires that $FLAG$"
- NOT_GOVERNMENT_HAS_FLAG_TRIGGER_FIRST:0 "Requires that your $FLAG$"
- NOT_GOVERNMENT_HAS_FLAG_TRIGGER_THIRD:0 "Requires that [CHARACTER.GetShortUINamePossessive] $FLAG$"
+ NOT_GOVERNMENT_HAS_FLAG_TRIGGER:0 "Vereist die $FLAG$"
+ NOT_GOVERNMENT_HAS_FLAG_TRIGGER_FIRST:0 "Vereist dat jouw $FLAG$"
+ NOT_GOVERNMENT_HAS_FLAG_TRIGGER_THIRD:0 "Vereist dat [CHARACTER.GetShortUINamePossessive] $FLAG$"
 
- GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E] allows: $RULE|V$"
- THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|VU] [government|E] allows: $RULE|V$"
+ GOVERNMENT_ALLOWS_TRIGGER:0 "[government|E] staat toe: $RULE|V$"
+ THEIR_GOVERNMENT_ALLOWS_TRIGGER:0 "[CHARACTER.GetShortUINamePossessive|VU] [government|E] staat toe: $RULE|V$"
 
- GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] disallows: $RULE|V$"
+ GOVERNMENT_DISALLOWS_TRIGGER:0 "[government|E] staat niet toe: $RULE|V$"
 
- HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Has a $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Does #bold not#! have a $GOVERNMENT|V$ government"
- HAS_GOVERNMENT_TRIGGER_FIRST:0 "You have a $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "You do #bold not#! have $GOVERNMENT|V$ government"
- HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] has $GOVERNMENT|V$ government"
- NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] does #bold not#! have a $GOVERNMENT|V$ government"
+ HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Heeft een $GOVERNMENT|V$ overheid"
+ NOT_HAS_GOVERNMENT_TRIGGER_GLOBAL:0 "Heeft #bold niet#! een $GOVERNMENT|V$ overheid"
+ HAS_GOVERNMENT_TRIGGER_FIRST:0 "Je hebt een $GOVERNMENT|V$ overheid"
+ NOT_HAS_GOVERNMENT_TRIGGER_FIRST:0 "Je hebt #bold niet#! een $GOVERNMENT|V$ overheid"
+ HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] heeft $GOVERNMENT|V$ overheid"
+ NOT_HAS_GOVERNMENT_TRIGGER_THIRD:0 "[CHARACTER.GetShortUIName|V] heeft #bold niet#! een $GOVERNMENT|V$ overheid"
 
- HAS_SAME_GOVERNMENT_TRIGGER:0 "Has the same government as [TARGET_CHARACTER.GetShortUIName]"
+ HAS_SAME_GOVERNMENT_TRIGGER:0 "Heeft dezelfde regering als [TARGET_CHARACTER.GetShortUIName]"
 
- MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Doctrine"
- MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] does not have the [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Doctrine or the [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Doctrine"
- has_law_allowing_succession_law_change:0 "Has at least [high|E] [crown_authority|E] or [limited_tribal|E] [tribal_authority|E]"
+ MUST_HAVE_MALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] heeft niet de [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Geloofsleer of de [GetFaithDoctrine('doctrine_gender_male_dominated').GetBaseName] Geloofsleer"
+ MUST_HAVE_FEMALE_DOMINATED_OR_EQUAL:0 "[CHARACTER.GetFaith.GetName] heeft niet de [GetFaithDoctrine('doctrine_gender_equal').GetBaseName] Geloofsleer of de [GetFaithDoctrine('doctrine_gender_female_dominated').GetBaseName] Geloofsleer"
+ has_law_allowing_succession_law_change:0 "Heeft minstens [high|E] [crown_authority|E] of [limited_tribal|E] [tribal_authority|E]"
