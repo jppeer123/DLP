@@ -293,8 +293,8 @@ l_english:
  I_AM_IN_ACTIVITY_TRIGGER:1 "Je bent al bezig met [activity|E]"
  THEY_ARE_IN_ACTIVITY_TRIGGER:0 "[CHARACTER.GetShortUIName|V] is al bezig met [activity|E]"
 
- THEY_HAVE_CHARACTER_FLAG_TRIGGER:1 "[CHARACTER.GetShortUIName|VU] [Select_CString( CHARACTER.IsLocalPlayer, 'have', 'has' )] de $FLAG|V$ vlag"
- NOT_THEY_HAVE_CHARACTER_FLAG_TRIGGER:1 "[CHARACTER.GetShortUIName|VU] heeft #bold niet#! [Select_CString( CHARACTER.IsLocalPlayer, 'have', 'has' )] de $FLAG|V$ vlag"
+ THEY_HAVE_CHARACTER_FLAG_TRIGGER:1 "[CHARACTER.GetShortUIName|VU] [Select_CString( CHARACTER.IsLocalPlayer, 'hebben', 'heeft' )] de $FLAG|V$ vlag"
+ NOT_THEY_HAVE_CHARACTER_FLAG_TRIGGER:1 "[CHARACTER.GetShortUIName|VU] heeft #bold niet#! [Select_CString( CHARACTER.IsLocalPlayer, 'hebben', 'heeft' )] de $FLAG|V$ vlag"
 
  I_HAVE_A_HOOK_ON:1 "Je hebt een [hook|E] op [TARGET_CHARACTER.GetShortUIName]"
  I_DO_NOT_HAVE_A_HOOK_ON:1 "Je hebt #bold geen#! [hook|E] op [TARGET_CHARACTER.GetShortUIName]"
@@ -937,7 +937,7 @@ l_english:
 
  HAS_ROYAL_COURT:0 "Heeft een Koninklijk Hof"
  NOT_HAS_ROYAL_COURT:0 "Heeft geen Koninklijk Hof"
- YOU_THEY_HAS_ROYAL_COURT:1 "[CHARACTER.GetShortUIName|U] [CHARACTER.LocalPlayerString('have', 'has')] een Koninklijk Hof"
+ YOU_THEY_HAS_ROYAL_COURT:1 "[CHARACTER.GetShortUIName|U] [CHARACTER.LocalPlayerString('hebben', 'heeft')] een Koninklijk Hof"
  NOT_YOU_THEY_HAS_ROYAL_COURT:0 "[CHARACTER.GetShortUIName|U] geen Koninklijk Hof"
  ENGAGED_IN_SINGLE_COMBAT:0 "Je bevindt je momenteel in een [single_combat_duel|E]"
  HAS_PENDING_COURT_EVENTS_FIRST:0 "Je hebt openstaande [court_events|E]"
@@ -994,10 +994,10 @@ l_english:
  IS_RIGHTFUL_LIEGE_OF_GLOBAL: "Is de [rightful_liege|E] van [TARGET_CHARACTER.GetShortUIName]"
  NOT_IS_RIGHTFUL_LIEGE_OF_GLOBAL: "Is #bold niet#! de [rightful_liege|E] van [TARGET_CHARACTER.GetShortUIName]"
 
- WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] mijn [preferred_heir|E]"
- NOT_WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold niet#! mijn [preferred_heir|E]"
- WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
- NOT_WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold niet#! [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
- WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] [CHARACTER.GetHerHis] [preferred_heir|E]"
- NOT_WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'were', 'was' )] #bold niet#! [CHARACTER.GetHerHis] [preferred_heir|E]"
+ WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] mijn [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_FIRST: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] #bold niet#! mijn [preferred_heir|E]"
+ WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_THIRD: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] #bold niet#! [CHARACTER.GetShortUINamePossessive] [preferred_heir|E]"
+ WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] [CHARACTER.GetHerHis] [preferred_heir|E]"
+ NOT_WAS_PREFERRED_HEIR_GLOBAL: "[TARGET_CHARACTER.GetShortUIName|U] [TARGET_CHARACTER.LocalPlayerString( 'waren', 'was' )] #bold niet#! [CHARACTER.GetHerHis] [preferred_heir|E]"
 
