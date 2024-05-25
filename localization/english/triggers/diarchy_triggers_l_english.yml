@@ -38,15 +38,15 @@ l_english:
  THEY_CAUSED_STRIFE:0 "[CHARACTER.GetShortUIName] veroorzaakte $COMPARATOR$ $NUM|0$ [strife|E]"
  NOT_THEY_CAUSED_STRIFE:0 "[CHARACTER.GetShortUIName] veroorzaakte #bold niet#! $COMPARATOR$ $NUM|0$ [strife|E]"
 
- I_SPENT_YEARS_IN_DIARCHY:0 "Ik heb $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] [sharing_power|E] doorgemaakt"
- NOT_I_SPENT_YEARS_IN_DIARCHY:0 "Ik heb #bold niet#! $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] [sharing_power|E] doorgemaakt"
- THEY_SPENT_YEARS_IN_DIARCHY:0 "[CHARACTER.GetShortUIName] heeft $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] [sharing_power|E] doorgemaakt"
- NOT_THEY_SPENT_YEARS_IN_DIARCHY:0 "[CHARACTER.GetShortUIName] heeft #bold niet#! spent $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] [sharing_power|E] doorgemaakt"
+ I_SPENT_YEARS_IN_DIARCHY:0 "Ik heb $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] [sharing_power|E] doorgemaakt"
+ NOT_I_SPENT_YEARS_IN_DIARCHY:0 "Ik heb #bold niet#! $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] [sharing_power|E] doorgemaakt"
+ THEY_SPENT_YEARS_IN_DIARCHY:0 "[CHARACTER.GetShortUIName] heeft $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] [sharing_power|E] doorgemaakt"
+ NOT_THEY_SPENT_YEARS_IN_DIARCHY:0 "[CHARACTER.GetShortUIName] heeft #bold niet#! spent $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] [sharing_power|E] doorgemaakt"
 
- I_SPENT_YEARS_AS_DIARCH:0 "Ik heb $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
- NOT_I_SPENT_YEARS_AS_DIARCH:0 "Ik heb #bold niet#! $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
- THEY_SPENT_YEARS_AS_DIARCH:0 "[CHARACTER.GetShortUIName] hebben $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
- NOT_THEY_SPENT_YEARS_AS_DIARCH:0 "[CHARACTER.GetShortUIName] heeft #bold niet#! spent $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'year', 'years' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
+ I_SPENT_YEARS_AS_DIARCH:0 "Ik heb $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
+ NOT_I_SPENT_YEARS_AS_DIARCH:0 "Ik heb #bold niet#! $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
+ THEY_SPENT_YEARS_AS_DIARCH:0 "[CHARACTER.GetShortUIName] hebben $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
+ NOT_THEY_SPENT_YEARS_AS_DIARCH:0 "[CHARACTER.GetShortUIName] heeft #bold niet#! spent $COMPARATOR$ $NUM|0$ [SelectLocalization( EqualTo_int32( '(int32)$NUM|0$', '(int32)1' ), 'jaar', 'jaren' )] als een [CHARACTER.GetLiege.GetDiarchTitle] doorgemaakt"
 
  I_HAVE_ACTIVE_MANDATE:0 "Ik heb een [mandate|E] voor [SelectLocalization( StringIsEmpty( '$MANDATE_TYPE$' ), '', ' $MANDATE_TYPE$' )]"
  NOT_I_HAVE_ACTIVE_MANDATE:0 "Ik heb #bold geen#! [mandate|E] voor [SelectLocalization( StringIsEmpty( '$MANDATE_TYPE$' ), '', ' $MANDATE_TYPE$' )]"
