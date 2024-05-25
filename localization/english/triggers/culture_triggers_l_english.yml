@@ -72,5 +72,5 @@ l_english:
 
  NUM_DISCOVERED_INNOVATIONS_IN_ERA_TRIGGER: "Het [CULTURE.GetName|U] [culture_possessive|E] aantal ontdekte [innovations|E] #weak ($CURRENT_VALUE|0$)#! in de $ERA$ [era|E] is $COMPARATOR$ $NUM|V0$"
 
- HAS_SAME_CULTURAL_HERITAGE: "Je deelt dezelfde [Concept('culture','cultural')|E] [heritage|E]"
- HAS_SAME_CULTURAL_HERITAGE_NOT: "Je deelt niet dezelfde [Concept('culture','cultural')|E] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE: "Je deelt dezelfde [Concept('cultuur','culturele')|E] [heritage|E]"
+ HAS_SAME_CULTURAL_HERITAGE_NOT: "Je deelt niet dezelfde [Concept('cultuur','culturele')|E] [heritage|E]"
