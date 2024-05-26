@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  IS_AT_WAR_WITH_TRIGGER:0 "Is in [war|E] met [TARGET_CHARACTER.GetShortUIName|V]"
  NOT_IS_AT_WAR_WITH_TRIGGER:0 "Is #bold niet#! in [war|E] met [TARGET_CHARACTER.GetShortUIName|V]"
