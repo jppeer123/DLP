@@ -1,7 +1,7 @@
 ﻿l_english:
  castle_holding:0 "Kasteel"
  city_holding:0 "City"
- church_holding:1 "Temple"
+ church_holding:1 "Tempel"
  tribal_holding:0 "Tribe"
  
  city_holding_concept_key:0 "[city|E]"
@@ -59,5 +59,5 @@
  HOLDING_TT_SUPPLY_TT:0 "#T [supply_limit|E]: [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]\n#![Holding.GetProvince.GetSupplyLimitDescFor( GetPlayer )]"
  HOLDING_TT_SUPPLY:0 "[supply_limit|E]: #tooltip:HOLDING_TT_SUPPLY_TT [Holding.GetProvince.GetSupplyLimitFor( GetPlayer )]#!"
  HOLDING_TT_EMPTY:0 "No Holding\nControlled by: [Holding.GetProvince.GetTitle.GetDeJureLiege.GetHolder.GetUIName]"
- HOLDING_CLICK_TOOLTIP:0 "#I Click to select#!"
+ HOLDING_CLICK_TOOLTIP:0 "#I Klik om te selecteren#!"
  
