@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  RECENT_HISTORY_TRIGGER:1 "Is $HISTORY|V$ recent (within $DURATION$)"
  NOT_RECENT_HISTORY_TRIGGER:1 "Is #bold niet#! $HISTORY|V$ recent (within $DURATION$)"

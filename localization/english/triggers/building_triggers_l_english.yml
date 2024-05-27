@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  HAS_BULDING_TRIGGER:0 "[PROVINCE.GetName] heeft een $BUILDING|V$ [building|E]"
 

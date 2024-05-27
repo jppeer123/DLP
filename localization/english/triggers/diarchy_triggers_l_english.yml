@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
 
  MY_HAS_DIARCHY_PARAMETER:0 "Mijn [diarchy|E] systeem staat dit toe"
  NOT_MY_HAS_DIARCHY_PARAMETER:0 "Mijn [diarchy|E] systeem staat dit #bold niet#! toe"
