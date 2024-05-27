@@ -47,8 +47,8 @@
  duke_feudal_male:0 "Hertog"
  duke_feudal_female:0 "Hertogin"
  duchy_feudal:0 "Hertogdom"
- duke_feudal_independent:0 "Krijgsheer-Koning"
- duke_feudal_independent_female:0 "Krijgsheer-Koningin"
+ duke_feudal_independent:0 "Klein-Koning"
+ duke_feudal_independent_female:0 "Klein-Koningin"
  duchy_feudal_independent:0 "Klein Koninkrijk"
  king_feudal_male:0 "Koning"
  king_feudal_female:0 "Koningin"
@@ -560,7 +560,7 @@
  
  count_republic_male_anglo_saxon:0 "Sheriff"
  count_republic_female_anglo_saxon:0 "Sheriff"
- county_republic_anglo_saxon:0 "Shire"
+ county_republic_anglo_saxon:0 "Gouw"
 
 ### Irish ###
 
@@ -586,22 +586,22 @@
 # Feudal/Tribal
  duke_feudal_male_prince_independent:0 "Prins"
  duke_feudal_female_prince_independent:0 "Prinses"
- duchy_feudal_prince_independent:0 "Principality"
+ duchy_feudal_prince_independent:0 "Vorstendom"
  duke_feudal_male_prince_always:0 "$duke_feudal_male_prince_independent$"
  duke_feudal_female_prince_always:0 "$duke_feudal_female_prince_independent$"
  duchy_feudal_prince_always:0 "$duchy_feudal_prince_independent$"
 
 ### Verheven Principalities ###
 # Feudal
- king_feudal_male_Verheven_prince_independent:0 "Verheven Prins"
- king_feudal_female_Verheven_prince_independent:0 "Verheven Prinses"
- kingdom_feudal_Verheven_prince_independent:0 "Verheven Principality"
+ king_feudal_male_enlightened_prince_independent:0 "Verheven Prins"
+ king_feudal_female_enlightened_prince_independent:0 "Verheven Prinses"
+ kingdom_feudal_enlightened_prince_independent:0 "Verheven Vorstendom"
 
 ### Verheven Duchies ###
 # Feudal
- king_feudal_male_Verheven_duke_independent:0 "Verheven Duke"
- king_feudal_female_Verheven_duke_independent:0 "Verheven Duchess"
- kingdom_feudal_Verheven_duke_independent:0 "Verheven Duchy"
+ king_feudal_male_enlightened_duke_independent:0 "Verheven Hertog"
+ king_feudal_female_enlightened_duke_independent:0 "Verheven Hertogin"
+ kingdom_feudal_enlightened_duke_independent:0 "Verheven Hertogdom"
 
 ### Taifas ###
 # Feudal / Clan
@@ -613,7 +613,7 @@
 # Feudal
  duke_feudal_male_lombard_independent:0 "Prins"
  duke_feudal_female_lombard_independent:0 "Prinses"
- duchy_feudal_lombard_independent:0 "Principality"
+ duchy_feudal_lombard_independent:0 "Vorstendom"
 
 ### Banates ###
 # Feudal
@@ -637,7 +637,7 @@
 # Feudal 
  duke_feudal_male_russian:0 "Verheven Prins"
  duke_feudal_female_russian:0 "Verheven Prinses"
- duchy_feudal_russian:0 "Verheven Principality"
+ duchy_feudal_russian:0 "Verheven Vorstendom"
  emperor_feudal_male_russian:0 "Tsar"
  emperor_feudal_female_russian:0 "Tsaritsa"
  empire_feudal_russian:0 "Tsardom"
@@ -912,26 +912,26 @@
 
 ####################################################
 #Special titles
- ecumenical_patriarch:0 "Ecumenical Patriarch"
- ecumenical_matriarch:0 "Ecumenical Matriarch"
+ ecumenical_patriarch:0 "Oecumenisch Patriarch"
+ ecumenical_matriarch:0 "Oecumenisch Matriarch"
  caliph:0 "Caliph"
- archduke:0 "Archduke"
- archduchess:0 "Archduchess"
- archduchy:0 "Archduchy"
+ archduke:0 "Aartshertog"
+ archduchess:0 "Aartshertogin"
+ archduchy:0 "Aartshertogdom"
  title_prince:0 "Prins"
  title_princess:0 "Prinses"
- title_principality:0 "Principality"
- swiss_confederation:0 "Confederation"
- title_high_king:0 "Hoge King"
- title_high_queen:0 "Hoge Queen"
- title_high_kingdom:0 "Hoge Kingdom"
+ title_principality:0 "Vorstendom"
+ swiss_confederation:0 "Confederatie"
+ title_high_king:0 "Hoge Koning"
+ title_high_queen:0 "Hoge Koningin"
+ title_high_kingdom:0 "Hoogkoninkrijk"
  count_feudal_male_e_britannia:0 "Earl"
  count_feudal_female_e_britannia:0 "Countess"
  county_feudal_e_britannia:0 "Earldom"
- count_feudal_male_k_wales:0 "Lord"
- count_feudal_female_k_wales:0 "Lady"
- county_feudal_k_wales:0 "Lordship"
- county_isle:0 "Isle"
+ count_feudal_male_k_wales:0 "Heer"
+ count_feudal_female_k_wales:0 "Vrouwe"
+ county_feudal_k_wales:0 "Lordschap"
+ county_isle:0 "Eiland"
  duke_feudal_brittany:0 "$duke$"
  duke_feudal_brittany_female:0 "$duke_female$"
  duchy_feudal_brittany:0 "$duchy$"
@@ -940,9 +940,9 @@
  dauphin_female_french:0 "Dauphine"
  dauphinate_french:0 "Dauphinate"
 
- king_feudal_male_k_ireland_irish:0 "Hoge King"
- king_feudal_female_k_ireland_irish:0 "Hoge Queen"
- kingdom_feudal_k_ireland_irish:0 "Hoge Kingdom"
+ king_feudal_male_k_ireland_irish:0 "Hoge Koning"
+ king_feudal_female_k_ireland_irish:0 "Hoge Koningin"
+ kingdom_feudal_k_ireland_irish:0 "Hoogkoninkrijk"
  realm_priest_male:0 "[CHARACTER.GetCouncilTitle]"
  realm_priest_female:0 "[CHARACTER.GetCouncilTitle]"
  head_of_faith_male:0 "[CHARACTER.GetFaith.ReligiousHeadName|U]"
