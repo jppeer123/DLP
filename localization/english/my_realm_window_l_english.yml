@@ -69,7 +69,7 @@ MY_REALM_WINDOW_VASSAL_FEUDAL_LEVIES: "$NON_FEUDAL_VASSAL_CONTRACT_OBLIGATIONS_T
  VASSAL_CONTRACT_OBLIGATION_PREVIEW_TOOLTIP_CURRENT:0 "#weak Current Obligation Level#!"
  VASSAL_CONTRACT_LIEGE_IS_NOT_RIGHTFUL_LIEGE_NOTICE:0 "[VassalContract.GetLiege.GetNameOrMe|U] [SelectLocalization( VassalContract.GetLiege.IsPlayer, 'zijn', 'is' )] niet [SelectLocalization( VassalContract.GetVassal.IsPlayer, 'jouw', 'deze vazal\\'s' )] [rightful_liege|E]"
  VASSAL_CONTRIBUTION_NON_RIGHTFUL_LIEGE:0 "Niet de [rightful_liege|E]"
- VASSAL_CONTRIBUTION_AT_WAR_WITH_LIEGE:0 "At [war|E] with [liege|E]"
+ VASSAL_CONTRIBUTION_AT_WAR_WITH_LIEGE:0 "In [war|E] met [liege|E]"
 
  MRW_YOUR_PLAYER_HEIR:1 "Als je overlijdt speel je door als jouw [player_heir|E]"
  MRW_HEIR_PREFERRED:1 "[Concept('vassal_stance','Preferred')|E] door: [MyRealmWindow.GetCharacter.GetVassalStancesThatPrefer( Character.Self )]"
