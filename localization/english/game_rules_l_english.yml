@@ -32,8 +32,8 @@ l_english:
  ACHIEVEMENTS_DEBUG_MODE_WARNING:0 "@warning_icon! #X Debug-modus is momenteel actief - alle consoleopdrachten of debug-acties zullen de prestaties voor het spelen uitschakelen#!"
 
  GAME_RULES_PRESET_DROPDOWN_NO_SELECTED_BODY:0 "Je hebt geen voorinstellingen opgeslagen"
- GAME_RULES_PRESET_DROPDOWN_NO_SELECTED:0 "Selecteer een opgeslagen voorinstelling"
- SAVE_PRESET_HEADER:0 "Voorkeursinstelling opslaan"
+ GAME_RULES_PRESET_DROPDOWN_NO_SELECTED:0 "Kies een voorinstelling"
+ SAVE_PRESET_HEADER:0 "Voorinstelling opslaan"
 
  SAVE_PRESET_SAVE_AS_LABEL:0 "Voorinstelling opslaan als:"
  DELETE_SELECTED_PRESET_BUTTON_TOOLTIP:0 "Verwijder geselecteerde voorinstelling"
