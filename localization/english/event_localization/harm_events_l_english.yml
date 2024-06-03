@@ -2,23 +2,23 @@
 
  ##################################################
  # #Misc Keys
- aging_gracefully_modifier:0 "Aging Gracefully"
- aging_gracefully_modifier_desc:0 "This character is starting to decline, but the march of time seems to wear a little less heavily on them than on most."
+ aging_gracefully_modifier:0 "Sierlijk ouder worden"
+ aging_gracefully_modifier_desc:0 "Dit personage begint af te takelen, maar de tijd lijkt hem iets minder zwaar te vallen dan de meeste anderen."
 
- thick_skulled_modifier:0 "Thick Skulled"
- thick_skulled_modifier_desc:0 "This character's head can, apparently, really take a beating."
+ thick_skulled_modifier:0 "Koppig"
+ thick_skulled_modifier_desc:0 "Het hoofd van dit personage kan blijkbaar tegen een stootje."
 
- strong_willed_modifier:0 "Strong Willed"
- strong_willed_modifier_desc:0 "This character is used to fighting through even the most intense pain."
+ strong_willed_modifier:0 "Wilskrachtig"
+ strong_willed_modifier_desc:0 "Dit personage is gewend om zelfs de meest intense pijn te doorstaan."
 
- harm.0000.tt.spared_for_now:0 "You are spared. For now."
- harm.0000.tt.no_permanent_damage:0 "You suffer no permanent damage."
+ harm.0000.tt.spared_for_now:0 "Je bent gespaard. Voor nu."
+ harm.0000.tt.no_permanent_damage:0 "Je lijdt geen blijvende schade."
 
  harm.0000.tt.physician:0 "#EMP [ROOT.Char.Custom('GetRandomCourtMedic')|U]! [medic.GetFirstNameNoTooltip]!#!"
- harm.0000.tt.incapable.success:0 "You aren't permanently hurt"
- harm.0000.tt.incapable.failure:0 "The experience leaves you feeble"
- harm.0000.tt.death.success:0 "You survive"
- harm.0000.tt.death.failure:0 "You perish"
+ harm.0000.tt.incapable.success:0 "Je bent niet blijvend gewond"
+ harm.0000.tt.incapable.failure:0 "De ervaring maakt je zwak"
+ harm.0000.tt.death.success:0 "Je overleeft"
+ harm.0000.tt.death.failure:0 "Je gaat ten onder"
 
 
 
