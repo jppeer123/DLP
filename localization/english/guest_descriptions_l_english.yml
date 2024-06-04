@@ -1,7 +1,7 @@
 ﻿l_english:
- guest_description.outstanding_skill.desc:0 "An outstanding"
- guest_description.experienced_skill.desc:0 "An experienced"
- guest_description.competent_skill.desc:0 "Een competent"
+ guest_description.outstanding_skill.desc:0 "Een geweldige"
+ guest_description.experienced_skill.desc:0 "Een ervaren"
+ guest_description.competent_skill.desc:0 "Een competente"
  guest_description.prowess.desc:0 "Fighter (#V [ROOT.Char.GetSkill( 'prowess' )]#! [prowess|E])"
  guest_description.martial_start.desc:0 "Bevelhebber"
  guest_description.martial_3_commander_traits.desc:0 "(#V [ROOT.Char.GetSkill( 'martial' )]#! [martial|E], #V 3#! [commander_traits|E])"
