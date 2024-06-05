@@ -4,7 +4,7 @@
  INVALID_ACTIVITY_HOST_INTENT:0 "@warning_icon! #X Ongeldig [intent|E]#!"
  INVALID_ACTIVITY_HOST_INTENT_NO_TARGET:0 "@warning_icon! #X [intent|E] vereist een doelwit.#!"
  INVALID_ACTIVITY_HOST_INTENT_INVALID_TARGET:0 "@warning_icon! #X Ongeldig [intent|E] doelwit.#!"
- INVALID_ACTIVITY_NO_PLANNED_PHASES:0 "@warning_icon! #X Geen geplannede [activity_phases|E]#!"
+ INVALID_ACTIVITY_NO_PLANNED_PHASES:0 "@warning_icon! #X Geen geplande [activity_phases|E]#!"
  INVALID_ACTIVITY_PHASE_WITHOUT_TYPE:0 "@warning_icon! #X Een van de [activity_phases|E] mist een fase type#!"
  INVALID_ACTIVITY_PHASE_WITHOUT_LOCATION:0 "@warning_icon! #X Geen locatie gekozen voor een van de [activity_phases|E]#!"
  INVALID_ACTIVITY_HOST_ALREADY_IN_ACTIVITY:1 "@warning_icon! #X [CHARACTER.GetUIName|U] is al betrokken in een [activity|E]#!"
