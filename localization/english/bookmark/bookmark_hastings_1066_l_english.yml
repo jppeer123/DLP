@@ -1,33 +1,33 @@
-﻿l_english:
+l_english:
  bm_1066_hastings:0 "Het Lot van Engeland"
- bm_1066_hastings_desc:2 "Toen de kindloze Koning Eduard de Belijder overleed, viel Engeland in een opvolgingscrisis die zijn weerga niet kende.\n\nDrie man streden om de troon: Harold Godwinson, Willem de Bastaard en Harald Hardrade; terwijl Svend en Malcolm bijstonden, klaar om tot het conflict toe te treden als enkele tekens van zwakte te vinden waren.\n\n#bold Wie zal zegevieren na deze onstuimige tijd in de geschiedenis?#!"
+ bm_1066_hastings_desc:2 "Toen de kinderloze koning Edward de Belijder stierf, stortte zijn dood Engeland in een ongekende opvolgingscrisis.\n\nDrie mannen probeerden de troon veilig te stellen: Harald Godwinson, Willem de Bastaard en Harald de Harde, terwijl Sven en Malcolm klaar stonden om bij het minste teken van zwakte toe te slaan.\n\n#bold Wie zal als winnaar tevoorschijn komen in deze turbulente tijden?#!"
 
- bookmark_hastings_england:0 "Koning Harold of England"
- bookmark_hastings_england_desc:2 "Harold Godwinson was the leader of a powerful noble house, and the brother-in-law of the King, when the childless King Edward died. Now, elected the new King of England by his peers, he is faced with the challenge of holding onto the throne, as the covetous Duke of Normandy, as well as King Harald of Norway, spurred on and aided by Harold's exiled brother, seek to replace him!\n\n#bold With a large army at your back and the support of the Anglo-Saxon lords — will the wolves find that they have bitten off more than they can chew?#!"
+ bookmark_hastings_england:0 "Koning Harold van Engeland"
+ bookmark_hastings_england_desc:2 "Harold Godwinson was de leider van een machtig adellijk huis en de zwager van de koning toen de kinderloze koning Edward stierf. Nu hij door zijn gelijken tot de nieuwe koning van Engeland is gekozen, wordt hij geconfronteerd met de uitdaging om de troon te behouden, omdat de hebzuchtige hertog van Normandië en koning Harald van Noorwegen, aangespoord en geholpen door Harolds verbannen broer, proberen hem te vervangen!\n\n#bold Met een groot leger in de rug en de steun van de Angelsaksische heren - zullen de wolven merken dat ze meer hebben afgebeten dan ze kunnen kauwen?#!"
 
  bookmark_hastings_england_alt_tostig:0 "$Tostig$"
  bookmark_hastings_england_alt_eadgifu:0 "$Eadgifu$ $nick_the_fair$"
 
  bookmark_hastings_normandy:0 "Willem de Bastaard"
- bookmark_hastings_normandy_desc:1 "The House of Normandy trace their lineage back to Norse vikings, and established themselves on the mainland of Europe over 200 years ago. Now, William II dreams of leading his family to rule the Kingdom of England, and he believes his status as successor to the throne was promised by the late King Edward, and even recognized by Harold Godwinson himself. However, now that Edward is gone, Harold has broken his oath and taken the crown for himself!\n\n#bold William is at war with England. Can you muster your forces and claim what is rightfully yours?#!"
+ bookmark_hastings_normandy_desc:1 "Het Huis van Normandië gaat terug tot de Vikingen en vestigde zich meer dan 200 jaar geleden op het vasteland van Europa. Willem II droomt ervan om zijn familie te leiden en het Koninkrijk Engeland te regeren. Hij gelooft dat zijn status als troonopvolger hem is beloofd door wijlen koning Edward en zelfs wordt erkend door Harald Godwinson zelf. Maar nu Edward er niet meer is, heeft Harold zijn eed gebroken en de kroon voor zichzelf opgeëist!\n\n#bold William is at war with England. Kun jij je krachten bundelen en opeisen wat rechtmatig van jou is?#!"
 
  bookmark_hastings_normandy_alt_robert:0 "$Robert$ $nick_the_curthose$"
  bookmark_hastings_normandy_alt_william:0 "$William$ $nick_the_red$"
 
- bookmark_hastings_norway:0 "Harald Hardrade"
- bookmark_hastings_norway_desc:1 "Having displayed formidable military talent since youth, Harald has recently tried, and failed, to conquer Denmark. Now, he looks beyond the sea — by ancient contract, the crown of England should have passed to Harald, when the last King died without an heir. But, instead, the Anglo-Saxons have put Harold Godwinson on the throne! Luckily, the false King has made enemies, and Tostig Godwinson, Harold's own brother, lives in exile in Norway...\n\n#bold By using his own enemies against him, can you give this Varangian viking control over the North Sea?#!"
+ bookmark_hastings_norway:0 "Harald de Harde"
+ bookmark_hastings_norway_desc:1 "Harald, die al sinds zijn jeugd een formidabel militair talent heeft, heeft onlangs geprobeerd Denemarken te veroveren, maar is daar niet in geslaagd. Nu kijkt hij verder dan de zee — volgens een oud verdrag had de kroon van Engeland op Harald moeten overgaan toen de laatste koning zonder erfgenaam stierf. Maar in plaats daarvan hebben de Angelsaksen Harold Godwinson op de troon gezet! Gelukkig heeft de nep-koning vijanden gemaakt, en Tostig Godwinson, Harold's eigen broer, leeft in ballingschap in Noorwegen...\n\n#bold Kun jij Haralds vijanden tegen hem gebruiken en ervoor zorgen dat deze Varangiër de controle over de Noordzee krijgt#!"
  
  bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
  bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
 
  bookmark_hastings_denmark:0 "Koning Svend van Denemarken"
- bookmark_hastings_denmark_desc:1 "With blood ties to England and Norway, Svend has strong claims to both thrones. Unfortunately, his armies are small and undisciplined, making a war of conquest unfeasible. However, there are other ways to pursue one's dreams...\n\n#bold If your children were to be married into powerful families, it could grant many useful alliances — alliances you could leverage to found an empire that would rival Rome itself!#!"
+ bookmark_hastings_denmark_desc:1 "Met zijn bloedbanden met Engeland en Noorwegen maakt Svend aanspraak op beide tronen. Helaas zijn zijn legers klein en ongedisciplineerd, waardoor een veroveringsoorlog niet haalbaar is. Er zijn echter andere manieren om je dromen na te jagen...\n\n#bold Als je kinderen zouden trouwen met machtige families, zou dat veel nuttige allianties kunnen opleveren - allianties die je zou kunnen gebruiken om een rijk te stichten dat met Rome zou kunnen wedijveren!#!"
 
  bookmark_hastings_denmark_alt_harald:0 "$Harald$ $nick_the_whetstone$"
  bookmark_hastings_denmark_alt_knud:0 "$Knud$"
 
  bookmark_hastings_scotland:0 "Koning Malcolm van Schotland"
- bookmark_hastings_scotland_desc:1 "Known to Scotland as the "Great Chief", Malcolm III's situation is tenuous, but full of opportunity. To the south, the rich lands of Northumbria lie vulnerable as England is torn apart by war, but Norse warlords and Gaelic highlanders yet contest the king's rule at home.\n\n#bold The British Isles teem with dangers and opportunities: can you pluck a rose from this garden of thorns?#!"
+ bookmark_hastings_scotland_desc:1 "De positie van Malcolm III, in Schotland bekend als 'de Grote Hoofdman', is precair, maar niettemin vol kansen. De rijke landen van Northumbria in het zuiden zijn kwetsbaar nu Engeland verdeeld is door oorlog, maar Noorse krijgsheren en Gaelische hooglanders betwisten de heerschappij van de koning in eigen land.\n\n#bold De Britse eilanden wemelen van de gevaren en kansen: kun jij een roos plukken uit deze tuin vol doornen?#!"
 
  bookmark_hastings_scotland_alt_duncan:0 "$Duncan$"
  bookmark_hastings_scotland_alt_donald:0 "$Donald$ $nick_the_fair$"
@@ -38,7 +38,7 @@
  war_1066_Sinhalese_Rebellion:0 "Sinhalese Opstand"
 
  debug_bm_1340_history:0 "#D History Debug: 1340#!"
- debug_bm_1340_history_desc:0 "Run this to debug history files up until 1340"
+ debug_bm_1340_history_desc:0 "Voer dit uit om geschiedenisbestanden tot 1340 te debuggen"
 
  ### CHARACTERS
 
@@ -48,4 +48,4 @@
  EADGIFU:0 "Eadgifu de Schone"
  BASTARD_WILLIAM:0 "Willem de Bastaard"
  KING_SVEND:0 "Koning Svend"
- KING_HARALD:0 "Harald Hardrade"
+ KING_HARALD:0 "Harald de Harde"
