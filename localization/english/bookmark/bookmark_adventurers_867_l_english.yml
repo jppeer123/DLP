@@ -1,24 +1,24 @@
-﻿l_english:
+l_english:
  bm_867_adventurers:0 "De Grote Reizigers"
- bm_867_adventurers_desc:0 "Elke dynastie komt van nederige beginselen. De route naar de macht ligt vol gevaren en is een lang proces. Generatie-na-generatie werkt een stapje de ladder op door eindeloze oorlogen en goed geplannede huwelijken.\n\n#bold Maar dit zijn tijden van grote verandering en onrust. Met veel moed, en misschien een beetje geluk, kan een held hun familie naam doen weerklinken in de geschiedenisboeken, van obscuurheid tot legende. Ben je klaar voor de uitdaging?#!"
+ bm_867_adventurers_desc:0 "Elke dynastie heeft een bescheiden begin. De route naar de macht ligt vol gevaren en is een lang proces. Generatie-na-generatie beklimt een trede op de ladder door constante oorlogvoering en slim geplande huwelijken.\n\n#bold Maar dit zijn tijden van grote verandering en onrust. Met veel moed, en misschien een beetje geluk, kan jouw held zijn familienaam doen weerklinken in de geschiedenisboeken, van obscuurheid tot legende. Ben je klaar voor de uitdaging?#!"
 
 
  #Jarl Haesteinn
- bookmark_adventurers_jarl_haesteinn:0 "Jarl Hæsteinn"
- bookmark_adventurers_jarl_haesteinn_desc:0 "Through cunning and courage, Jarl Hæsteinn has become a rich man. After leading a lucrative raid through the Mediterranean together with Björn Ironside, Hæsteinn has settled in Brittany. The Franks have coffers ready for picking, and a mighty viking warrior makes a great ally in times of political turmoil.\n\n#bold Fortune does not come without enemies, however.  Will Hæsteinn's greed get the better of him, or will his dynasty prosper under your guidance?#!"
+ bookmark_adventurers_jarl_haesteinn:0 "Jarl Hasting"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Jarl Hasting werd een rijk man door sluwheid en moed. Nadat hij samen met Björn Eisenseite een lucratieve rooftocht door de Middellandse Zee had geleid, vestigde hij zich in Bretagne. De Franken hebben uitpuilende schatkisten en een machtige Vikingkrijger is een goede bondgenoot in politiek turbulente tijden.\n\n#bold Maar met welvaart komen ook vijanden. Zal Hasting het slachtoffer worden van zijn hebzucht of zal zijn dynastie bloeien onder jouw leiderschap?#!"
 
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
 
  #Rurik Rurikid
  bookmark_adventurers_rurik_rurikid:0 "Rurik Rurikid"
- bookmark_adventurers_rurik_rurikid_desc:0 "Few have risen from nothingness to greatness like the brave Rurik! Together with his brothers he brought order to the Eastern wilderness, and since their deaths, he is the lone ruler of a great Chiefdom. Yet, this is only the beginning.\n\n#bold One day, Rurik's descendants will found the Tsardom of Russia. Or will they? The destiny of this great dynasty rests in your hands.#!"
+ bookmark_adventurers_rurik_rurikid_desc:0 "Weinigen zijn zo groot geworden vanuit het niets als de dappere Rurik! Samen met zijn broers bracht hij orde in de wildernis van het Oosten en sinds hun dood is hij de enige heerser van een groot Opperrijk. En toch is dit nog maar het begin.\n\n#bold Op een dag zullen de nakomelingen van Rurik het Tsaardom van Rusland stichten. Of toch niet? Het lot van deze grote dynastie ligt in jouw handen.#!"
 
  bookmark_adventurers_rurik_rurikid_alt_helgi:0 "$Helgi$ $nick_the_seer$"
 
  #Eudes Capet
  bookmark_adventurers_count_eudes:0 "Graaf Eudes"
- bookmark_adventurers_count_eudes_desc:0 "In July of 866, the viking raider Hæsteinn slew Eudes' father Robert the Strong. Mere months later, his mother Adelais died giving birth to his brother Robert. The world is cruel and the future might seem uncertain, but these orphan boys are destined to sit on the French throne. Their descendants, the Capets, will rule France for centuries to come.\n\n#bold Can you navigate the treacherous politics of medieval France and fulfill the destiny of the Robertine brothers?#!"
+ bookmark_adventurers_count_eudes_desc:0 "In juli 866 doodde de Viking Hasting Eudes vader Robert de Sterke. Slechts enkele maanden later stierf zijn moeder Adelais tijdens de geboorte van zijn broer Robert. De wereld is wreed en de toekomst lijkt onzeker, maar deze weesjongens zijn voorbestemd om op de Franse troon te zitten. Hun nakomelingen, de Capets, zullen nog eeuwenlang over Frankrijk heersen.\n\n#bold Weet jij goed om te gaan met de verraderlijke politiek van middeleeuws Frankrijk en het lot van de broers Robertine vervullen?#!"
 
  bookmark_adventurers_count_eudes_alt_robert:0 "$Robert$"
  bookmark_adventurers_count_eudes_alt_robert_desc:0 "alt desc"
@@ -27,11 +27,11 @@
 
  #Almos Arpad 
  bookmark_adventurers_almos_arpad:0 "Álmos Árpád"
- bookmark_adventurers_almos_arpad_desc:0 "When the seven Hungarian tribes united to elect a supreme leader, their votes fell on brave Álmos. One day, his son Árpád will pick up the mantle — but only if the Hungarians can keep their independence. Danger looms on the Eastern horizon.\n\n#bold Can you defend the Hungarians and lead them to greatness? This is your chance to retell the adventures of the Árpád dynasty!#!"
+ bookmark_adventurers_almos_arpad_desc:0 "Toen de zeven Hongaarse stammen zich verenigden en een opperste leider kozen, viel hun keuze op de dappere Álmos. Op een dag zullen zijn zonen hem opvolgen, maar alleen als de Hongaren hun onafhankelijkheid kunnen behouden. Gevaar loert aan de oostelijke horizon.\n\n#bold Kun jij de Hongaren verdedigen en hen naar grootheid leiden? Dit is jouw kans om de avonturen van de Árpád dynastie na te vertellen!#!"
 
  #Daurama Daura
  bookmark_adventurers_daurama_daura:0 "Daurama Daura"
- bookmark_adventurers_daurama_daura_desc:0 "As the Last Magajiya of Daura, Daurama is a symbol of the old ways of the Hausa people. Her new husband, Bayajiddah (originally from Iraq), represents change, as more and more outsiders flock to Hausaland, bringing their strange faiths and cultures with them...\n\n#bold Daurama is set to go down in history as the Last Magajiva, but does she have to be?#!"
+ bookmark_adventurers_daurama_daura_desc:0 "Als de laatste Magajiya van Daura staat Daurama symbool voor de oude gebruiken van het Hausavolk. Haar nieuwe echtgenoot, Bayajiddah (oorspronkelijk uit Irak), staat voor verandering, nu steeds meer buitenstaanders naar Hausaland trekken en hun vreemde geloof en cultuur met zich meebrengen...\n\n#bold Daurama gaat de geschiedenis in als de laatste Magajiya, maar moet dat echt zo zijn?#!"
 
  bookmark_adventurers_daurama_daura_alt_bawo:0 "$Bawo$"
 
@@ -39,21 +39,21 @@
  bookmark_adventurers_almos_arpad_alt_linutika:0 "$LinU_tika$"
 
  #EVENTS
- bookmark.0101.t:0 "Wat betekent een Naam?"
- bookmark.0101.desc_intro:0 "For generations [hausaland.GetNameNoTier] has been ruled by the Magajiya, a line of matriarchal rulers of which I am the latest.\n\nOur traditions have served us well, but the world is changing. The heroic deeds of my [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] have earned him great wealth and respect... though as [bayajidda.GetSheHe] hails from distant lands, [bayajidda.GetHerHis] successes also portend great change for my people.\n\n"
- bookmark.0101.desc_living:1 "My son, [bewo.GetTitledFirstName], is the apple of his father's eye. Though a mere babe, I wonder if he will identify more with his adventuring father, or my own traditional legacy?"
- bookmark.0101.desc_dead:1 "My son, [bewo.GetTitledFirstName], was the apple of his father's eye. Though a mere babe, I wonder if he will identify more with the legend of his adventuring father, or my own traditional legacy?"
- bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] must carry the traditions of the [ROOT.Char.GetCulture.GetNameNoTooltip] into a new age."
- bookmark.0101.a.tt:1 "[bewo.GetUIName] will become your [player_heir|E]"
- bookmark.0101.b:1 "My son is my son, whatever his name or culture."
- bookmark.0101.b.tt:1 "#warning @warning_icon! This option may leave you without a [player_heir|E]!#!"
- bookmark.0101.c:0 "The Magajiya do not need men to carry on their legacy!"
+ bookmark.0101.t:0 "Wat doet een Naam ertoe?"
+ bookmark.0101.desc_intro:0 "Onze tradities hebben ons goed gediend, maar de wereld verandert. De heldendaden van mijn [ROOT.Char.Custom2('RelationToMeShort', bayajidda)] [bayajidda.GetFirstName] hebben hem grote rijkdom en respect opgeleverd... maar aangezien [bayajidda.GetSheHe] uit verre landen komt, voorspellen [bayajidda.GetHerHis] successen ook grote veranderingen voor mijn volk.\n\n"
+ bookmark.0101.desc_living:1 "Mijn zoon, [bewo.GetTitledFirstName], is de oogappel van zijn vader. Hoewel hij nog maar een baby is, vraag ik me af of hij zich meer zal vinden in de verhalen over zijn avontuurlijke vader, of meer in mijn eigen traditionele nalatenschap?"
+ bookmark.0101.desc_dead:1 "Mijn zoon, [bewo.GetTitledFirstName], is de oogappel van zijn vader. Hoewel hij nog maar een baby is, vraag ik me af of hij zich meer zal vinden in de verhalen over zijn avontuurlijke vader, of meer in mijn eigen traditionele nalatenschap?"
+ bookmark.0101.a:1 "[bewo.GetFirstNameNoTooltip] moet de tradities van de [ROOT.Char.GetCulture.GetNameNoTooltip] meenemen naar een nieuwe tijd."
+ bookmark.0101.a.tt:1 "[bewo.GetUIName] wordt jouw [player_heir|E]"
+ bookmark.0101.b:1 "Mijn zoon is mijn zoon, ongeacht zijn Naam of Cultuur."
+ bookmark.0101.b.tt:1 "#warning @warning_icon! Met deze keuze kan je zonder een [player_heir|E]!# komen te staan!"
+ bookmark.0101.c:0 "De Magajiya hebben geen mannen nodig om hun erfgoed voort te zetten!"
  bookmark.0101.c.tt:1 "Jouw zus, [shawata.GetUIName], zal jouw [player_heir|E] blijven"
 
  #WARS
- war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabidische Verrovering van Sicilië"
+ war_867_Aghlabid_Conquest_of_Sicily:0 "Aghlabidische Verroveren Sicilië"
  war_867_Saffarid_Tahirid_War:0 "Saffarid-Tahirid Oorlog"
  war_867_Reconquest_of_Bari:0 "Herrovering van Bari"
- war_867_Lothbrok_Invasion_of_East_Anglia:1 "Zonen van Loðbrók Invasie van Oost-Anglië"
- war_867_Lothbrok_Invasion_of_Lothian:1 "Zonen van Loðbrók Invasie van Lothian"
- war_867_Lothbrok_Invasion_of_Northumberland:1 "Zonen van Loðbrók Invasie van Noord-Humberland"
+ war_867_Lothbrok_Invasion_of_East_Anglia:1 "Zonen van Loðbrók veroveren Oost-Anglië"
+ war_867_Lothbrok_Invasion_of_Lothian:1 "Zonen van Loðbrók veroveren Lothian"
+ war_867_Lothbrok_Invasion_of_Northumberland:1 "Zonen van Loðbrók veroveren Noord-Humberland"
