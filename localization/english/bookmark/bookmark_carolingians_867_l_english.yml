@@ -1,38 +1,38 @@
-﻿l_english:
- bm_867_carolingians:0 "De Karolingen"
- bm_867_carolingians_desc:1 "Na het overlijden van Lodewijk de Vrome wordt zijn koninkrijk opgedeeld in drie rijken. Die van Oost-Francië, West-Francië, en het Koninkrjik Lotharingen. Sindsdien worden deze rijken geteisterd door oorlogen, opstanden en erfopvolgingen die zorgen voor verdere instabiliteit en fragmentatie door het grote deel van Europa, wat eens het Frankische Rijk besloeg.\n\n#bold Zal één van deze Karolingen sterk genoeg zijn om het konkrijk van hun voorouders te verenigen? Of zullen hun familie geschillen hen openstellen voor invloeden van buitenaf?#!"
+l_english:
+ bm_867_carolingians:0 "De Karolingers"
+ bm_867_carolingians_desc:1 "Na het overlijden van Lodewijk de Vrome wordt zijn koninkrijk opgedeeld in drie rijken. Die van Oost-Francië, West-Francië en het Koninkrijk Lotharingen. Sindsdien zijn deze koninkrijken alleen maar verder versplinterd door oorlogen, opstanden en erfenissen die voor instabiliteit en verdere verdeeldheid hebben gezorgd.\n\n#bold Is één van de Karolingers sterk genoeg om het rijk te herenigen? Of zullen hun familieruzies hen kwetsbaar maken voor manipulatie van buitenaf?#!"
 
  #Charles the Bald
  bookmark_carolingians_charles_the_bald:0 "Karel de Kale"
- bookmark_carolingians_charles_the_bald_desc:0 "At the time of Charles' birth, his fully grown half-brothers already ruled their own kingdoms within the Carolingian empire. Without a crown of his own, he became known as 'the Bald,' though he eventually did inherit Aquitaine and West Francia. In the future he will even inherit Italy and the Holy Roman Empire itself, but his line will not persevere — his last grandson will die childless just seven years after his own death.\n\n#bold Can you change the course of history and ensure a long and prosperous line of Charles' decedents?#!"
+ bookmark_carolingians_charles_the_bald_desc:0 "Toen Karel werd geboren, regeerden zijn volwassen halfbroers al over hun eigen koninkrijken in het Karolingische Rijk. Omdat hij zelf geen kroon had, werd hij bekend als 'de Kale', hoewel hij later Aquitanië en West-Franken erfde. In de toekomst zal hij zelfs Italië en het Heilige Roomse Rijk erven, maar zijn lijn van erfopvolging zal niet standhouden — zijn laatste kleinzoon zal slechts zeven jaar na zijn eigen dood kinderloos sterven.\n\n#bold Kun jij de loop van de geschiedenis veranderen en zorgen voor een lange en welvarende lijn van Karels nakomelingen?#!"
 
  bookmark_carolingians_charles_the_bald_alt_judith:0 "$Judith$"
  bookmark_carolingians_charles_the_bald_alt_louis:0 "$Louis$ $nick_the_stammerer$"
 
  #King Lothaire
  bookmark_carolingians_king_lothaire:0 "Koning Lotharius II"
- bookmark_carolingians_king_lothaire_desc:0 "Though he was in love with his mistress Waldrada, Lothaire's father forced him into a political marriage with Teutberga. Their union produced no children, and Lothaire's life has been a continuous struggle to divorce his wife and get his bastard children legitimized. Though he never stops trying, Lothaire will go on to die without a legal heir.\n\n#bold Can you overcome the machinations of those who plot against you and ensure the continuation of your house?#!"
+ bookmark_carolingians_king_lothaire_desc:0 "Hoewel hij verliefd was op zijn minnares Waldrada, dwong Lothaire's vader hem tot een politiek huwelijk met Teutberga. Hun verbintenis leverde geen kinderen op en het leven van Lothaire is een voortdurende strijd om van zijn vrouw te scheiden en zijn bastaardkinderen gewettigd te krijgen. Hoewel hij nooit ophoudt met proberen, zal Lothaire sterven zonder wettige erfgenaam.\n\n#bold Kun jij de samenzweringen van degenen die tegen je samenspannen overwinnen en het voortbestaan van je Huis garanderen?#!"
 
  bookmark_carolingians_king_lothaire_alt_waldrada:0 "$Waldrada$"
  bookmark_carolingians_king_lothaire_alt_teutberga:0 "$Teutberga$"
 
  #Ludwig the German
  bookmark_carolingians_ludwig_the_german:0 "Lodewijk de Duitser"
- bookmark_carolingians_ludwig_the_german_desc:0 "An ambitious man, Ludwig has long sought to reconquer the pieces of the Empire he considers his birthright. These ambitions have suffered from setback after setback however, as his various military campaigns all ended in failure and his rebellious sons have pried away most of his own lands from his control.\n\n#bold Can you reverse Ludwig's misfortunes and regain the Empire for his descendants, or are his sons destined to be relegated to a mere footnote in history?#!"
+ bookmark_carolingians_ludwig_the_german_desc:0 "Ludwig is een ambitieus man en probeert al heel lang de delen van het Rijk die hij als zijn geboorterecht beschouwt te heroveren. Deze ambities hebben echter te lijden gehad van tegenslag na tegenslag toen zijn militaire campagnes allemaal mislukten en zijn opstandige zonen het grootste deel van zijn eigen land in beslag namen.\n\n#bold Kun jij Ludwigs tegenslag keren en het rijk terugveroveren voor zijn nakomelingen? Of zijn zijn zonen gedoemd om te eindigen als een voetnoot in de geschiedenis?#!"
 
  bookmark_carolingians_ludwig_the_german_alt_youngerludwig:0 "$Ludwig$ $nick_the_younger$"
  bookmark_carolingians_ludwig_the_german_alt_karl:0 "$Karl$"
 
  #King Louis of Italy
  bookmark_carolingians_king_louis:0 "Koning Lodewijk II"
- bookmark_carolingians_king_louis_desc:1 "Imperial power had diminished so much by the time Louis was crowned Holy Roman Emperor that the title no longer offered any real authority. Though he managed to reclaim the Kingdom of Provence, Louis' uncles and brother, unburdened by any sort of allegiance to the Imperial Crown, continue to act as they please. Saddled with quarrelsome neighbors and an unstable realm, Louis II will die before siring a son.\n\n#bold Can you regain all the lost territories of the Empire and reestablish the Imperial Crown as a real power?#!"
+ bookmark_carolingians_king_louis_desc:1 "Tegen de tijd dat Lodewijk tot Heilige Roomse Keizer werd gekroond, was de keizerlijke macht zo sterk afgenomen dat de titel geen echte autoriteit meer had. Hoewel hij erin slaagt het koninkrijk van de Provence te heroveren, blijven de ooms en broer van Lodewijk, zonder enige vorm van trouw aan de keizerlijke kroon, doen wat ze willen. Geplaagd door ruziënde buren en een onstabiel rijk, zal Lodewijk II sterven voordat hij een zoon kan verwekken.\n\n#bold Kun jij alle verloren gebieden van het keizerrijk heroveren en ervoor zorgen dat de keizerskroon weer tot een echte macht maken?#!"
 
  bookmark_carolingians_king_louis_alt_ermengarde:0 "$Ermengarde$"
  bookmark_carolingians_king_louis_alt_engelberga:0 "$Engelberga$"
 
  # King Karlmann of Bavaria
  bookmark_carolingians_king_karlmann:1 "Prins Karloman"
- bookmark_carolingians_king_karlmann_desc:0 "The eldest son of Ludwig the German, Karlmann rebelled against his father and forced him to give him control over the lands of Bavaria. He will expand this domain in wars with Slavs to the east and later on will even be elected King of Italy — though an unfortunate stroke will force him to abdicate the thrones of Bavaria and Italy to his younger brothers. He will die just a few years later.\n\n#bold With a little luck, will you be able to avoid Karlmann's unfortunate demise and establish a legacy that will last the ages?#!"
+ bookmark_carolingians_king_karlmann_desc:0 "Karlmann, de oudste zoon van Lodewijk de Duitser, kwam in opstand tegen zijn vader en dwong hem om de controle over Beieren aan hem af te staan. Hij zou dit domein uitbreiden door oorlogen tegen de Slaven in het oosten en later zelfs gekozen worden tot koning van Italië, hoewel hij helaas gedwongen werd om de tronen van Beieren en Italië af te staan aan zijn jongere broers. Een paar jaar later sterft hij.\n\n#bold Met een beetje geluk kun jij Karlmanns onfortuinlijke ondergang voorkomen en een nalatenschap creëren die de tand des tijds zal doorstaan?#!"
 
  bookmark_carolingians_king_karlmann_alt_arnulf:0 "$Arnulf$"
  bookmark_carolingians_king_karlmann_alt_hemma:0 "$Hemma$"
