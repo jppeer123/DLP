@@ -1,15 +1,15 @@
-﻿l_english:
+l_english:
  ACCOLADE_ADJECTIVE_NOUN:0 "$ADJECTIVE$ $NOUN$"
  ACCOLADE:0 "Ridderslag"
  ACCOLADES:0 "Ridderslagen"
  CREATE_ACCOLADE:0 "Creëer Ridderslag"
- CREATE_ACCOLADE_CONFIRM:0 "Het toekennen van dit ereteken verhoogt de [acclaimed_knight|E]'s [opinion|e] van #high you#!.\n\nKosten: #high $COST$#!"
+ CREATE_ACCOLADE_CONFIRM:0 "Het toekennen van dit ereteken verhoogt de [acclaimed_knight|E]'s [opinion|e] van #high jou#!.\n\nKosten: #high $COST$#!"
  CREATE_ACCOLADE_CONFIRM_ACCEPT:0 "$CREATE_ACCOLADE$"
- CREATE_ACCOLADE_COST:0 "#T $CREATE_ACCOLADE$#!\nJouw $knight_culture_player_no_tooltip$'s [accolade_types|e] zullen je positieve effecten gaan geven, die toenemen naarmate ze [glory|E].\n\nKosten: #high $COST$#!"
+ CREATE_ACCOLADE_COST:0 "#T $CREATE_ACCOLADE$#!\nJouw $knight_culture_player_no_tooltip$'s [accolade_types|e] zullen gunstige effecten opleveren, die toenemen naarmate ze [glory|E].\n\nKosten: #high $COST$#!"
  CREATE_ACCOLADE_EMPTY_TYPE:0 "Leeg Ridderslag Attribuut"
  CREATE_ACCOLADE_SELECT_KNIGHT:1 "Selecteer je nieuwe [accolade|e]'s [acclaimed_knight|E]. De [knight|e]'s [skills|e] en [traits|e] bepalen welke [accolade_types|e] beschikbaar zijn."
  CREATE_ACCOLADE_ASSIGN:0 "Benoem $knight_culture_player_no_tooltip$"
- CREATE_ACCOLADE_ASSIGN_TT:0 "#help Klik om dit personage te benoemen [acclaimed_knight|E] van deze [accolade|E]"
+ CREATE_ACCOLADE_ASSIGN_TT:0 "#help Klik om dit personage te benoemen [acclaimed_knight|E] voor deze [accolade|E]"
  ACCOLADE_GLORY_VALUE:0 "[glory|E]: $VALUE|0$"
  ACCOLADE_GLORY_DATA:0 "[glory|E]: [Accolade.GetGlory|0]"
  ACCOLADE_LEVEL_VALUE:0 "[accolade_rank_short|e] $VALUE|0$"
@@ -21,7 +21,7 @@
  ACCOLADES_LIMIT:1 "Ridderslagen: [Character.GetNumActiveAccolades]/[Character.GetNumAccoladeSlots]"
  ACCOLADE_SHOW:1 "Toon [accolade|E]"
  ACCOLADE_OWNER_ALREADY_HAS_ACCOLADE_OF_TYPE:1 "Eigenaar heeft al een actieve [accolade|E] met type $TYPE$"
- ACCOLADE_NOT_ENOUGH_POTENTIAL_TYPES:0 "[Character.GetNameNoTooltip] voldoet niet aan de eisen van ten minste twee Accolade Typen"
+ ACCOLADE_NOT_ENOUGH_POTENTIAL_TYPES:0 "[Character.GetNameNoTooltip] voldoet niet aan de eisen van ten minste twee Ridderslag Typen"
  ACCOLADE_CHARACTER_ALREADY_ACCLAIMED:0 "[Character.GetNameNoTooltip] is al een bekroonde ridder"
  ACCOLADE_CHARACTER_ALREADY_SUCCESSOR:0 "[Character.GetNameNoTooltip] is al de opvolger van een [accolade|E]"
  ACCOLADE_CHARACTER_ALREADY_HEAD_OR_SUCCESSOR:0 "[Character.GetNameNoTooltip] is al de bekroonde ridder of opvolger van een ridderslag"
@@ -34,7 +34,7 @@
  CURRENT_ACCOLADE_GLORY_AND_LEVEL:0 "Huidig $ACCOLADE_GLORY_AND_LEVEL$"
  ACCOLADE_CHANGE_SUCCESSOR:0 "Ridderslag opvolger wijzigen"
  DEACTIVATE_ACCOLADE:0 "Terugtrekken Ridderslag"
- DEACTIVATE_ACCOLADE_CONFIRM:1 "De [acclaimed_knight|e]'s [opinion|e] van #high you#! zal afnemen\n\nKosten: #high $COST$#!"
+ DEACTIVATE_ACCOLADE_CONFIRM:1 "De [acclaimed_knight|e]'s [opinion|e] van #high jou#! zal afnemen\n\nKosten: #high $COST$#!"
  DEACTIVATE_ACCOLADE_CONFIRM_ACCEPT:0 "$DEACTIVATE_ACCOLADE$"
  DEACTIVATE_ACCOLADE_TT:1 "#T $DEACTIVATE_ACCOLADE$#!\nDit wordt een [inactive_accolade|E]. Bonussen zullen geen effect meer hebben.\nKosten: $COST$"
  INACTIVE_ACCOLADES:0 "Niet actieve Ridderslagen"
@@ -50,19 +50,19 @@
  ACCOLADE_SUCCESSOR_REQUIREMENTS:0 "Vereisten voor opvolgers"
  LOCKED_ACCOLADE_SLOT:1 "#T Niet beschikbare Ridderslag #!\nOntgrendeld via [innovations|E], [dynasty_perks|E] en hogere [title_tiers|E]"
  ACCOLADE_SET_ACCLAIMED_KNIGHT:0 "Wijs [Character.GetShortUINameNoTooltip] toe als [acclaimed_knight|E] van [Accolade.GetNameNoTooltip]\nDit kost een beetje [glory|e]"
- ACCOLADE_SET_ACCLAIMED_KNIGHT_ONLY_PRIMARY:1 "Wijs [Character.GetShortUINameNoTooltip] toe als [acclaimed_knight|E] van [Accolade.GetNameNoTooltip]\nAangezien ze alleen primaire [accolade_type|e] vereisten, dit kost een veel [glory|e] en de volgende [accolade_type|e] zou kunnen worden vervangen"
- ACCOLADE_CANNOT_SET_ACCLAIMED_KNIGHT:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] voldoet niet aan de voornaamste [accolade_type|E] eisen van [Accolade.GetNameNoTooltip] #!"
+ ACCOLADE_SET_ACCLAIMED_KNIGHT_ONLY_PRIMARY:1 "Wijs [Character.GetShortUINameNoTooltip] toe als [acclaimed_knight|E] van [Accolade.GetNameNoTooltip]\nAangezien ze alleen primaire [accolade_type|e] vereisten, dit kost veel [glory|e] en de volgende [accolade_type|e] zou kunnen worden vervangen"
+ ACCOLADE_CANNOT_SET_ACCLAIMED_KNIGHT:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] voldoet niet aan de voornaamste [accolade_type|E]-eisen van [Accolade.GetNameNoTooltip] #!"
  TROOP_ACCLAIMED_KNIGHTS:0 "#T [acclaimed_knights|E]: $VALUE|0$#!"
  ACCLAIMED_KNIGHT_RELATION:0 "[acclaimed_knight|E]"
  ACCLAIMED_KNIGHT_AND_ACCOLADE:0 "[Accolade.GetAcclaimedKnight.GetName]: [Accolade.GetName]"
  ACCOLADE_ASSIGN_SUCCESSOR_TT:1 "#help Klik om dit personage te benoemen als [accolade|E] Opvolger#!"
- ACCOLADE_ASSIGN_SUCCESSOR_ONLY_PRIMARY_TT:0 "$ACCOLADE_ASSIGN_SUCCESSOR_TT$\n@warning_icon! #X Aangezien ze alleen Primaire [accolade_type|e] vereisten, [accolade_succession|e] zal toenemen [glory|e] verlies en kan de [accolade|e]'s Secundair kenmerk#!"
+ ACCOLADE_ASSIGN_SUCCESSOR_ONLY_PRIMARY_TT:0 "$ACCOLADE_ASSIGN_SUCCESSOR_TT$\n@warning_icon! #X Aangezien alleen aan de Primaire [accolade_type|e]-eisen is voldaan, heeft de [accolade_succession|e] een groter [glory|e] verlies en zou het het secundaire attribuut van de [accolade|e] kunnen vervangen#!"
  ACCOLADE_CANNOT_ASSIGN_SUCCESSOR_TT:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] voldoet niet aan de opvolgingsvereisten van deze [accolade|E] #!"
  CREATE_ACCOLADE_SET_PRIMARY_TYPE_TT:0 "#help Stel deze in [accolade_type|E] als de $ACCOLADE_PRIMARY_TYPE$#!"
- CREATE_ACCOLADE_SET_SECONDARY_TYPE_TT:0 "#help Stel deze in [accolade_type|E] als de  $ACCOLADE_SECONDARY_TYPE$#!"
+ CREATE_ACCOLADE_SET_SECONDARY_TYPE_TT:0 "#help Stel deze in [accolade_type|E] als de $ACCOLADE_SECONDARY_TYPE$#!"
  ACCOLADE_CHANGE_PRIMARY_TYPE:0 "Wijzig $ACCOLADE_PRIMARY_TYPE$"
  ACCOLADE_CHANGE_SECONDARY_TYPE:0 "Wijzig $ACCOLADE_SECONDARY_TYPE$"
- CREATE_ACCOLADE_CANNOT_CHANGE_TYPES:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] niet voldoet aan de eisen van een andere [accolade_types|E] dan de huidige geselecteerde #!"
+ CREATE_ACCOLADE_CANNOT_CHANGE_TYPES:0 "@warning_icon! #X [Character.GetShortUINameNoTooltip] voldoet niet aan de vereisten van een van de huidige geselecteerde [accolade_types|E] #!"
  ACCOLADE_LIEGE_MODIFIERS:0 "#S Leenheer Aanpassingen:#!"
  ACCOLADE_KNIGHT_MODIFIERS:0 "#S Ridder Aanpassingen:#!"
  ACCOLADE_KNIGHT_ARMY_MODIFIERS:1 "#S [knight_army_modifiers|e]:#!"
@@ -156,7 +156,7 @@
 
  accolade_imprisonment_chance:0 "$EFFECT_LIST_BULLET$[imprison|E] Kans: #P +[EmptyScope.ScriptValue('accolade_imprisonment_chance_value')|+0]#!"
  accolade_imprisonment_chance_high:1 "$EFFECT_LIST_BULLET$[imprison|E] Kans: #P +[EmptyScope.ScriptValue('accolade_imprisonment_chance_value_high')|+0]#!"
- accolade_court_seduction_vulnerability:1 "$EFFECT_LIST_BULLET$Jouw [courtiers|E] zijn iets kwetsbaarder voor de [GetScheme('seduce').GetTypeName] [schemes|E] van #EMP any#! [character|e]"
+ accolade_court_seduction_vulnerability:1 "$EFFECT_LIST_BULLET$Jouw [courtiers|E] zijn iets kwetsbaarder voor de [GetScheme('seduce').GetTypeName] [schemes|E] van #EMP alle#! [character|e]"
 
  acclaimed_knight_piety_from_battle:1 "$EFFECT_LIST_BULLET$[piety_i][piety|e] kosten van [holy_wars|E] verminderd\n$EFFECT_LIST_BULLET$Deelnemen aan [holy_wars|E] levert [piety_i][piety|E] op"
 
@@ -206,7 +206,7 @@
  levy_captaincy_modifier_desc:0 "Een ervaren [acclaimed_knight|E] breidt de aandacht uit naar de baanderheren van deze persoon."
 
  accolade_development_growth_on_tournament_completion_low:0 "$EFFECT_LIST_BULLET$Voltooiing van een [GetActivityType( 'activity_tournament').GetName] levert [EmptyScope.ScriptValue('accolade_development_growth_on_tournament_completion_value')|=+0] [development_growth|E] op in jouw minst ontwikkelde [county|E]"
- accolade_development_growth_on_tournament_completion_high:0 "$EFFECT_LIST_BULLET$Voltooiing van een [GetActivityType( 'activity_tournament').GetName] levert [EmptyScope.ScriptValue('accolade_development_level_on_tournament_completion_value')|=+0] [development|E] Niveau naar je minst ontwikkelde [county|E] op"
+ accolade_development_growth_on_tournament_completion_high:0 "$EFFECT_LIST_BULLET$Voltooiing van een [GetActivityType( 'activity_tournament').GetName] levert [EmptyScope.ScriptValue('accolade_development_level_on_tournament_completion_value')|=+0] [development|E] niveau naar je minst ontwikkelde [county|E] op"
  accolade_increase_control_bonus:0 "$EFFECT_LIST_BULLET$The #high $task_increase_control$#! [councillor_task|E] zal af en toe een aanzienlijke impuls krijgen"
 
  accolade_train_commanders_bonus:0 "$EFFECT_LIST_BULLET$The #high $task_train_commanders$#! [councillor_task|E] verhoogt af en toe een [knight|E]'s [GetTrait('tourney_participant').GetName( GetNullCharacter )] Ervaring"
@@ -263,7 +263,7 @@
  accolade_horse_arching:0 "Paard boogschieten"
  accolade_horse_archer:0 "Paard boogschutter"
 
- accolade_increase_hostile_knight_death_boilerplate:1 "verhoogde kans op overlijden in de strijd om [knights|E] vechtend tegen de [acclaimed_knight|E]."
+ accolade_increase_hostile_knight_death_boilerplate:1 "verhoogde kans op overlijden in de strijd door [knights|E] vechtend tegen de [acclaimed_knight|E]."
  accolade_increase_hostile_knight_death_low:1 "Iets $accolade_increase_hostile_knight_death_boilerplate$"
  accolade_increase_hostile_knight_death_medium:1 "Matig $accolade_increase_hostile_knight_death_boilerplate$"
  accolade_increase_hostile_knight_death_high:1 "Aanzienlijk $accolade_increase_hostile_knight_death_boilerplate$"
@@ -283,7 +283,7 @@
   # EMINENT ATTRIBUTES
  house_knight_attribute:0 "Huis Paragon"
  huntsmaster_attribute:0 "Jachtmeester"
- blademaster_attribute:0 "Lemmetmeester"
+ blademaster_attribute:0 "Zwaardmeester"
  master_of_revels_attribute:0 "Meester van Feesten"
 
  accolade_house:0 "Huis"
@@ -291,7 +291,7 @@
  accolade_hunt_leading:0 "Jacht leiden"
  accolade_huntsmaster:0 "Jachtmeester"
  accolade_blade_besting:0 "Blade-Besting"
- accolade_blademaster:0 "Lemmetmeester"
+ accolade_blademaster:0 "Zwaardmeester"
  accolade_revel_leading:0 "Feest aanvoeren"
  accolade_master_of_revels:0 "Meester van Feesten"
 
@@ -304,7 +304,7 @@
  accolade_defends_family_high:0 "$EFFECT_LIST_BULLET$[house|E] leden in een [army|e] met deze [knight|E] hebben veel minder kans om gewond of gedood te worden"
 
  acclaimed_knight_trains_hunting:0 "$EFFECT_LIST_BULLET$Jij en jouw [primary_heir|E] kunnen de [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] Eigenschap elke paar jaar verwerven"
- acclaimed_knight_reduces_hunting_danger:0 "$EFFECT_LIST_BULLET$Reduced [hunt_danger|E]"
+ acclaimed_knight_reduces_hunting_danger:0 "$EFFECT_LIST_BULLET$Verminderd [hunt_danger|E]"
  acclaimed_knight_reduces_hunting_danger_high:0 "$EFFECT_LIST_BULLET$Aanzienlijk verminderd [hunt_danger|E]"
  acclaimed_knight_trains_swordfighting:0 "$EFFECT_LIST_BULLET$Jij en jouw [primary_heir|E] kunnen de [GetTrait('lifestyle_blademaster').GetName( GetNullCharacter )] Eigenschap elke paar jaar verwerven"
  acclaimed_knight_tournament_invite_acceptance_bonus:0 "$EFFECT_LIST_BULLET$[GetActivityType( 'activity_tournament' ).GetName] Gast Uitnodiging Aanvaarding: [EmptyScope.ScriptValue('accolade_tournament_invite_acceptance_value')|=+0]"
@@ -314,20 +314,20 @@
  acclaimed_knight_feast_wedding_invite_acceptance_bonus:0 "$EFFECT_LIST_BULLET$[GetActivityType('activity_feast').GetName] en [GetActivityType( 'activity_wedding' ).GetName] Gast Uitnodiging Aanvaarding: [EmptyScope.ScriptValue('accolade_feast_wedding_invite_acceptance_value')|=+0]"
 
 #ACCOLADE RANK CUSTOM LOC
- accolade_rank_flavor_unsung:0 "#high Ongewaardeerd#! #weak (Rank 0)#!"
- accolade_rank_flavor_established:0 "#high Gevestigd#! #weak (Rank 1)#!"
- accolade_rank_flavor_recognized:0 "#high Erkend#! #weak (Rank 2)#!"
- accolade_rank_flavor_feted:0 "#high Gevierd#! #weak (Rank 3)#!"
- accolade_rank_flavor_lionized:0 "#high Gelauwerd#! #weak (Rank 4)#!"
- accolade_rank_flavor_august:0 "#high Augustus#! #weak (Rank 5)#!"
- accolade_rank_flavor_glorious:0 "#high Glorieus#! #weak (Rank 6)#!"
+ accolade_rank_flavor_unsung:0 "#high Ongewaardeerd#! #weak (Rang 0)#!"
+ accolade_rank_flavor_established:0 "#high Gevestigd#! #weak (Rang 1)#!"
+ accolade_rank_flavor_recognized:0 "#high Erkend#! #weak (Rang 2)#!"
+ accolade_rank_flavor_feted:0 "#high Gevierd#! #weak (Rang 3)#!"
+ accolade_rank_flavor_lionized:0 "#high Gelauwerd#! #weak (Rang 4)#!"
+ accolade_rank_flavor_august:0 "#high Augustus#! #weak (Rang 5)#!"
+ accolade_rank_flavor_glorious:0 "#high Glorieus#! #weak (Rang 6)#!"
 
 #ACCOLADE NAMES
  #accolade_name_test: "The $OPTION_1$ $OPTION_2$ of $OPTION_3$"
  #Always use CHARACTER in name loc and ROOT for option loc
 
  accolade_the_knight_of_the_animal:0 "De [TARGET_CHARACTER.Custom('KnightCultureNoTooltip')] van de $OPTION_1$"
- accolade_the_animal_of_capital:0 "De $OPTION_1$ of $OPTION_2$"
+ accolade_the_animal_of_capital:0 "De $OPTION_1$ van $OPTION_2$"
  accolade_the_knight_of_the_flower:0 "De [TARGET_CHARACTER.Custom('KnightCultureNoTooltip')] van de $OPTION_1$"
  accolade_leader_of_the_culture_maa:0 "$OPTION_1$ van de [CHARACTER.GetCulture.GetNameNoTooltip] $OPTION_2$"
  accolade_leader_of_the_lieges_maa:0 "$OPTION_1$ van de [TARGET_CHARACTER.GetTitleAsNamePossessiveNoTooltip] $OPTION_2$"
@@ -338,7 +338,7 @@
  accolade_first_of_the_field:0 "Eerst $OPTION_1$"
  accolade_the_warrior_in_the_terrain:0 "De $OPTION_1$ in de $OPTION_2$"
  accolade_the_defender_of_lieges_title:0 "De $OPTION_1$ van [TARGET_CHARACTER.GetPrimaryTitle.GetNameNoTierNoTooltip]"
- accolade_the_foe_of_enemy_faith:0 "De $OPTION_1$ of $OPTION_2$"
+ accolade_the_foe_of_enemy_faith:0 "De $OPTION_1$ van $OPTION_2$"
  accolade_the_knight_of_aspect:0 "De [TARGET_CHARACTER.Custom('KnightCultureNoTooltip')] $OPTION_1$"
  accolade_goodest_of_knights:0 "$OPTION_1$ van de $OPTION_2$"
  accolade_the_material_knight:0 "De $OPTION_1$ $OPTION_2$"
@@ -638,3 +638,4 @@
  accolade_maiden:0 "Meisjes"
 
  accolade_name_the_red_knight_of_harpenden:0 "De rode ridder van Harpenden"
+ 
