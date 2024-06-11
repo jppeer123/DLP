@@ -44,7 +44,7 @@ l_english:
  activity_hunt_host_desc_prestige:0 "$BULLET_WITH_TAB$Deelnemers kunnen [prestige_i|E][prestige|E] winnen\n$BULLET_WITH_TAB$Deelnemers kunnen [legitimacy_i] [legitimacy|E] winnen\n$BULLET_WITH_TAB$Deelnemers kunnen [stress_loss_i][stress|E] verliezen\n"
  activity_hunt_host_desc_trait_xp:0 "$BULLET_WITH_TAB$Deelnemers kunnen [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] [trait_level_track_xp|E] winnen\n"
  activity_hunt_host_desc_trait:0 "$BULLET_WITH_TAB$Deelnemers kunnen [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] [trait|E] winnen\n"
- activity_hunt_host_desc:2 "$BULLET_WITH_TAB$Kunnen wellicht[GetVassalStance( 'glory_hound' ).GetTextIcon][GetVassalStance( 'glory_hound' ).GetName] [vassal|E] [opinion|E] verkrijgen\n$BULLET_WITH_TAB$Kan Trofee [artifacts|E] winnen\n"
+ activity_hunt_host_desc:2 "$BULLET_WITH_TAB$Je kunt wellicht[GetVassalStance( 'glory_hound' ).GetTextIcon][GetVassalStance( 'glory_hound' ).GetName] [vassal|E] [opinion|E] verhogen\n$BULLET_WITH_TAB$Je kunt Trofee [artifacts|E] winnen\n"
  activity_legend_seed_tt: "$BULLET_WITH_TAB$Zou kunnen [legend_seed|E] winnen\n"
  activity_hunt_guest_desc_accolade:0 "$BULLET_WITH_TAB$Deelnemende [acclaimed_knights|E] kunnen [glory|E] winnen\n"
  activity_hunt_host_desc_animal:0 "\nKeuze [hunt_danger_no_prefix|E]/Beloningen voor zeldzaamheid:\n$BULLET_WITH_TAB$[prestige_i|E][prestige|E]\n$BULLET_WITH_TAB$Trofee [artifacts|E]"
