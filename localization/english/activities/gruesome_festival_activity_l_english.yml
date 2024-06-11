@@ -8,13 +8,13 @@
  gruesome_festival_size_small:0 "Klein Festival"
  gruesome_festival_size_small_desc:1 "$EFFECT_LIST_BULLET$ [opinion|E] veranderingen zullen minder vaak voorkomen.\n\n#weak De mensen van dit graafschap zijn trouw genoeg om ons te verwelkomen.#!"
  gruesome_festival_size_medium:0 "Middelgroot Festival"
- gruesome_festival_size_medium_desc:1 "$EFFECT_LIST_BULLET$ [opinion|E] veranderingen komen vaker voor.\n\n#weak Alle vrije[GetPlayer.Custom('WomenMenPeople_GenderPreference')] van mijn domein zullen komen!#!"
+ gruesome_festival_size_medium_desc:1 "$EFFECT_LIST_BULLET$ [opinion|E] veranderingen komen vaker voor.\n\n#weak Alle vrije [GetPlayer.Custom('WomenMenPeople_GenderPreference')] van mijn domein zullen komen!#!"
  gf_medium_option_valid:0 "Je hebt niet minimaal 2 Graafschappen [rank|E] Titels"
- gruesome_festival_size_large:0 "Large Festival"
+ gruesome_festival_size_large:0 "Groot Festival"
  gruesome_festival_size_large_desc:1 "$EFFECT_LIST_BULLET$ [opinion|E] veranderingen komen vaak voor.\n\n#weak Iedere [GetPlayer.Custom('LadyLordNoble_GenderPreference')|U] en gewone burger in de [GetPlayer.GetPrimaryTitle.GetTierAsNameNoTooltip] is uitgenodigd!#!"
  activity_gruesome_festival_destination_selection:0 "Je kunt alleen een $activity_gruesome_festival$ verzorgen in provincies met de $gruesome_festivals_active_name$ [doctrine|E]."
  activity_gruesome_festival_conclusion_desc:1 "De [GetActivityType( 'activity_gruesome_festival' ).GetName] is gesloten"
- activity_gruesome_festival_guest_desc:1 "$BULLET_WITH_TAB$ Deelnemers kunnen verdienen [piety|E]\n$BULLET_WITH_TAB$ Deelnemers kunnen verdienen [opinion|E] van andere deelnemers\n$BULLET_WITH_TAB$ Deelnemers kunnen verliezen [stress_loss_i][stress|E]"
+ activity_gruesome_festival_guest_desc:1 "$BULLET_WITH_TAB$ Deelnemers kunnen [piety|E] verdienen\n$BULLET_WITH_TAB$ Deelnemers kunnen [opinion|E] verdienen van andere deelnemers\n$BULLET_WITH_TAB$ Deelnemers kunnen [stress_loss_i][stress|E] verliezen"
 
  gruesome_festival_option_sacrifice:0 "Voer voor offers"
  gruesome_festival_option_sacrifice_poser_blotter:0 "$gruesome_festival_option_sacrifice_genuine_blotter$"
@@ -35,11 +35,11 @@
  gruesome_festival_sacrifice_animals_poser_desc_help:2 "$gruesome_festival_sacrifice_animals_only.regular.opinion$\n$gruesome_festival_sacrifice_animals_only.appeased_humsac_haters$\n $EFFECT_LIST_BULLET$ $gruesome_festival_sacrifice_animals_only.regular.piety.loss$"
 
 # Animals Help Text
- gruesome_festival_sacrifice_animals_only.regular.opinion:1 "$EFFECT_LIST_BULLET$ [opinion|E] en [county_opinion|E] behalen met [GetPlayer.GetFaith.GetAdherentNamePlural] minder zal zijn dan bij mensenoffers"
+ gruesome_festival_sacrifice_animals_only.regular.opinion:1 "$EFFECT_LIST_BULLET$ [opinion|E] en [county_opinion|E] behalen met [GetPlayer.GetFaith.GetAdherentNamePlural] minder dan bij mensenoffers"
  gruesome_festival_sacrifice_animals_only.appeased_humsac_haters:1 "$EFFECT_LIST_BULLET$ Personen die mensenoffers niet goedkeuren zullen niet [opinion|E] of [county_opinion|E] verliezen"
- #gruesome_festival_sacrifice_animals_only.regular.piety: "#positive_value [GetPlayer.MakeScope.ScriptValue('gruesome_festival_regular_animal_piety_value')|0]#! [piety_i] will be gained $gruesome_festival_activity.piety_gain.rump$"
+ #gruesome_festival_sacrifice_animals_only.regular.piety: "#positive_value [GetPlayer.MakeScope.ScriptValue('gruesome_festival_regular_animal_piety_value')|0]#! [piety_i] zal worden verkregen $gruesome_festival_activity.piety_gain.rump$"
  gruesome_festival_sacrifice_animals_only.regular.piety:1 "#positive_value Kleine#! [piety_i][piety|E] toename"
- #gruesome_festival_sacrifice_animals_only.regular.piety.loss: "#negative_value [GetPlayer.MakeScope.ScriptValue('gruesome_festival_regular_animal_piety_value')|0]#! [piety_i] will be lost $gruesome_festival_activity.piety_gain.rump$"
+ #gruesome_festival_sacrifice_animals_only.regular.piety.loss: "#negative_value [GetPlayer.MakeScope.ScriptValue('gruesome_festival_regular_animal_piety_value')|0]#! [piety_i] zal verloren gaan $gruesome_festival_activity.piety_gain.rump$"
  gruesome_festival_sacrifice_animals_only.regular.piety.loss:1 "#negative_value Klein#! [piety_i][piety|E] verlies"
 
 
@@ -83,7 +83,7 @@
  gruesome_festival_sacrifice_human_sacrifice.regular.piety:1 "#positive_value Grote#! [piety_i][piety|E] toename"
  #gruesome_festival_sacrifice_human_sacrifice.regular.piety.loss:0 "#negative_value [GetPlayer.MakeScope.ScriptValue('gruesome_festival_regular_human_piety_value')|0]#! [piety_i] will be lost $gruesome_festival_activity.piety_gain.rump$"
  gruesome_festival_sacrifice_human_sacrifice.regular.piety.loss:1 "#negative_value Groot#! [piety_i][piety|E] verlies"
- gruesome_festival_sacrifice_human_sacrifice.optional_victim_picker:0 "Optioneel kun je [designate_chief_sacrifice_article|E] van onder jouw [prisoners|E]"
+ gruesome_festival_sacrifice_human_sacrifice.optional_victim_picker:0 "Optioneel kun je [designate_chief_sacrifice_article|E] van jouw [prisoners|E] uitkiezen"
  gruesome_festival_sacrifice_human_sacrifice.become_cannibal:1 "\n$EFFECT_LIST_BULLET$ Je wordt een [GetTrait('cannibal').GetName( GetNullCharacter )] $gruesome_festival_activity.piety_gain.rump$"
 
 
