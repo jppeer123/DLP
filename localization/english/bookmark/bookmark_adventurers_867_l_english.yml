@@ -5,7 +5,7 @@ l_english:
 
  #Jarl Haesteinn
  bookmark_adventurers_jarl_haesteinn:0 "Jarl Hasting"
- bookmark_adventurers_jarl_haesteinn_desc:0 "Jarl Hasting werd een rijk man door sluwheid en moed. Nadat hij samen met Björn Eisenseite een lucratieve rooftocht door de Middellandse Zee had geleid, vestigde hij zich in Bretagne. De Franken hebben uitpuilende schatkisten en een machtige Vikingkrijger is een goede bondgenoot in politiek turbulente tijden.\n\n#bold Maar met welvaart komen ook vijanden. Zal Hasting het slachtoffer worden van zijn hebzucht of zal zijn dynastie bloeien onder jouw leiderschap?#!"
+ bookmark_adventurers_jarl_haesteinn_desc:0 "Jarl Hasting werd een rijk man door sluwheid en moed. Nadat hij samen met Björn Ironman een lucratieve rooftocht door de Middellandse Zee had geleid, vestigde hij zich in Bretagne. De Franken hebben uitpuilende schatkisten en een machtige Vikingkrijger is een goede bondgenoot in politiek turbulente tijden.\n\n#bold Maar met welvaart komen ook vijanden. Zal Hasting het slachtoffer worden van zijn hebzucht of zal zijn dynastie bloeien onder jouw leiderschap?#!"
 
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr:0 "$Ragnarr$"
  bookmark_adventurers_jarl_haesteinn_alt_ragnarr_desc:0 "alt desc"
@@ -56,4 +56,4 @@ l_english:
  war_867_Reconquest_of_Bari:0 "Herrovering van Bari"
  war_867_Lothbrok_Invasion_of_East_Anglia:1 "Zonen van Loðbrók veroveren Oost-Anglië"
  war_867_Lothbrok_Invasion_of_Lothian:1 "Zonen van Loðbrók veroveren Lothian"
- war_867_Lothbrok_Invasion_of_Northumberland:1 "Zonen van Loðbrók veroveren Noord-Humberland"
+ war_867_Lothbrok_Invasion_of_Northumberland:1 "Zonen van Loðbrók veroveren Northhumberland"
