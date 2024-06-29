@@ -1,14 +1,14 @@
-﻿l_english:
+l_english:
  SUGGESTION_TITLE:0 "#T $NAME$#!"
  
  suggestion_recruit_maa_label:0 "Rekruteer Wapendragers"
  suggestion_recruit_maa:0 "Suggestie: Rekruteer Wapendragers"
- suggestion_recruit_maa_desc:0 "Je hebt minder [men_at_arms|E] dan verwacht is van een [ruler|E] met jouw [rank|E].\n\nNieuwe rekruteren zullen jouw [armies|E] ten goede doen, tegelijkertijd potentieële vijanden ervan weerhouden jou aan te vallen en je helpen te vechten tegen diegene die het alsnog doen."
- suggestion_recruit_maa_click:0 "#I Klik om jouw Leger te bekijken#!"
+ suggestion_recruit_maa_desc:0 "Je hebt minder [men_at_arms|E] dan verwacht is van een [ruler|E] met jouw [rank|E].\n\nNieuwe rekruteren zullen jouw [armies|E] ten goede komen, tegelijkertijd potentieële vijanden ervan weerhouden jou aan te vallen en je helpen te vechten tegen diegene die het alsnog doen."
+ suggestion_recruit_maa_click:0 "#I Klik om je Leger te bekijken#!"
 
  suggestion_declare_war_label:0 "Verklaar Oorlog"
  suggestion_declare_war:0 "Suggestie: Verklaar Oorlog tegen [recipient.GetShortUINameNoTooltip]"
- suggestion_declare_war_desc:1 "Een oorlog winnen tegen [recipient.GetShortUIName] zal jouw [realm|E] laten groeien en potentiëel helpen jouw macht te vergroten, dit kan succes op de lange termijn veilig stellen voor jouw [house|E]."
+ suggestion_declare_war_desc:1 "Een oorlog winnen tegen [recipient.GetShortUIName] zal jouw [realm|E] laten groeien en potentiëel helpen jouw macht te vergroten, dit kan succes op de lange termijn veilig stellen voor je [house|E]."
  suggestion_declare_war_click:1 "#I Klik om Oorlog te verklaren#!"
 
  suggestion_construct_building_label:0 "Begin met Bouwen"
@@ -16,8 +16,8 @@
  suggestion_construct_building_desc:1 "Gebouwen bouwen in [landed_title.GetNameNoTooltip] zal jou verschillende voordelen en winsten opleveren, zo'n investering gaat op de lange-termijn geen windeieren leggen."
  suggestion_construct_building_click:1 "#I Klik om de Heerlijkheid te bekijken#!"
 
- suggestion_fabricate_claim_label:0 "Fabriceer een Aanspraak"
- suggestion_fabricate_claim:0 "Suggestie: Fabriceer een Aanspraak op [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_fabricate_claim_label:0 "Fabriceer een Claim"
+ suggestion_fabricate_claim:0 "Suggestie: Fabriceer een Claim op [landed_title.GetNameNoTierNoTooltip]"
  suggestion_fabricate_claim_desc:1 "Het naburige [landed_title.GetName] is beiden rijk en welvarend, maar je kan het niet overnemen zonder [casus_belli|E].\n\nAls je jouw [court_chaplain|E] of [realm_priest|E] stuurt om een [claim|E] te fabriceren, zal het jou een geldige reden geven om [war|E] te verklaren en deze titel voor jezelf in te nemen!"
  suggestion_fabricate_claim_click:1 "#I Klik om Titel te bekijken#!"
 
@@ -55,7 +55,7 @@
 
  suggestion_can_hire_court_positions:0 "Benoem meer Hofposities"
  suggestion_can_hire_court_positions_label:0 "Suggestie: Benoem meer Hofposities"
- suggestion_can_hire_court_positions_desc:0 "Je zou wat Gulden moeten investeren om jouw [court_positions|E] te vervullen, op die manier kan je genieten van hun voordelen."
+ suggestion_can_hire_court_positions_desc:0 "Je zou wat Goud kunnen investeren om jouw [court_positions|E] te vervullen, op die manier kan je genieten van hun voordelen."
  suggestion_can_hire_court_positions_click:0 "#I Klik om beschikbare Hofposities te bekijken#!"
 
  suggestion_request_war_aid_petition:0 "Vraag Militaire Assistentie"
@@ -67,3 +67,4 @@
  suggestion_create_nation_fracturing_faction_label:0 "Suggestie: $suggestion_create_nation_fracturing_faction$"
  suggestion_create_nation_fracturing_faction_desc:1 "Je kan jouw [liege|E] uitdagen en proberen het Rijk te ontbinden om onafhankelijkheid te verkrijgen voor jou en al je mede[vassals|E]."
  suggestion_create_nation_fracturing_faction_click:1 "#I Klik om de facties tegen jouw [liege] te bekijken#!"
+ 
