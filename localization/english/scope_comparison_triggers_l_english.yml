@@ -1,11 +1,11 @@
 l_english:
  # Title Hierarchy Triggers
- PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is de jure deel van [TARGET_TITLE.GetName]"
- NOT_PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is #bold niet#! de jure deel van [TARGET_TITLE.GetName]"
- LANDED_TITLE_DE_JURE_EQUAL:0 "[TITLE.GetName] is de jure deel van [TARGET_TITLE.GetName]"
- NOT_LANDED_TITLE_DE_JURE_EQUAL:0 "[TITLE.GetName] is #bold niet#! de jure deel van [TARGET_TITLE.GetName]"
- DE_JURE_LIEGE_EQUAL:0 "De directe de jure bezitter van [TITLE.GetName] is [TARGET_TITLE.GetName]"
- NOT_DE_JURE_LIEGE_EQUAL:0 "De directe de jure bezitter van [TITLE.GetName] is #bold niet#! [TARGET_TITLE.GetName]"
+ PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is 'de jure' deel van [TARGET_TITLE.GetName]"
+ NOT_PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is #bold niet#! 'de jure' deel van [TARGET_TITLE.GetName]"
+ LANDED_TITLE_DE_JURE_EQUAL:0 "[TITLE.GetName] is 'de jure' deel van [TARGET_TITLE.GetName]"
+ NOT_LANDED_TITLE_DE_JURE_EQUAL:0 "[TITLE.GetName] is #bold niet#! 'de jure' deel van [TARGET_TITLE.GetName]"
+ DE_JURE_LIEGE_EQUAL:0 "De directe 'de jure' bezitter van [TITLE.GetName] is [TARGET_TITLE.GetName]"
+ NOT_DE_JURE_LIEGE_EQUAL:0 "De directe 'de jure' bezitter van [TITLE.GetName] is #bold niet#! [TARGET_TITLE.GetName]"
  DE_FACTO_LIEGE_EQUAL:0 "De feitelijke huidige bezitter van [TITLE.GetName] is [TARGET_TITLE.GetName]"
  NOT_DE_FACTO_LIEGE_EQUAL:0 "De feitelijke huidige bezitter van [TITLE.GetName] is #bold niet#! [TARGET_TITLE.GetName]"
  IS_HELD_BY:0 "Is in bezit van [TARGET_CHARACTER.GetShortUIName]"
@@ -105,13 +105,13 @@ l_english:
  NOT_PROVINCE_CAPITAL_EQUAL_GLOBAL:0 "Is [CHARACTER.GetShortUINamePossessive] #bold niet#! [realm_capital]"
  PROVINCE_CAPITAL_EQUAL_THIRD:0 "[CHARACTER.GetShortUINamePossessive] [realm_capital] is [PROVINCE.GetBaronyNameExplicitly]"
  NOT_PROVINCE_CAPITAL_EQUAL_THIRD:0 "[CHARACTER.GetShortUINamePossessive] [realm_capital] is #bold niet#! [PROVINCE.GetBaronyNameExplicitly]"
- PROVINCE_CAPITAL_EQUAL_FIRST:0 "Your [realm_capital] is [PROVINCE.GetBaronyNameExplicitly]"
- NOT_PROVINCE_CAPITAL_EQUAL_FIRST:0 "Your [realm_capital] is #bold niet#! [PROVINCE.GetBaronyNameExplicitly]"
+ PROVINCE_CAPITAL_EQUAL_FIRST:0 "Jouw [realm_capital] is [PROVINCE.GetBaronyNameExplicitly]"
+ NOT_PROVINCE_CAPITAL_EQUAL_FIRST:0 "Jouw [realm_capital] is #bold niet#! [PROVINCE.GetBaronyNameExplicitly]"
 
  # Faith Triggers
- FAITH_RELIGION_EQUAL_THIRD:0 "[FAITH.GetName] is a [RELIGION.GetAdjective] [faith|E]"
+ FAITH_RELIGION_EQUAL_THIRD:0 "[FAITH.GetName] is een [RELIGION.GetAdjective] [faith|E]"
  NOT_FAITH_RELIGION_EQUAL_THIRD:0 "[FAITH.GetName] is #bold geen#! [RELIGION.GetAdjective] [faith|E]"
- FAITH_RELIGION_EQUAL_GLOBAL:0 "Is a [RELIGION.GetAdjective] [faith|E]"
+ FAITH_RELIGION_EQUAL_GLOBAL:0 "Is een [RELIGION.GetAdjective] [faith|E]"
  NOT_FAITH_RELIGION_EQUAL_GLOBAL:0 "Is #bold geen#! [RELIGION.GetAdjective] [faith|E]"
 
  ACCOLADE_TYPE_EQUAL_GLOBAL:0 "Dit [accolade_type|e] is ongeldig"
