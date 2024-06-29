@@ -1,36 +1,36 @@
 l_english:
  bm_1066_rags_to_riches:0 "Van Bedelaar tot Miljonair"
- bm_1066_rags_to_riches_desc:1 "#V #font:TitleFont #size:20 @legends_of_ck_icon! Legends of Crusader Kings III#!#!#!\n\nIn heel Europa vechten families om de macht, soms op minder nette manieren. Veldslagen worden gewonnen en verloren, dynastieën komen en gaan als ze hun heersers te slim af zijn.\n\n#bold De oude koningen worden vervangen terwijl nieuwkomers naar de sterren reiken. Welke zal jij zijn?#!"
+ bm_1066_rags_to_riches_desc:1 "#V #font:TitleFont #size:20 @legends_of_ck_icon! Legendes van Crusader Kings III#!#!#!\n\nIn heel Europa vechten families om de macht, soms op minder nette manieren. Veldslagen worden gewonnen en verloren, dynastieën komen en gaan als ze hun heersers te slim af zijn.\n\n#bold De oude koningen worden vervangen terwijl nieuwkomers naar de sterren reiken. Welke zal jij zijn?#!"
 
  # Murchad Briain, Duke of Munster, Ireland
  bookmark_rags_to_riches_petty_king_murchad:0 "Kleinkoning Murchad"
- bookmark_rags_to_riches_petty_king_murchad_desc:0 "[diplomacy_lifestyle_i] #V #font:TitleFont #size:20 Legend of Crusader Kings III#!#!#!\nAan het begin van de 11e eeuw glipte het Hoge Koningschap van Ierland keer op keer uit handen van het Huis Briain, terwijl de Ierse adellijke huizen tegen elkaar en tegen de Vikingen oorlog voerden om grondgebied. En hoewel Murchard uit een lijn van heersters kwam die voorbestemd leken om de kroon te dragen, weten we weinig over zijn korte heerschappij over het kleine Munster.\n\n#bold Misschien kan, met jouw hulp, een lid van het Huis Briain weer op de troon van Ierland zitten?#!"
+ bookmark_rags_to_riches_petty_king_murchad_desc:0 "[diplomacy_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nAan het begin van de 11e eeuw glipte het Hoge Koningschap van Ierland keer op keer uit handen van het Huis Briain, terwijl de Ierse adellijke huizen tegen elkaar en tegen de Vikingen oorlog voerden om grondgebied. En hoewel Murchard uit een lijn van heersters kwam die voorbestemd leken om de kroon te dragen, weten we weinig over zijn korte heerschappij over het kleine Munster.\n\n#bold Misschien kan, met jouw hulp, een lid van het Huis Briain weer op de troon van Ierland zitten?#!"
 
  bookmark_rags_to_riches_petty_king_murchad_alt_brian:0 "$Brian$"
  bookmark_rags_to_riches_petty_king_murchad_alt_bebinn:0 "$BE_binn$"
 
  # Matilda di Canossa, Duchess of Tuscany, Italy
  bookmark_rags_to_riches_duchess_matilda:0 "Hertogin Matilda"
- bookmark_rags_to_riches_duchess_matilda_desc:0 "[learning_lifestyle_i] #V #font:TitleFont #size:20 Legend of Crusader Kings III#!#!#!\nIn het kluwen-landschap landschap van het 11e-eeuwse Noord-Italië regeert Matilda van Canossa over een aanzienlijk rijk na een aantal ongelukkige sterfgevallen in de familie. Legenden over Matilda's vroomheid en gefluister over hekserij geven haar heerschappij een mystiek tintje.\n\n#bold Kun jij haar heerschappij beschermen en ervoor zorgen dat de Canossa-lijn generaties lang standhoudt in het steeds veranderende landschap van middeleeuws Italië?#!"
+ bookmark_rags_to_riches_duchess_matilda_desc:0 "[learning_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nIn het kluwen-landschap van het 11e-eeuwse Noord-Italië regeert Matilda van Canossa over een aanzienlijk rijk na een aantal ongelukkige sterfgevallen in de familie. Legenden over Matilda's vroomheid en gefluister over hekserij geven haar heerschappij een mystiek tintje.\n\n#bold Kun jij haar heerschappij beschermen en ervoor zorgen dat de Canossa-lijn generaties lang standhoudt in het steeds veranderende landschap van middeleeuws Italië?#!"
 
  # Yahya Dhunnunid, Emir (Duke) of Toldeo, Iberia
  bookmark_rags_to_riches_emir_yahya:0 "Emir Yahya"
- bookmark_rags_to_riches_emir_yahya_desc:1 "[intrigue_lifestyle_i] #V #font:TitleFont #size:20 Legend of Crusader Kings III#!#!#!\nHet Koninkrijk Toledo ontstond aan het einde van de 11e eeuw met de machtsovername van de gelijknamige stad door de koning van León. Na het uitsterven van de Emir Yahya en zijn invloed, zal de Dhun-Nunid familie hun macht verliezen over een regio die ze al generaties lang regeren.\n\n#bold Heb jij het in je om de koningen van het Iberisch schiereiland uit te dagen en de geschiedenis van het Huis Dhun-Nunid te veranderen?#!"
+ bookmark_rags_to_riches_emir_yahya_desc:1 "[intrigue_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nHet Koninkrijk Toledo ontstond aan het einde van de 11e eeuw met de machtsovername van de gelijknamige stad door de koning van León. Na het wegvallen van de Emir Yahya en zijn invloed, zal de Dhun-Nunid familie hun macht verliezen over een regio die ze al generaties lang regeren.\n\n#bold Heb jij het in je om de koningen van het Iberisch schiereiland uit te dagen en de geschiedenis van het Huis Dhun-Nunid te veranderen?#!"
 
  bookmark_rags_to_riches_emir_yahya_alt_zahida:0 "$Zahida$"
  bookmark_rags_to_riches_emir_yahya_alt_yahya2:0 "$Yahya$"
 
  # Vratislav Premyslid, Duke of Bohemia, Czechia
  bookmark_rags_to_riches_duke_vratislav:0 "Hertog Vratislav"
- bookmark_rags_to_riches_duke_vratislav_desc:0 "[stewardship_lifestyle_i] #V #font:TitleFont #size:20 Legend of Crusader Kings III#!#!#!\nDe familie Přemyslid regeert al honderden jaren over de Bohemen. Meestal gold het erfrecht van de oudste, in het geval hertog Vratislav. Dit zal uiteindelijk leiden tot een vervelende ruzie met zijn broers.\n\n#bold Om koning van Bohemen te worden, moet Vratislav zijn middelen verstandig gebruiken, en niet alleen de materiële: Kun jij deze taak aan?#!"
+ bookmark_rags_to_riches_duke_vratislav_desc:0 "[stewardship_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nDe familie Přemyslid regeert al honderden jaren over de Bohemen. Meestal gold het erfrecht van de oudste, in dit geval hertog Vratislav. Dit zal uiteindelijk tot een vervelende ruzie met zijn broers leiden.\n\n#bold Om koning van Bohemen te worden, moet Vratislav zijn middelen verstandig gebruiken, en niet alleen de materiële: Kun jij deze taak aan?#!"
 
  bookmark_rags_to_riches_duke_vratislav_alt_judita:0 "$Judita$"
  bookmark_rags_to_riches_duke_vratislav_alt_ota:0 "$Ota$ $nick_the_handsome$"
 
 
  # Robert 'The Fox' de Hauteville, Duke of Apulia, Sicily
- bookmark_rags_to_riches_duke_robert:0 "Hertig Robert"
- bookmark_rags_to_riches_duke_robert_desc:0 "[martial_lifestyle_i] #V #font:TitleFont #size:20 Legend of Crusader Kings III#!#!#!\nRobert begon zijn carrière als dief en leider van een bende struikrovers. Als een van de vele broers en zussen had niemand ooit voorspeld dat hij op een dag een briljant strateeg en staatsman zou worden die over uitgestrekte gebieden zou heersen - maar hier is hij dan, een machtige hertog van Zuid-Italië, klaar om het pad van de geschiedenis in te slaan, waardoor de Hautevilles meer dan honderd jaar lang voet aan de grond zullen houden op Sicilië.\n\n#bold Als je de macht in het rijk kunt bestendigen, wacht het koninkrijk Sicilië op zijn heerser!#!"
+ bookmark_rags_to_riches_duke_robert:0 "Hertog Robert"
+ bookmark_rags_to_riches_duke_robert_desc:0 "[martial_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nRobert begon zijn carrière als dief en leider van een bende struikrovers. Als een van de vele broers en zussen had niemand ooit voorspeld dat hij op een dag een briljant strateeg en staatsman zou worden die over uitgestrekte gebieden zou heersen - maar hier is hij dan, een machtige hertog van Zuid-Italië, klaar om het pad van de geschiedenis in te slaan, waardoor de Hautevilles meer dan honderd jaar lang voet aan de grond zullen houden op Sicilië.\n\n#bold Als je de macht in het rijk kunt bestendigen, wacht het koninkrijk Sicilië op zijn heerser!#!"
 
  bookmark_rags_to_riches_duke_robert_alt_bohemond:0 "$Bohemond$"
  bookmark_rags_to_riches_duke_robert_alt_roger:0 "$Roger$"
@@ -73,7 +73,7 @@ l_english:
  bookmark.1069.c_flavor: "Soms is niets doen het beste."
  
  bookmark.1070.t: "Een Normandisch Sicilië"
- bookmark.1070.desc: "Het leven als hertog is te verkiezen boven het leven van een bandiet... maar het leven als koning past beter bij me.\n\nBij de gratie van God en St. Peter heers ik over [GetTitleByKey('d_apulia').GetNameNoTier] en [GetTitleByKey('d_calabria').GetNameNoTier] — maar met de gratie van enkele #EMP oude vrienden#! uit mijn dagen als struikrover zou ik over de hele [GetTitleByKey('k_sicily').GetName]. kunnen heersen. Het maakt niet uit wat de paus of de keizer denken.\n\nTijd om aan het werk te gaank."
+ bookmark.1070.desc: "Het leven als hertog is te verkiezen boven het leven van een bandiet... maar het leven als koning past beter bij me.\n\nBij de gratie van God en St. Peter heers ik over [GetTitleByKey('d_apulia').GetNameNoTier] en [GetTitleByKey('d_calabria').GetNameNoTier] — maar met de gratie van enkele #EMP oude vrienden#! uit mijn dagen als struikrover zou ik over de hele [GetTitleByKey('k_sicily').GetName]. kunnen heersen. Het maakt niet uit wat de paus of de keizer denken.\n\nTijd om aan het werk te gaan."
  bookmark.1070.a: "Dit alles, en nog veel meer, zal van mij zijn!"
  bookmark.1070.b: "Misschien moet ik wegblijven uit het Keizerrijk."
  bookmark.1070.c: "Zowel de paus als de keizer kunnen hun land behouden..."
@@ -81,7 +81,7 @@ l_english:
  claim_sicily: "Je ontvangt [pressed_claims|E] op alle kleinere [rulers|E] binnen [GetTitleByKey('k_sicily').GetName]"
  
  bookmark.1071.t: "De schijnheilige monnik"
- bookmark.1071.desc: ""...en daarom moet je mijn claim op [GetTitleByKey('e_byzantium').GetNameNoTier] moeten steunen!" zegt de monnik en buigt naar me. "e krijgt een bondgenoot die je kunt vertrouwen en alle steun die je nodig hebt!"\n\nDeze monnik is een duidelijke bedrieger. Hij is geen zogenaamde #EMP 'ten onrechte afgezette keizer van het Romeinse Rijk'#!, maar hij #EMP is#! nuttig.\n\n Hoewel hij een laaggeboren boer is met een valse claim, is een excuus voor oorlog een excuus voor oorlog..."
+ bookmark.1071.desc: ""...en daarom moet je mijn claim op [GetTitleByKey('e_byzantium').GetNameNoTier] steunen!" zegt de monnik en buigt naar me. "Je krijgt een bondgenoot die je kunt vertrouwen en alle steun die je nodig hebt!"\n\nDeze monnik is een duidelijke bedrieger. Hij is geen zogenaamde #EMP 'ten onrechte afgezette keizer van het Romeinse Rijk'#!, maar hij #EMP is#! nuttig.\n\n Hoewel hij een laaggeboren boer is met een valse claim, is een excuus voor oorlog een excuus voor oorlog..."
  bookmark.1071.a: "Ik zet hem op de troon van Constantinopel!!"
  bookmark.1071.b: "Eerlijk gezegd wil ik gewoon een paar havens voor mezelf opeisen..."
  bookmark.1071.c: "Ik ben niet in de positie om je te helpen."
