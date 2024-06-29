@@ -1,9 +1,9 @@
 l_english:
  bm_1066_hastings:0 "Het Lot van Engeland"
- bm_1066_hastings_desc:2 "Toen de kinderloze koning Edward de Belijder stierf, stortte zijn dood Engeland in een ongekende opvolgingscrisis.\n\nDrie mannen probeerden de troon veilig te stellen: Harald Godwinson, Willem de Bastaard en Harald de Harde, terwijl Sven en Malcolm klaar stonden om bij het minste teken van zwakte toe te slaan.\n\n#bold Wie zal als winnaar tevoorschijn komen in deze turbulente tijden?#!"
+ bm_1066_hastings_desc:2 "Toen de kinderloze koning Edward de Belijder stierf, stortte zijn dood Engeland in een ongekende opvolgingscrisis.\n\nDrie mannen probeerden de troon veilig te stellen: Harald Godwinson, Willem de Bastaard en Harald de Harde, terwijl Svend van Denemarken en Malcolm van Schotland klaar stonden om bij het minste teken van zwakte toe te slaan.\n\n#bold Wie zal als winnaar tevoorschijn komen in deze turbulente tijden?#!"
 
  bookmark_hastings_england:0 "Koning Harold van Engeland"
- bookmark_hastings_england_desc:2 "Harold Godwinson was de leider van een machtig adellijk huis en de zwager van de koning toen de kinderloze koning Edward stierf. Nu hij door zijn gelijken tot de nieuwe koning van Engeland is gekozen, wordt hij geconfronteerd met de uitdaging om de troon te behouden, omdat de hebzuchtige hertog van Normandië en koning Harald van Noorwegen, aangespoord en geholpen door Harolds verbannen broer, proberen hem te vervangen!\n\n#bold Met een groot leger in de rug en de steun van de Angelsaksische heren - zullen de wolven merken dat ze meer hebben afgebeten dan ze kunnen kauwen?#!"
+ bookmark_hastings_england_desc:2 "Harold Godwinson was de leider van een machtig adellijk huis en de zwager van de koning toen de kinderloze koning Edward stierf. Nu hij tot de nieuwe koning van Engeland is gekozen, wordt hij geconfronteerd met de uitdaging om de troon te behouden, omdat de hebzuchtige hertog van Normandië en koning Harald van Noorwegen, aangespoord en geholpen door Harolds verbannen broer, proberen hem te vervangen!\n\n#bold Met een groot leger in de rug en de steun van de Angelsaksische heren - zullen de wolven merken dat ze meer hebben afgebeten dan ze kunnen kauwen?#!"
 
  bookmark_hastings_england_alt_tostig:0 "$Tostig$"
  bookmark_hastings_england_alt_eadgifu:0 "$Eadgifu$ $nick_the_fair$"
@@ -15,7 +15,7 @@ l_english:
  bookmark_hastings_normandy_alt_william:0 "$William$ $nick_the_red$"
 
  bookmark_hastings_norway:0 "Harald de Harde"
- bookmark_hastings_norway_desc:1 "Harald, die al sinds zijn jeugd een formidabel militair talent heeft, heeft onlangs geprobeerd Denemarken te veroveren, maar is daar niet in geslaagd. Nu kijkt hij verder dan de zee — volgens een oud verdrag had de kroon van Engeland op Harald moeten overgaan toen de laatste koning zonder erfgenaam stierf. Maar in plaats daarvan hebben de Angelsaksen Harold Godwinson op de troon gezet! Gelukkig heeft de nep-koning vijanden gemaakt, en Tostig Godwinson, Harold's eigen broer, leeft in ballingschap in Noorwegen...\n\n#bold Kun jij Haralds vijanden tegen hem gebruiken en ervoor zorgen dat deze Varangiër de controle over de Noordzee krijgt#!"
+ bookmark_hastings_norway_desc:1 "Harald, die al sinds zijn jeugd een formidabel militair talent heeft, heeft onlangs geprobeerd Denemarken te veroveren, maar is daar niet in geslaagd. Nu kijkt hij verder dan de zee — volgens een oud verdrag had de kroon van Engeland op Harald moeten overgaan toen de laatste koning zonder erfgenaam stierf. Maar in plaats daarvan hebben de Angelsaksen Harold Godwinson op de troon gezet! Gelukkig heeft deze nep-koning vijanden gemaakt, en Tostig Godwinson, Harold's eigen broer, leeft in ballingschap in Noorwegen...\n\n#bold Kun jij Haralds vijanden tegen hem gebruiken en ervoor zorgen dat deze Varangiër de controle over de Noordzee krijgt#!"
  
  bookmark_hastings_norway_alt_olaf:0 "$Olaf$"
  bookmark_hastings_norway_alt_ingegerd:0 "$Ingegerd$"
