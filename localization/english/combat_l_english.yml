@@ -1,13 +1,13 @@
-﻿l_english:
+l_english:
  COMBAT_NAME:1 "Slag bij [PROVINCE.GetNameNoTooltip]"
  TOTAL_DEAD_AND_INITIAL_MEN:0 "$DEAD$"
- TOTAL_DEAD_AND_INITIAL_MEN_TOOLTIP:0 "Casualties: $DEAD|V$\nInitial [soldiers|E]: $INITIAL|V$"
- TOTAL_INITIAL_MEN:0 "Initial [soldiers|E]"
+ TOTAL_DEAD_AND_INITIAL_MEN_TOOLTIP:0 "Gewonden: $DEAD|V$\nAanvankelijke [soldiers|E]: $INITIAL|V$"
+ TOTAL_INITIAL_MEN:0 "Aanvankelijke [soldiers|E]"
  TOTAL_MEN_ALIVE:0 "[soldiers|E] levend"
  TOTAL_MEN_DEAD:0 "Slachtoffers"
- COMBAT_BALANCE_ATTACKER_WINNING:0 "De Aanvaller wint op het huidig moment"
- COMBAT_BALANCE_DEFENDER_WINNING:0 "De Verdediger wint op het huidig moment"
- COMBAT_BALANCE_UNDECIDED:0 "Het [battle|E] is nog onbepaald"
+ COMBAT_BALANCE_ATTACKER_WINNING:0 "De Aanvaller wint op dit moment"
+ COMBAT_BALANCE_DEFENDER_WINNING:0 "De Verdediger wint op dit moment"
+ COMBAT_BALANCE_UNDECIDED:0 "De [battle|E] is nog onbepaald"
  COMBAT_CURRENT_PHASE:1 "Huidige [combat_phase|E]: [$PHASE|V$]"
  COMBAT_CURRENT_PHASE_DAYS_LEFT:1 "Dagen over in de huidige [combat_phase|E]: $VALUE|V$"
  COMBAT_TOTAL_DAYS:0 "Totale lengte van [battle|E]: $DAYS|V$"
@@ -17,7 +17,7 @@
  #ATTACKER_LEADER:0 "" Delete this
  #DEFENDER_LEADER:0 "" Delete this
  COMBAT_MODIFIER_HEADER:0 "$TYPE$: $VALUE|2+=%$"
- END_OF_COMBAT:0 "[battle|E] is geeïndigd"
+ END_OF_COMBAT:0 "[battle|E] is geëindigd"
  DEPLOYED:0 "Ingezet: "
  DIED:0 "Overleden: "
  # Maneuver Combat Actions
@@ -25,16 +25,16 @@
  ford_river:0 "Rivier Doorwaden"
  take_high_ground:0 "Hogere Grond Opzoeken"
  sleeping_camp:0 "Slapend in Kamp"
- rousing_speech:0 "Opwekkende Toespreek"
+ rousing_speech:0 "Opwekkende Toespraak"
  # Skirmish Combat Actions
  default_skirmish:0 "Schermutseling"
  cover:0 "Dekking Zoeken"
  extended_skirmish:0 "Uitgebreide Schermutseling"
  # Melee Combat Actions
- default_melee:0 "Mêlee"
+ default_melee:0 "Strijdgewoel"
  desperate_stand:0 "Wanhopige Stand"
  lead_the_charge:0 "Leid de Aanval"
- press_the_breach:0 "Press the Breach"
+ press_the_breach:0 "Bestorm de verdediging"
  rallying_cry:0 "Strijdkreet"
  character_duel:0 "Duel Uitdaging"
  character_duel_response:0 "Duel Reactie"
@@ -57,7 +57,7 @@
  VICTORY_LABEL:1 "#P Overwinning#!"
  LOSS_LABEL:1 "#N Verslagen#!"
  SIEGE_NAME:0 "[siege|E] van $NAME|V$"
- RAID_NAME:1 "[raid|E] of [PROVINCE.GetNameNoTooltip|V]"
+ RAID_NAME:1 "[raid|E] op [PROVINCE.GetNameNoTooltip|V]"
  combat_action_0:0 "Geen Sterren"
  combat_action_1:0 "1/5 Ster"
  combat_action_2:0 "2/5 Sterren"
@@ -69,7 +69,7 @@
  ADVANTAGE_POSITIVE:0 "$VALUE|0P$"
  ADVANTAGE_NEGATIVE:0 "$VALUE|0N$"
  defender_river:0 "Verdedigt een Oeververbinding"
- defender_river_large:0 ""Verdedigt een Essentieële Oeververbinding"
+ defender_river_large:0 ""Verdedigt een Essentiële Oeververbinding"
  defender_strait:0 "Verdedigt een Zeestraat"
  COMBAT_EARLY_BATTLE_PHASE_TOOLTIP_HEADING:0 "#T Vroege Gevechtsfase#!"
  COMBAT_LATE_BATTLE_PHASE_TOOLTIP_HEADING:0 "#T Late Gevechtsfase#!"
@@ -79,7 +79,7 @@
  COMBAT_NO_RETREAT_PURSUIT:0 "@warning_icon! Kan niet terugtrekken in de Najacht"
  COMBAT_NO_RETREAT_LANDLESS:0 "@warning_icon! Kan niet terugtrekken als Landeloze Bevelhebber"
  # New combat
- combat_phase_maneuver:0 "Manouvreren"
+ combat_phase_maneuver:0 "Manoeuvreren"
  combat_phase_main:0 "Hoofd"
  combat_phase_pursuit:0 "Najacht"
  tooltip_combat_phase_maneuver:0 "#T Huidge [combat_phase|E]: [maneuver|E]#!"
@@ -90,7 +90,7 @@
  COUNTERED:0 "afgeslagen"
  PURSUING:0 "Najagen"
  RETREATING:0 "Terugtrekken"
- COMBAT_WIDTH_BASE_DESCRIPTION:1 "$BASE_COLON$ #weak (Half the total of all [soldiers|E] at the start of battle)#!"
+ COMBAT_WIDTH_BASE_DESCRIPTION:1 "$BASE_COLON$ #weak (De helft van het totaal van alle [soldiers|E] aan het begin van het gevecht)#!"
  COMBAT_PREDICTION_LEVEL_0:1 "Je zal beslist verliezen"
  COMBAT_PREDICTION_LEVEL_1:1 "Je zal waarschijnlijk verliezen"
  COMBAT_PREDICTION_LEVEL_2:0 "De kansen zijn gelijk"
@@ -108,3 +108,4 @@
  COMBAT_ON_MAP_TOOLTIP:0 "#T [Combat.GetName]#!\n[soldiers|E]: [Combat.GetLeftSide.GetCurrentFightingMen|0] tegen [Combat.GetRightSide.GetCurrentFightingMen|0]\n#I Klik om te bekijken#!"
  COMMANDER_ADVANTAGE_DESC:1 "#T Bevelhebber [advantage|E]: $ADVANTAGE$#!\nKrijgshaftigheid: $SKILL|+=$\n$MODIFIERS$"
  #COMMANDER_ADVANTAGE_ADJUSTED_DESC:2 "" # <DELETE THIS KEY>
+ 
