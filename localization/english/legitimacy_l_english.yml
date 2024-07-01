@@ -1,4 +1,4 @@
-﻿l_english: 
+l_english: 
   default_legitimacy_level_0: "[Concept( 'legitimacy', 'Onrechtmatig' )|E] Heerschappij"
   default_legitimacy_level_1: "[legitimacy|E] $LEVEL|V:roman$"
   default_legitimacy_level_2: "[legitimacy|E] $LEVEL|V:roman$"
@@ -27,8 +27,9 @@
   legitimacy_hud_tt: "[LegitimacyType.GetFlavorName( LegitimacyLevel.Self )] Vorst [LegitimacyLevel.GetIndex|V]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )]"
   legitimacy_hud_tt_subheading: "[legitimacy_level|E] voor [LegitimacyType.GetName]"
   legitmacy_flavor_and_level: "[LegitimacyType.GetFlavorName( LegitimacyLevel.Self )|V] #weak ([LegitimacyLevel.GetIndex]/[Subtract_int32( GetDataModelSize( LegitimacyType.GetLevels ), '(int32)1' )])#!"
-  LEGITIMACY_TRACK_TITLE: "Legitimacy [Character.GetLegitimacy|V^]/[LegitimacyType.GetMaxLegitimacy( Character.Self )|V^]"
+  LEGITIMACY_TRACK_TITLE: "Legitimiteit [Character.GetLegitimacy|V^]/[LegitimacyType.GetMaxLegitimacy( Character.Self )|V^]"
   LEGITIMACY_TRACK_TOOLTIP: "#T [LegitimacyType.GetFlavorName( LegitimacyLevel.Self )]#!\nVerwacht tenminste [LegitimacyLevel.GetThreshold( Character.Self )|V^] Legitimacy\n\n$LEGITIMACY_EFFECTS$"
 
   legitimacy_high_modifier_tt: "Hoge [legitimacy|E]"
   legitimacy_low_modifier_tt: "Lage [legitimacy|E]"
+  
