@@ -1,9 +1,9 @@
-﻿l_english:
- RANDOM_COUNT:0 "Random count"
- RANDOM_SEED:0 "Random seed"
+l_english:
+ RANDOM_COUNT:0 "Willekeurig getal"
+ RANDOM_SEED:0 "Willekeurige seed"
  GAMESTATE_CHECKSUM:0 "Gamestate checksum"
- LIVING_CHARACTERS:0 "Living characters"
- MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY:0 "Microsoft only"
- MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY_TT:1 "#T $MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY$\n#!$JOM_BULLET_WITH_TAB$The Game is listed and visible only to Microsoft Store players\n$JOM_BULLET_WITH_TAB$Players that know the Password can join the game, if there is none, anyone can join\n$JOM_BULLET_WITH_TAB$Players can also join if invited or if the Host shares the Server ID\n$JOM_BULLET_WITH_TAB$Only players using Microsoft accounts can join"
- MULTIPLAYER_GUI_CLICK_TO_SELECT:1 "Click on the map to select a [character|E] to play, or to create your own Ruler as their replacement!"
- MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID:0 "#T Paste the Server ID from the Clipboard#!"
+ LIVING_CHARACTERS:0 "Levende personages"
+ MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY:0 "Uitsluitend Microsoft"
+ MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY_TT:1 "#T $MULTIPLAYER_GUI_PUBLIC_MICROSOFT_ONLY$\n#!$JOM_BULLET_WITH_TAB$Het spel wordt uitsluitend weergegeven voor spelers van de Microsoft Store\n$JOM_BULLET_WITH_TAB$Spelers die het wachtwoord kennen, kunnen meedoen aan het spel. Als er geen wachtwoord is, kan iedereen meedoen.\n$JOM_BULLET_WITH_TAB$Spelers kunnen ook meedoen als ze zijn uitgenodigd of als de host de server-ID deelt.\n$JOM_BULLET_WITH_TAB$Alleen spelers met een Microsoft-account kunnen meedoen"
+ MULTIPLAYER_GUI_CLICK_TO_SELECT:1 "Klik op de kaart om een [character|E] te selecteren om te spelen, of om je eigen heerser te creëren als hun vervanger!"
+ MULTIPLAYER_GUI_SERVER_BROWSER_PASTE_ID:0 "#T Plak de server-ID vanaf het klembord#!"
