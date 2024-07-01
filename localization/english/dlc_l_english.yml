@@ -5,7 +5,7 @@
  DLC_COMPLETE_COLLECTION:0 "Maak je collectie compleet"
  VISIT_STORE_BUTTON:0 "Bezoek de Winkel"
  DLC_ENABLED:0 "Uitbreiding is ingeschakeld"
- DLC_NOT_ENABLED:1 "Uitbruiding is #X niet#! ingeschakeld"
+ DLC_NOT_ENABLED:1 "Uitbreiding is #X niet#! ingeschakeld"
  DLC_FEATURES:0 "Eigenschappen:"
  DLC_BUTTON_TOOLTIP:1 "#T [DlcItem.GetDlc.GetName]#!\n[DlcItem.GetDlc.GetDesc]\n\n#low [SelectLocalization( DlcItem.GetDlc.IsEnabled, 'DLC_ENABLED', 'DLC_NOT_ENABLED' )]#!\n#I Klik om naar de winkel te gaan#!"
 
