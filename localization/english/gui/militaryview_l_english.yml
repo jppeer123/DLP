@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  MILITARY:0 "Strijdmacht"
  CREATE_BANNER:0 "Creëer Verzamelpunt"
  SOLDIERS_INFO:0 "$CURRENT$/$MAX$"
@@ -26,7 +26,7 @@
  BANNER_KNIGHTS_LABEL:1 "$knight_culture_player_plural$:"
  BANNER_TROOPS_TAB:0 "Jouw Legers"
  BANNER_KNIGHTS_TAB:1 "$knight_culture_player_plural_no_tooltip$"
- RAISE_BANNER_TT_TITLE:0 "#T Roep de Baanderheren op bij het [rally_point|E]#!"
+ RAISE_BANNER_TT_TITLE:0 "#T Roep de Heervaarders op bij het [rally_point|E]#!"
  RAISE_BANNER_TT_NO_SOLDIERS:0 "@warning_icon! #X Geen [soldiers|E] om op te roepen#!"
  RAISE_BANNER_TT_LEVIES:0 "$UNRAISED|0V$ van de $RAISE_MAX|0V$ [levies|E] kunnen worden opgeroepen"
  RAISE_BANNER_TT_MAA:0 "$UNRAISED|0V$ van de $RAISE_MAX|0V$ [men_at_arms|E] kunnen worden opgeroepen"
@@ -74,8 +74,8 @@
  TT_CAP_REGIMENT_CAP:0 "Limiet"
  TT_CAP_TIER_REASON:0 "Je bent een $TIER$"
  TT_RAISE_ALL_MAA_INFO:1 "[men_at_arms|E], [special_troops|E], [mercenaries|E], en [holy_orders|E] zullen bijeenkomen bij het [rally_point|E] het dichtstbij jouw [realm_capital|E]."
- TT_RAISE_ALL:2 "#T Roep alle Baanderheren op#!\n[levies|E] zullen bijeenkomen bij het [rally_point|E].\n\n$TT_RAISE_ALL_MAA_INFO$"
- TT_RAISE_ALL_RAIDERS:0 "#T Roep alle Baanderheren als plunderaars#!\nRoep alle Baanderheren op, en zij zullen zich bewapenen als [raiders|E] "
+ TT_RAISE_ALL:2 "#T Roep alle Heervaarders op#!\n[levies|E] zullen bijeenkomen bij het [rally_point|E].\n\n$TT_RAISE_ALL_MAA_INFO$"
+ TT_RAISE_ALL_RAIDERS:0 "#T Roep alle Heervaarders als plunderaars#!\nRoep alle Heervaarders op, en zij zullen zich bewapenen als [raiders|E] "
  TT_RAISE_ALL_MEN_AT_ARMS:0 "#T Roep alle Wapendragers op#!\n[men_at_arms|E] zullen bijeenkomen bij het [rally_point|E] het dichtstbij jouw [realm_capital|E]."
  TT_RAISE_ALL_LEVIES:0 "Onopgeroepen [levies|E]: $UNRAISED|0V$/$RAISE_MAX|0V$"
  TT_RAISE_ALL_MAA:0 "Onopgeroepen [men_at_arms|E]: $UNRAISED|0V$/$RAISE_MAX|0V$"
