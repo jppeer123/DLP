@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ACTIVITY_LIST:0 "Activiteiten"
  ACTIVITY_LIST_NO_ONGOING_ACTIVITY:2 "#weak Je hebt op het moment geen [activities|E] waar je aan meedoet\nJe kunt er een organiseren [AddTextIf(HasDlcFeature('advanced_activities'), 'of meedoen')] aan een Activiteit#!"
  ACTIVITY_CURRENT_HEADER:0 "Huidige [activity|E]"
@@ -44,7 +44,7 @@
  ACTIVITY_LIST_DETAIL_JOIN_DEPARTURE_TIME:0 "Je moet vertrekken in [ActivityListDetailJoinView.GetLatestDepartureDate.GetTimeToDate|V]"
  ACTIVITY_LIST_DETAIL_JOIN_REQUIRED_SPECIAL_GUEST:0 "Als de [ActivitySpecialGuestType.GetNameForGuest] zal de [activity|E] wachten op jouw komst, voor te beginnen."
  ACTIVITY_LIST_DETAIL_JOIN_MAY_NOT_ARRIVE_IN_TIME:1 "@warning_icon! #X Je zult wellicht niet op tijd aankomen voor [Activity.GetShortNameNoTooltip]#!"
- ACTIVITY_LIST_DECLINE_INVITE:0 "#T Uitnodiging Afwijzen#!\nDecline the invitation to [Activity.GetName]\n\n#I Click to decline#!"
+ ACTIVITY_LIST_DECLINE_INVITE:0 "#T Uitnodiging Afwijzen#!\nWijs de uitnodiging tot [Activity.GetName] af\n\n#I Klik om af te wijzen#!"
  ACTIVITY_DECLINE_INVITE_POPUP_TITLE:0 "Uitnodiging Afwijzen"
  ACTIVITY_DECLINE_INVITE_POPUP_BODY:0 "Uitnodiging Afwijzen to [Activity.GetName]"
  ACTIVITY_DECLINE_INVITE_POPUP_ACCEPT:0 "Afwijzen"
