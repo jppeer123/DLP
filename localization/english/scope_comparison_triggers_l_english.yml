@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  # Title Hierarchy Triggers
  PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is 'de jure' deel van [TARGET_TITLE.GetName]"
  NOT_PROVINCE_DE_JURE_EQUAL:0 "[PROVINCE.GetName] is #bold niet#! 'de jure' deel van [TARGET_TITLE.GetName]"

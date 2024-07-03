@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  RICH_PRESENCE_NO_CHARACTER:0 "de Wereld"
  rich_presence_default:0 "Heerst als"
  rich_presence_ghw:0 "Vechtend in de [ROOT.Char.GetFaith.GetGreatHolyWar.GetNameNoTooltip] als"

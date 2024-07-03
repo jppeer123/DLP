@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  courtier_guest_management.0001.t:4 "Je [SCOPE.sC('liege').Custom2('RelationToMeShort', SCOPE.sC('child'))] [child.GetShortUINameNoTooltip] staat op het punt de Hof te verlaten"
  courtier_guest_management.desc:0 "[child.GetTitledFirstName] heeft geen reden om aan het hof te blijven en zal spoedig vertrekken"
 

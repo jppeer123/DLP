@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  RP_CANNOT_PLACE_INVALID_PROVINCE:0 "#X De locatie ligt buiten je [realm|E]#!"
  RP_CANNOT_PLACE_ALREADY_THERE:0 "#X Er is hier al een [rally_point|E].#!"
  RP_CANNOT_PLACE_OCCUPIED:0 "#X De locatie is [occupied|E]#!"

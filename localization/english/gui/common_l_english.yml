@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  CHARACTER_IN_ACTIVITY_LOCATION:1 "In Activiteit: [ACTIVITY.GetBaronyNameExplicitly|V]"
  CHARACTER_IN_LOCATION:1 "Bevindt zich in [PROVINCE.GetBaronyNameExplicitly|V]"
  CLOSE_TOOLTIP:0 "#T $CLOSE_LABEL$#!"

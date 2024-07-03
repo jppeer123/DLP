@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  ACTIVE_COUNCIL_TASK_TT:2 "Mijn [ActiveCouncilTask.GetPositionType.GetName] [ActiveCouncilTask.GetCouncillor.GetUIName] is toegewezen aan [ActiveCouncilTask.GetTaskType.GetName|V]"
  ACTIVE_COUNCIL_TASK_FROZEN_TT:1 "#T [ActiveCouncilTask.GetTaskType.GetName|V] #!\n@warning_icon! #X Wijs een personage toe voor deze Hofraadfunctie om met de taak verder te kunnen gaan#!"
  POTENTIAL_COUNCIL_TASK_TT:2 "[ActiveCouncilTask.GetCouncillor.GetUIName] wordt toegewezen aan [ActiveCouncilTask.GetTaskType.GetName|V]"

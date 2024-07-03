@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  SELECT_CHARACTER_ON_MAP:0 "Kies een Personage op de Kaart."
  PICK_ANY_CHARACTER:5 "Speel als een Heerser in #bold [GameSetup.GetSelectedBookmark.GetDate.GetYear]#!, of #bold creëer jouw eigen!#!"
  BOOKMARK_DISABLED:0 "Deze Bladwijzer is uitgezet"

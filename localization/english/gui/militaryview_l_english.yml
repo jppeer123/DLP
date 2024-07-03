@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  MILITARY:0 "Strijdmacht"
  CREATE_BANNER:0 "Creëer Verzamelpunt"
  SOLDIERS_INFO:0 "$CURRENT$/$MAX$"

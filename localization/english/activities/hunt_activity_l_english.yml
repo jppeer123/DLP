@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  activity_invite_rule_hunters:1 "Hofjagers"
  activity_invite_rule_glory_hounds:1 "Eerzuchtige vazallen"
  activity_window_character_animal_slayer:1 "Beestendoder\n[Character.GetShortUINameNoTooltip|U]"

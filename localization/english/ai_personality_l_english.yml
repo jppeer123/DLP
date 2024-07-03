@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  AI_PERSONALITY_ADJECTIVE_NOUN:0 "$ADJECTIVE$ $NOUN$"
  AI_PERSONALITY_NEUTRAL:0 "Gebalanceerd"
  AI_PERSONALITY_NEUTRAL_EXPLANATION:0 "Dit personage heeft een evenwichtige persoonlijkheid en zal zich niet opvallend gedragen."

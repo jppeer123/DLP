@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  APPOINT_COURT_POSITION_VIEW_replace_character_header:2 "Vervang [AppointCourtPositionView.GetCourtPositionToReplace.GetEmployee.GetShortUINameNoTooltip] als [AppointCourtPositionView.GetCourtPositionType.GetName]"
  APPOINT_COURT_POSITION_VIEW_select_character_header:2 "Benoem [AppointCourtPositionView.GetCourtPositionType.GetName]"
  APPOINT_COURT_POSITION_VIEW_salary:3 "Maandelijks Salaris: [CourtPositionType.GetSalaryTextFor( Character.Self )]"

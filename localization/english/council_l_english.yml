@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  
  COUNCIL_SAME_CHARACTER:0 "[CHARACTER.GetShortUIName|U] kan niet tegelijkertijd Hofraadslid en eigenaar van de Raad zijn"
  COUNCIL_NOT_LIEGE:0 "[CHARACTER.GetShortUIName|U] moet de Leenheer zijn van [TARGET_CHARACTER.GetShortUIName] om hem toe te wijzen als Hofraadslid."

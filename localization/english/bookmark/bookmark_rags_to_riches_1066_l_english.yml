@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  bm_1066_rags_to_riches:0 "Van Bedelaar tot Miljonair"
  bm_1066_rags_to_riches_desc:1 "#V #font:TitleFont #size:20 @legends_of_ck_icon! Legendes van Crusader Kings III#!#!#!\n\nIn heel Europa vechten families om de macht, soms op minder nette manieren. Veldslagen worden gewonnen en verloren, dynastieën komen en gaan als ze hun heersers te slim af zijn.\n\n#bold De oude koningen worden vervangen terwijl nieuwkomers naar de sterren reiken. Welke zal jij zijn?#!"
 
@@ -22,7 +22,7 @@ l_english:
 
  # Vratislav Premyslid, Duke of Bohemia, Czechia
  bookmark_rags_to_riches_duke_vratislav:0 "Hertog Vratislav"
- bookmark_rags_to_riches_duke_vratislav_desc:0 "[stewardship_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nDe familie Přemyslid regeert al honderden jaren over de Bohemen. Meestal gold het erfrecht van de oudste, in dit geval hertog Vratislav. Dit zal uiteindelijk tot een vervelende ruzie met zijn broers leiden.\n\n#bold Om koning van Bohemen te worden, moet Vratislav zijn middelen verstandig gebruiken, en niet alleen de materiële: Kun jij deze taak aan?#!"
+ bookmark_rags_to_riches_duke_vratislav_desc:0 "[stewardship_lifestyle_i] #V #font:TitleFont #size:20 Legende van Crusader Kings III#!#!#!\nDe familie Přemyslid regeert al honderden jaren over de Bohemen. Meestal gold het erfrecht van de oudste, in dit geval hertog Vratislav. Dit zal uiteindelijk tot een vervelende ruzie met zijn broers leiden.\n\n#bold Om koning van Bohemen te worden, moet Vratislav zijn middelen verstandig inzetten, en niet alleen de materiële: Kun jij deze taak aan?#!"
 
  bookmark_rags_to_riches_duke_vratislav_alt_judita:0 "$Judita$"
  bookmark_rags_to_riches_duke_vratislav_alt_ota:0 "$Ota$ $nick_the_handsome$"

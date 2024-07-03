@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  ACTIVITY_LIST:0 "Activiteiten"
  ACTIVITY_LIST_NO_ONGOING_ACTIVITY:2 "#weak Je hebt op het moment geen [activities|E] waar je aan meedoet\nJe kunt er een organiseren [AddTextIf(HasDlcFeature('advanced_activities'), 'of meedoen')] aan een Activiteit#!"
  ACTIVITY_CURRENT_HEADER:0 "Huidige [activity|E]"

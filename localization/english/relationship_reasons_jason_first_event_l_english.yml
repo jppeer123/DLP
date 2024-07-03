@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  rival_race_sabotage_accusation:0 "[CHARACTER.GetShortUIName|U] beschuldigd [TARGET_CHARACTER.GetShortUIName] van verraderlijke sabotage na een botsing tijdens een race."
  rival_race_sabotage_accusation_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] beschuldigd [CHARACTER.GetShortUIName] van verraderlijke sabotage na een botsing tijdens een race."
 
