@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  DEFAULT_NICKNAME_DESC:2 "Vriend en vijand door het land kennen [CHARACTER.GetShortUINameNoTooltipNoFormat] als '[CHARACTER.GetNicknameNoTooltip]'."
 
  nick_tiny:0 "Miniscuul"
@@ -21,7 +21,7 @@
  nick_lodbrok_desc:1 "The cowering masses of the world call [CharYouHerHim(CHARACTER)] "Hairy Britches", for it is said that [CharYouSheHe(CHARACTER)] wear[_s(CHARACTER)] trousers of hide torn from the corpse of a mighty wyrm. Naturally, one #EMP [CharYouSheHe(CHARACTER)]#! slew."
  nick_ring:0 "Ring"
  nick_ring_desc:1 "No one really knows why the world calls [CharYouHerHim(CHARACTER)] "$nick_ring$", though eager peasants hope it's because [CharYouSheHe(CHARACTER)] [CharAreIs(CHARACTER)] generous with [CharYourHerHis(CHARACTER)] purse."
- nick_snake_in_the_eye:0 "Slang-in-het-Oog"
+ nick_snake_in_the_eye:0 "Slangenoog"
  nick_snake_in_the_eye_desc:1 "Travellers whisper that [CharYouSheHe(CHARACTER)] bear[_s(CHARACTER)] the ouroboros as a blemish in [CharYourHerHis(CHARACTER)] eye — the eternal symbol of a snake biting its own tail. Few are willing to get close enough to check the veracity of such claims."
  nick_the_affable:0 "the Affable"
  nick_the_affable_desc:1 "Calm, easy-going, pleasant. [CharYouSheHe(CHARACTER)|U] [CharDontDoesnt(CHARACTER)] mind by what epithet people call [CharYouHerHim(CHARACTER)], but fortunately, it's almost always something #EMP nice#!."
