@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  DEFAULT_NICKNAME_DESC:2 "Vriend en vijand door het land kennen [CHARACTER.GetShortUINameNoTooltipNoFormat] als '[CHARACTER.GetNicknameNoTooltip]'."
 
  nick_tiny:0 "Miniscuul"
