@@ -114,7 +114,7 @@
  action_can_usurp_title:1 "@titles_icon! Titel kan afgenomen worden"
  action_can_usurp_title_combined_group_label:2 "@titles_icon! Titels kunnen afgenomen worden"
  action_can_usurp_title_combined_group_name:1 "@titles_icon! [title|E] kan afgenomen worden"
- action_can_usurp_title_desc:3 "Je bezit genoeg [counties|E] in de [landed_title.GetName] om de [title|E] over te nemen.$action_can_usurp_title_HELP$"
+ action_can_usurp_title_desc:3 "Je bezit genoeg [counties|E] in het [landed_title.GetName] om de [title|E] over te nemen.$action_can_usurp_title_HELP$"
  action_can_usurp_title_combined_group_description:3 "Je bezit genoeg [counties|E] in een [titles|E] om deze te [usurp|E].$action_can_usurp_title_HELP$"
  action_can_usurp_title_label:2 "@titles_icon! Je kunt de Titel [landed_title.Custom('GetTierIcon')][landed_title.GetNameNoTooltip] overnemen"
  action_can_usurp_title_combined_label:1 "[landed_title.Custom('GetTierIcon')] [landed_title.GetNameNoTooltip]"
