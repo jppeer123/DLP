@@ -158,7 +158,7 @@
  trait_strategist_desc:0 "Een toegewijde leerling van de krijgskunst, die elke situatie in zijn voordeel kan veranderen."
  trait_strategist_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is een toegewijde leerling van de krijgskunst, die elke situatie in zijn voordeel kan veranderen."
 
- trait_overseer:0 "Overziener"
+ trait_overseer:0 "Opzichter"
  trait_overseer_desc:0 "De leiding, vastberadenheid en autoriteit om ervoor te zorgen dat problemen goed worden opgelost."
  
  trait_gallant:0 "Galante"

@@ -2,47 +2,47 @@
  ##################################################
  # Misc Loc
  ## Titles
- single_combat.0000.t:0 "Single Combat:"
+ single_combat.0000.t:0 "Een-op-een Gevecht:"
  single_combat.0001.t:0 "$single_combat.0000.t$ [sc_attacker.GetTitledFirstNameNoTooltip]"
  single_combat.0011.t:0 "$single_combat.0000.t$ [sc_defender.GetTitledFirstNameNoTooltip]"
- single_combat.0031.t:0 "$single_combat.0000.t$ Defeat!"
- single_combat.0041.t:0 "$single_combat.0000.t$ Victory!"
+ single_combat.0031.t:0 "$single_combat.0000.t$ Nederlaag!"
+ single_combat.0041.t:0 "$single_combat.0000.t$ Zege!"
 
  ## Intro Spiels
- single_combat.0001.desc.sc_defender.intro:1 "[sc_attacker.GetTitledFirstName] and I stalk round each other, each weighing our options. [sc_attacker.GetSheHe|U] [sc_attacker.Custom('SignatureWeaponActionThirdPerson')] a fearsome [sc_attacker.Custom('SignatureWeaponNameOrType')], while I grip my own [sc_defender.Custom('SignatureWeaponNameOrType')] tightly. The deadly weapon feels cool and weighty in my grasp.\n\n"
- single_combat.0001.desc.capstone.intro.first_blood:0 "This fight may only be till first blood, but that doesn't ease my nerves."
- single_combat.0001.desc.capstone.intro.deadly:0 "Only one of us is walking away from here today, and I intend it to be me."
- single_combat.0001.desc.sc_attacker.intro:1 "For a few brief moments, [sc_defender.GetTitledFirstName] and I pace in lazy half-circles, each watching for an opening. I [sc_attacker.Custom('SignatureWeaponAction')] my [sc_attacker.Custom('SignatureWeaponNameOrType')], ready to defend myself, while [sc_defender.GetSheHe] clutches [sc_defender.GetHerHis] [sc_defender.Custom('SignatureWeaponNameOrType')] firmly to hand."
- single_combat.0001.desc.sc_attacker.intro.epilogue:1 "\n\nWith a sudden twitch, our bout begins.\n\n"
+ single_combat.0001.desc.sc_defender.intro:1 "[sc_attacker.GetTitledFirstName] en ik draaien om elkaar heen, elk onze volgende keuzes afwegen. [sc_attacker.GetSheHe|U] [sc_attacker.Custom('SignatureWeaponActionThirdPerson')] een gevreesde [sc_attacker.Custom('SignatureWeaponNameOrType')], terwijl ik mijn eigen [sc_defender.Custom('SignatureWeaponNameOrType')] stevig in mijn hand houd. Het dodelijke wapen voelt kil en gewichtig in mijn greep.\n\n"
+ single_combat.0001.desc.capstone.intro.first_blood:0 "Dit gevecht mag dan wel alleen tot bloed vloeit, maar dat kan mijn zenuwen niet verzachten."
+ single_combat.0001.desc.capstone.intro.deadly:0 "Maar een van ons beiden zal hier weglopen vandaag... Diegene ga ik zijn."
+ single_combat.0001.desc.sc_attacker.intro:1 "Voor een paar korte ogenblikken passeren [sc_defender.GetTitledFirstName] en ik elkaar in flauwe halve cirkels, elk lonkend naar een opening. Ik [sc_attacker.Custom('SignatureWeaponAction')] mijn [sc_attacker.Custom('SignatureWeaponNameOrType')], klaar om mijzelf te verdedigen, terwijl [sc_defender.GetSheHe] [sc_defender.GetHerHis] [sc_defender.Custom('SignatureWeaponNameOrType')] strak in zijn hand heeft vastgegrepen."
+ single_combat.0001.desc.sc_attacker.intro.epilogue:1 "\n\nMet een plotselinge haal, begint ons duel.\n\n"
  ##################################################
  # Tooltips
  ## Own Duel Success Increase Tooltips
- single_combat.0001.duel_success.none:0 "#difficulty_hard NO#! increase to your [single_combat_success_chance|E]"
- single_combat.0001.duel_success.low:0 "#difficulty_hard LOW#! increase to your [single_combat_success_chance|E]"
- single_combat.0001.duel_success.medium:0 "#difficulty_medium MEDIUM#! increase to your [single_combat_success_chance|E]"
- single_combat.0001.duel_success.high:0 "#difficulty_easy HIGH#! increase to your [single_combat_success_chance|E]"
- single_combat.0001.duel_success.very_high:0 "#difficulty_easy VERY HIGH#! increase to your [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.none:0 "#difficulty_hard GEEN#! verbetering van jouw [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.low:0 "#difficulty_hard WEINIG#! verbetering van jouw [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.medium:0 "#difficulty_medium GEMMIDELDE#! verbetering van jouw [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.high:0 "#difficulty_easy GROTE#! verbetering van jouw [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.very_high:0 "#difficulty_easy HEEL GROTE#! verbetering van jouw [single_combat_success_chance|E]"
 
  ## Own Injury Risk Increase Tooltips
- single_combat.0001.injury.none:0 "#difficulty_easy NO#! increase to your [single_combat_injury_chance|E]"
- single_combat.0001.injury.low:0 "#difficulty_easy LOW#! increase to your [single_combat_injury_chance|E]"
- single_combat.0001.injury.medium:0 "#difficulty_medium MEDIUM#! increase to your [single_combat_injury_chance|E]"
- single_combat.0001.injury.high:0 "#difficulty_hard HIGH#! increase to your [single_combat_injury_chance|E]"
- single_combat.0001.injury.very_high:0 "#difficulty_hard VERY HIGH#! increase to your [single_combat_injury_chance|E]"
+ single_combat.0001.injury.none:0 "#difficulty_easy GEEN#! verbetering van jouw [single_combat_injury_chance|E]"
+ single_combat.0001.injury.low:0 "#difficulty_easy WEINIG#! verbetering van jouw [single_combat_injury_chance|E]"
+ single_combat.0001.injury.medium:0 "#difficulty_medium GEMMIDELDE#! verbetering van jouw [single_combat_injury_chance|E]"
+ single_combat.0001.injury.high:0 "#difficulty_hard GROTE#! verbetering van jouw [single_combat_injury_chance|E]"
+ single_combat.0001.injury.very_high:0 "#difficulty_hard HEEL GROTE#! verbetering van jouw [single_combat_injury_chance|E]"
 
  ## Opponent Duel Success Increase Tooltips
- single_combat.0001.duel_success.none.has_happened:0 "#difficulty_hard NO#! increase to [my_foe.GetHerHis] [single_combat_success_chance|E]"
- single_combat.0001.duel_success.low.has_happened:0 "#difficulty_hard LOW#! increase to [my_foe.GetHerHis] [single_combat_success_chance|E]"
- single_combat.0001.duel_success.medium.has_happened:0 "#difficulty_medium MEDIUM#! increase to [my_foe.GetHerHis] [single_combat_success_chance|E]"
- single_combat.0001.duel_success.high.has_happened:0 "#difficulty_easy HIGH#! increase to [my_foe.GetHerHis] [single_combat_success_chance|E]"
- single_combat.0001.duel_success.very_high.has_happened:0 "#difficulty_easy VERY HIGH#! increase to [my_foe.GetHerHis] [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.none.has_happened:0 "#difficulty_hard GEEN#! verbetering to [my_foe.GetHerHis] [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.low.has_happened:0 "#difficulty_hard WEINIG#! verbetering to [my_foe.GetHerHis] [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.medium.has_happened:0 "#difficulty_medium GEMMIDELDE#! verbetering to [my_foe.GetHerHis] [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.high.has_happened:0 "#difficulty_easy GROTE#! verbetering to [my_foe.GetHerHis] [single_combat_success_chance|E]"
+ single_combat.0001.duel_success.very_high.has_happened:0 "#difficulty_easy HEEL GROTE#! verbetering to [my_foe.GetHerHis] [single_combat_success_chance|E]"
 
  ## Opponent Injury Risk Increase Tooltips
- single_combat.0001.injury.none.has_happened:0 "#difficulty_easy NO#! increase to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
- single_combat.0001.injury.low.has_happened:0 "#difficulty_easy LOW#! increase to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
- single_combat.0001.injury.medium.has_happened:0 "#difficulty_medium MEDIUM#! increase to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
- single_combat.0001.injury.high.has_happened:0 "#difficulty_hard HIGH#! increase to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
- single_combat.0001.injury.very_high.has_happened:0 "#difficulty_hard VERY HIGH#! increase to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
+ single_combat.0001.injury.none.has_happened:0 "#difficulty_easy GEEN#! verbetering to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
+ single_combat.0001.injury.low.has_happened:0 "#difficulty_easy WEINIG#! verbetering to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
+ single_combat.0001.injury.medium.has_happened:0 "#difficulty_medium GEMMIDELDE#! verbetering to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
+ single_combat.0001.injury.high.has_happened:0 "#difficulty_hard GROTE#! verbetering to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
+ single_combat.0001.injury.very_high.has_happened:0 "#difficulty_hard HEEL GROTE#! verbetering to [my_foe.GetHerHis] [single_combat_injury_chance|E]"
 
  ## Duel Edge Overflow Tooltips
  single_combat.0001.tt.maximum_buff_reached:0 "Maximum [single_combat_prowess_bonus|E] reached"
@@ -587,7 +587,7 @@
  single_combat.0031.a.wordless:0 "..."
  single_combat.0031.a.muffled:0 "Mrrm! #EMP MRRRMMM!#! #DIE2 Mrrrm#!..."
  single_combat.0031.a.choking:0 "Grk-hrk-#EMP GRK#!-#DIE1 grk#!..."
- single_combat.0031.a.pleading:0 "No, no, #EMP no, NO! Plea-#! #BOL AAARGH!#!"
+ single_combat.0031.a.pleading:0 "No, no, #EMP no, GEEN! Plea-#! #BOL AAARGH!#!"
  single_combat.0031.a.soulmate:0 "[sc_loser_soulmate.GetFirstNameNoTooltip], #DIE1 forgive#! #DIE2 me#!..."
  single_combat.0031.a.sinner:0 "I'll see you in [sc_loser.GetFaith.NegativeAfterLife], bastard!"
  single_combat.0031.a.saint:0 "[sc_loser.GetFaith.PositiveAfterLife]! #DIE1 Beautiful#!..."
