@@ -1,4 +1,4 @@
-﻿l_english:
+﻿﻿l_english:
  death_natural_causes:1 "overleed in [CHARACTER.GetHerHis] slaap"
  death_old_age:0 "stierf door ouderdom"
  death_bubonic_plague:1 "overleed aan de [GetTrait('bubonic_plague').GetName( CHARACTER.Self )]"
@@ -186,7 +186,7 @@
  death_by_exploding_whale:0 "stierf in een gigantische karkasexplosie"
  death_flight_attempt:0 "stierf tijdens poging te vliegen"
  death_beaten_by_mob:0 "werd doodgeslagen door een woedende menigte"
- death_burned_by_mob:0 “werd levend verbrand door een woedende menigte"
+ death_burned_by_mob:0 "werd levend verbrand door een woedende menigte"
  death_hanged_and_disemboweled_by_mob:0 "werd opgehangen en van zijn ingewanden ontdaan door een woedende menigte"
  death_crucified_by_mob:0 "werd gekruisigd door een woedende menigte"
  death_defenestrated_by_mob:0 "werd uit een raam gegooid door een woedende menigte"
