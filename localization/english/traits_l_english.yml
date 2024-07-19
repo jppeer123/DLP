@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE:0 "Vereist [TraitLevelTrackEntry.GetXpRequired|V0]+ [trait_level_track_xp|E]\n[TraitLevelTrackEntry.GetModifierDescription( Character.Self )][AddLocalizationIf( GreaterThan_int32( TraitLevelTrackEntry.GetLevel, '(int32)1' ), 'MODIFIER_PREVIOUS_LEVELS_APPLY_NEWLINE' )]"
  TRAIT_LEVEL_TRACK_ENTRY_DESC:2 "#V Level [TraitLevelTrackEntry.GetLevel]#!\n$TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE$"
  TRAIT_LEVEL_TRACK_ENTRY_DESC_TT:0 "\n\n#S Level [TraitLevelTrackEntry.GetLevel]#!\n$TRAIT_LEVEL_TRACK_ENTRY_DESC_BASE$"
@@ -158,7 +158,7 @@
  trait_strategist_desc:0 "Een toegewijde leerling van de krijgskunst, die elke situatie in zijn voordeel kan veranderen."
  trait_strategist_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is een toegewijde leerling van de krijgskunst, die elke situatie in zijn voordeel kan veranderen."
 
- trait_overseer:0 "Opzichter"
+ trait_overseer:0 "Overziener"
  trait_overseer_desc:0 "De leiding, vastberadenheid en autoriteit om ervoor te zorgen dat problemen goed worden opgelost."
  
  trait_gallant:0 "Galante"
@@ -185,7 +185,7 @@
  trait_torturer:0 "Martelaar"
  trait_torturer_desc:0 "Pijn veroorzaken. Iemands leven in je handen houden. Dit is echte macht."
  
- trait_whole_of_body:0 "Gezond van Lijf en Leden"
+ trait_whole_of_body:0 "Lichaam"
  trait_whole_of_body_desc:0 "Ken jezelf, ken je beperkingen en weet hoe ver je kunt reiken."
  
  trait_scholar:0 "Geleerde"
@@ -526,7 +526,7 @@
  trait_beauty_good_3_character_desc:0 "Betoverend, fascinerend en lieflijk; [ROOT.GetCharacter.GetFirstNameNoTooltip] overtreft de meeste anderen met [ROOT.GetCharacter.GetHerHis] schoonheid."
  trait_intellect_bad_1:0 "Traag"
  trait_intellect_bad_1_desc:0 "Veel dingen gaan ongemerkt aan dit personage voorbij."
- trait_intellect_bad_1_character_desc:0 Veel dingen gaan ongemerkt aan [ROOT.GetCharacter.GetFirstNameNoTooltip] voorbij."
+ trait_intellect_bad_1_character_desc:0 "Veel dingen gaan ongemerkt aan [ROOT.GetCharacter.GetFirstNameNoTooltip] voorbij."
  trait_intellect_bad_2:0 "Dom"
  trait_intellect_bad_2_desc:0 "Deze persoon is bepaald #EMP niet#! gezegend met intelligentie."
  trait_intellect_bad_2_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is bepaald #EMP niet#! gezegend met intelligentie."
@@ -614,7 +614,7 @@
  trait_spindly_desc:0 "De ledematen van dit personage zijn lang en knobbelig."
  trait_spindly_character_desc:0 "[ROOT.GetCharacter.GetFirstNamePossessiveNoTooltip] ledematen zijn lang en knobbelig."
  trait_scaly:0 "Geschubd"
- trait_scaly_desc:0 Dit personage is bedekt met schubachtige huidvlekken."
+ trait_scaly_desc:0 "Dit personage is bedekt met schubachtige huidvlekken."
  trait_scaly_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip] is bedekt met schubachtige huidvlekken."
  trait_albino:0 "Albino"
  trait_albino_desc:0 "Met het witte haar en de rode ogen boezemt dit personage velen angst in."
