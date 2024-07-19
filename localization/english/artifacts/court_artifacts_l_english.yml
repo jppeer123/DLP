@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ##############################
  # Procedural court artifacts #
  ##############################
@@ -53,7 +53,7 @@
 
  # Thrones 
  artifact_throne_charlemagne_name:1 "Troon van Karel de Grote"
- artifact_throne_charlemagne_description:0 Een eenvoudige maar imposante troon zonder opsmuk. De platen zijn gemaakt van massief marmer en zouden afkomstig zijn uit de Kerk van het Heilig Graf in Jeruzalem."
+ artifact_throne_charlemagne_description:0 "Een eenvoudige maar imposante troon zonder opsmuk. De platen zijn gemaakt van massief marmer en zouden afkomstig zijn uit de Kerk van het Heilig Graf in Jeruzalem."
  artifact_throne_solomon_name:1 "Troon van Salomon"
  artifact_throne_solomon_description:0 "Een opzichtige troon waarvan wordt beweerd dat hij ooit toebehoorde aan de legendarische koning Salomon. De troon, gemaakt van ivoor en verguld met goud, is ook bezet met vele kostbare edelstenen en metalen beelden van verschillende dieren op de treden die naar de troon leiden."
  artifact_throne_stone_scone_name:1 "Steen van Scone"
@@ -769,7 +769,7 @@
  artifact_plate_description:0 "Een prachtige schaal van [SCOPE.Custom('ArtifactQuality')] vakmanschap. Het is gegoten uit [newly_created_artifact.GetFeatureText( 'generic_material_metal' )] en geëtst met [newly_created_artifact.GetFeatureText( 'decoration_pattern' )]."
 
  artifact_urn_name:0 "$artifact_name_prefix$ Urn"
- artifact_urn_description:0 “Een prachtige urn van [SCOPE.Custom('ArtifactQuality')] vakmanschap. Het is gemaakt van [newly_created_artifact.GetFeatureText( 'generic_material_earthware' )] en omringd met afbeeldingen van [newly_created_artifact.GetFeatureText( 'decoration_pattern' )]."
+ artifact_urn_description:0 "Een prachtige urn van [SCOPE.Custom('ArtifactQuality')] vakmanschap. Het is gemaakt van [newly_created_artifact.GetFeatureText( 'generic_material_earthware' )] en omringd met afbeeldingen van [newly_created_artifact.GetFeatureText( 'decoration_pattern' )]."
 
  artifact_statuette_name:0 "$artifact_name_prefix$ Beeldje"
  artifact_statuette_description:0 "Een elegant miniatuurbeeldje van [SCOPE.Custom('ArtifactQuality')] vakmanschap, met een opgestegen [host.Custom('MountedWarriorTerm')] bij de hoek. Het is gegoten van goud en met indrukwekkend detail."
