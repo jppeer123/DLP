@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  MILITARY:0 "Strijdmacht"
  CREATE_BANNER:0 "Creëer Verzamelpunt"
  SOLDIERS_INFO:0 "$CURRENT$/$MAX$"
@@ -108,7 +108,7 @@
  MV_RALLY_POINTS:0 "[rally_points|E]:"
  MV_ADD_RALLY_POINT:0 "#I Klik om een nieuw [rally_point|E] toe te voegen#!"
  MV_RALLY_POINT_NUMBER_INFO:0 "$CURRENT|V$/$MAX|V$"
- MV_REMOVE_RALLY_POINT:1 "#T Verwijder Verzamelpunt#!\De [armies|E] kunnen opgeroepen worden naar de dichtsbijzijnde [rally_point|E]."
+ MV_REMOVE_RALLY_POINT:1 "#T Verwijder Verzamelpunt#!\nDe [armies|E] kunnen opgeroepen worden naar de dichtsbijzijnde [rally_point|E]."
  MV_TOTAL_SOLDIERS:0 "Totale Soldaten"
  MV_UNRAISED_SOLDIERS:0 "Onopgeroepen Soldaten"
  MV_KNIGHTS:1 "$knight_culture_player_plural$"
