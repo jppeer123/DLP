@@ -1,7 +1,7 @@
-﻿l_english:
- GAME_RULES:0 "Spelregels"
- GAME_RULES_HEADER:0 "Spelregels"
- GAME_RULE_CATEGORIES:0 "Spelregel filters"
+l_english:
+ GAME_RULES:0 "Speelregels"
+ GAME_RULES_HEADER:0 "Speelregels"
+ GAME_RULE_CATEGORIES:0 "Speelregel filters"
  IRONMAN_LABEL:0 "IJzeren Vuist"
  ENABLE_IRONMAN:0 "Inschakelen"
  DISABLE_IRONMAN:0 "Uitschakelen"
@@ -299,7 +299,7 @@
  setting_harm_tragic:0 "#high Tragisch#!"
  setting_harm_tragic_desc:0 "Niet alleen de goeden sterven jong - nu jij ook, met verhoogde kansen op willekeurig letsel voor iedereen!!"
  setting_harm_spiteful:0 "#high Haatdragend#!"
- setting_harm_spiteful_desc:0 Het lot richt zijn wrede toorn op [characters|E] met aanzien: personen met hoge [skills|E], overerfbare [traits|E], opmerkelijke prestaties, enzovoort."
+ setting_harm_spiteful_desc:0 "Het lot richt zijn wrede toorn op [characters|E] met aanzien: personen met hoge [skills|E], overerfbare [traits|E], opmerkelijke prestaties, enzovoort."
  setting_harm_tragically_spiteful:0 "#high Gruwelijk haatdragend#!"
  setting_harm_tragically_spiteful_desc:0 "Ieders kans op willekeurige letsel is aanzienlijk verhoogd, maar vooral voor iemand van #EMP aanzien#!."
  
@@ -445,7 +445,7 @@
  setting_epidemic_frequency_often_desc: "Plagen verschijnen en verspreiden zich vaker."
  setting_epidemic_frequency_very_often: "#high Zeer vaak#!"
  setting_epidemic_frequency_very_often_desc: "Plagen zullen veel vaker verschijnen en zich verspreiden."
- setting_epidemic_frequency_doomsday: "#high Dag des Onheils#!"
+ setting_epidemic_frequency_doomsday: "#high Onheilsdag#!"
  setting_epidemic_frequency_doomsday_desc: "De lucht is dik van de damp en de rivieren stromen vol bederf. De pest is de lucht die je inademt en het water dat je drinkt. Er is geen uitstel voor de eeuwige pest."
  setting_epidemic_frequency_rare: "#high Zelden#!"
  setting_epidemic_frequency_rare_desc: "Plagen zullen zelden verschijnen en zich minder vaak verspreiden."
@@ -477,3 +477,4 @@
  setting_legend_cost_low_desc: "Legendenkosten zijn de helft minder dan normaal."
  setting_legend_cost_very_low: "#high Zeer Laag#!"
  setting_legend_cost_very_low_desc: "Legendenkosten zijn een kwart van normaal."
+ 
