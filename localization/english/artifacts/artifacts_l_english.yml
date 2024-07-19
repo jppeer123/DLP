@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  artifact_type_helmet:0 "kroon"
  artifact_type_primary_armament:0 "wapen"
  artifact_type_armor:0 "bewapening"
@@ -690,7 +690,7 @@
  kurgan_saddle_name:0 "Zadel van een Koergan"
  kurgan_saddle_description:1 "Een zadel gejat door [inspiration_owner.GetTitledFirstName] uit een Scythische grafheuvel. Het is meer dan duizend jaar oud en is bewaard gebleven in de afgesloten lucht van de tombe, te midden van de lichamen van tientallen gebalsemde paarden. Misschien kunnen we iets leren van de manieren van de oude zadeldrijvers."
  naked_tapestry_name:0 "Wandtapijt Naakt"
- naked_tapestry_description:0 Een naakte afbeelding van [inspiration_owner.GetTitledFirstName] in een strandoase, uitwaaierend [inspiration_owner.GetHerselfHimself] met een blad, en glinsterend met kristalheldere druppels."
+ naked_tapestry_description:0 "Een naakte afbeelding van [inspiration_owner.GetTitledFirstName] in een strandoase, uitwaaierend [inspiration_owner.GetHerselfHimself] met een blad, en glinsterend met kristalheldere druppels."
 
  frogspawn_jar_name:0 "Pot met kikkerdril"
  frogspawn_jar_description:0 "Een pot gevuld met wat klotsend broed en een paar uitgekomen kikkervisjes. Verzonden naar [ROOT.Char.GetTitledFirstNameNoTooltip] door [inspiration_owner.GetTitledFirstName] als een verwijzing naar de verschrikkingen van het buitenleven.\n\nWriemelen!"
@@ -748,7 +748,7 @@
  tiny_box_trinket_name:0 "Miniatuur Doos"
  tiny_box_trinket_description:0 "Een klein maar mysterieus doosje. Misschien zal het een enkele zonde op de wereld loslaten als het wordt geopend. Gemaakt door [inspiration_owner.GetTitledFirstNameNoTooltip]."
  tiny_chest_trinket_name:0 "Miniatuur Kist"
- tiny_chest_trinket_description:0 Een kleine afgesloten kist ter grootte van een duim. Het rammelt als je ermee schudt en verraadt de inhoud. Gemaakt door [inspiration_owner.GetTitledFirstNameNoTooltip]."
+ tiny_chest_trinket_description:0 "Een kleine afgesloten kist ter grootte van een duim. Het rammelt als je ermee schudt en verraadt de inhoud. Gemaakt door [inspiration_owner.GetTitledFirstNameNoTooltip]."
  tiny_cabinet_trinket_name:0 "Miniaturr kast"
  tiny_cabinet_trinket_description:0 "Een kast die zo klein is dat hij waarschijnlijk in een andere kast moet worden opgeborgen om te voorkomen dat erop wordt getrapt. Gemaakt door [inspiration_owner.GetTitledFirstNameNoTooltip]."
  tiny_throne_trinket_name:0 "Miniatuur Troon"
@@ -952,7 +952,7 @@
  artifact_title_amazing:0 "Verbazingwekkend"
  artifact_title_fearsome:0 "Angstaanjagend"
  artifact_title_snakes:0 "van Slangen"
- artifact_title_themerciless:0 van de meedogenloze"
+ artifact_title_themerciless:0 "van de meedogenloze"
  artifact_title_glory:0 "van Glorie"
 # Additional Historical Artifacts
  artifact_pedestal_koh_i_noor_name:0 "Berg van het licht"
@@ -1073,7 +1073,7 @@
  robe_kassapa_desc:0 "Kassapa, de derde Boeddha van de huidige Kalpa, droeg dit gewaad een groot deel van zijn dagelijkse leven. Het is een merkwaardig grof stuk stof dat een speciale ereplaats inneemt als een van de weinige bekende kledingstukken van Boeddha die bewaard zijn gebleven."
  ##Trinket Generation
  #Bad/Trash
- gilded_rats_tail:0 Vergulde rattenstaart"
+ gilded_rats_tail:0 "Vergulde rattenstaart"
  gilded_rats_tail.desc:0 "Juwelen voor de arme man."
  quail_eggshell_gem:0 "Kwartel eierschaal 'Edelsteen'"
  quail_eggshell_gem.desc:0 "Een kleurrijk stuk eierschaal dat doorgaat als een edelsteen."
@@ -1124,7 +1124,7 @@
  easteregg_artifact_chad_dagger:0 "De Dolk"
  easteregg_artifact_chad_dagger_description:0 "Zijn glans is dof door de vlekken van opgedroogd bloed, maar hij dorst naar meer."
  easteregg_artifact_veronica_book:0 "De ringen van de Heer"
- easteregg_artifact_veronica_book_description:0 Een nauwelijks verholen naslagwerk in boekvorm. Geschreven in het beste Portugees."
+ easteregg_artifact_veronica_book_description:0 "Een nauwelijks verholen naslagwerk in boekvorm. Geschreven in het beste Portugees."
 
  easteregg_artifact_jason_sword:0 "Zwaard van Sint Maarten"
  easteregg_artifact_jason_sword_description:0 "Langs de rand van het mes heeft iemand slordig de woorden “dit ben ik” gekrast."
