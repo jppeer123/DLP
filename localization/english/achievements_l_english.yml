@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0 "Zeer gemakkelijk"
  ACHIEVEMENT_GROUP_easy_achievements:0 "Gemakkelijk"
  ACHIEVEMENT_GROUP_medium_achievements:0 "Gemiddeld"
@@ -142,7 +142,7 @@
  ACHIEVEMENT_DESC_mother_of_us_all_achievement:1 "Beginnend als Magajiva Daura, hervorm een Afrikaans heidens geloof en bekeer alle [counties|E] in Afrika daartoe"
  ACHIEVEMENT_DESC_ep2_01_the_grandest_tour_achievement:0 "Bezoek tien [kingdom|E] [title_tier|E] [vassals|E] tijdens een [GetActivityType( 'activity_tour' ).GetName]"
  ACHIEVEMENT_DESC_ep2_02_your_eternal_reward_achievement:0 "Zorg als [regent|E], voor een succesvolle machtsovername om je leenheer zijn [realm|E] af te nemen zonder [war|E] of [schemes|E]"
- ACHIEVEMENT_DESC_ep2_03_imperial_march_achieve"ment:0 "Ga als een [emperor|E], op een [intimidation_tour|E] langs #EMP alle#! [powerful_vassals|E] van jou"
+ ACHIEVEMENT_DESC_ep2_03_imperial_march_achievement:0 "Ga als een [emperor|E], op een [intimidation_tour|E] langs #EMP alle#! [powerful_vassals|E] van jou"
  ACHIEVEMENT_DESC_ep2_04_black_dinner_achievement:0 "Met succes organiseren van een $feast_type_murder$ fr $wedding_type_bloody$"
  ACHIEVEMENT_DESC_ep2_05_there_and_back_again_achievement:0 "Maak beide sporen van de [GetTrait('lifestyle_traveler').GetName( GetNullCharacter )] [trait|E] af"
  ACHIEVEMENT_DESC_ep2_06_the_very_best_achievement:0 "Voltooi elk spoor in de [GetTrait('tourney_participant').GetName( GetNullCharacter )] [trait|E]"
@@ -155,7 +155,7 @@
  ACHIEVEMENT_DESC_ep2_13_pathway_to_heaven_achievement:0 "Ga met één [character|E], op [pilgrimages|E] naa #EMP al#! je [holy_sites|E]"
  ACHIEVEMENT_DESC_ep2_14_sir_lance_a_lot_achievement:0 "Neem deel aan een $tournament_phase_joust$ met een voltooide $trait_track_horse$ variant van de [GetTrait('tourney_participant').GetName( GetNullCharacter )] [trait|E]"
  ACHIEVEMENT_DESC_ep2_15_im_in_my_elements_achievement:0 "Passeer elk [terrain|E], inclusief water, tijdens één [travel|E]"
- ACHIEVEMENT_DESC_ep2_16_ahab_achievement:0 Succesvol een legendarische $hunt_type_legendary$ [GetActivityType( 'activity_hunt' ).GetName] voltooien"
+ ACHIEVEMENT_DESC_ep2_16_ahab_achievement:0 "Succesvol een legendarische $hunt_type_legendary$ [GetActivityType( 'activity_hunt' ).GetName] voltooien"
  ACHIEVEMENT_DESC_ep2_17_little_william_marshal_achievement:0 "Win elke [contest|E] tijdens een [GetActivityType( 'activity_tournament' ).GetName] met minstens drie $game_concept_contests$"
  ACHIEVEMENT_DESC_ep2_18_a_true_and_perfect_knight_achievement:0 "heb een [acclaimed_knight|E] met de maximale rang en de [GetTrait('faith_warrior').GetName( GetNullCharacter )] [trait|E]"
  ACHIEVEMENT_DESC_ep2_19_a_e_i_o_u_and_me_achievement:1 "Begin als Habsburg, regeer het Aartshertogdom Oostenrijk en regel 5 of meer [GetActivityType( 'activity_wedding' ).GetName]s, en voer geen [war|E]"
