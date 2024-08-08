@@ -2613,5 +2613,5 @@ l_english:
  add_legitimacy_increase_level_global: "Verhoogt [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$"
  add_legitimacy_increase_level_global_neg: "Verlaagt [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$"
  add_legitimacy_increase_level_global_past: "Heeft [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$ verhoogd"
- add_legitimacy_increase_level_global_past_neg: "Heeft [legitimacy_level|E] to $legitmacy_flavor_and_level$ verlaagd"
+ add_legitimacy_increase_level_global_past_neg: "Heeft [legitimacy_level|E] naar $legitmacy_flavor_and_level$ verlaagd"
  
