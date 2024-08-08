@@ -1,5 +1,5 @@
 l_english:
- # Ik ben er op mijn locale PC mee bezig (Ted)
+ 
  CHARACTER_DEATH_EFFECT:1 "@death_icon! sterft"
  CHARACTER_DEATH_EFFECT_THIRD:1 "@death_icon! [CHARACTER.GetShortUIName|U] sterft"
  CHARACTER_DEATH_EFFECT_FIRST:1 "@death_icon! Jij overlijdt"
