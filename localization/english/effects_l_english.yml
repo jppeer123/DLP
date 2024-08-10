@@ -14,7 +14,7 @@ l_english:
  CHARACTER_DIED_EFFECT_KILLER_FIRST:2 "@death_icon! Je werd gedood door [TARGET_CHARACTER.GetShortUIName]"
  RANDOM_LIST_EFFECT:0 "1 van de $SIZE$ dingen zal gebeuren: \n"
  RANDOM_EFFECT:0 "$CHANCE$% kans op: "
- NO_EFFECT:0 "#weak Er gebeurt nietss#!"
+ NO_EFFECT:0 "#weak Er gebeurt niets#!"
  EVERY_ACTIVITY_PARTICIPANT_EFFECT:0 "Elke deelnemer"
  RANDOM_ACTIVITY_PARTICIPANT_EFFECT:0 "Willekeurige deelnemer"
  ADD_GOLD_EFFECT_POSITIVE:0 "$NAME$ krijgt [gold_i]$VALUE|+$"
@@ -672,7 +672,7 @@ l_english:
  I_GAINED_WEDDING_VERY_BAD_FERTILITY: "Jouw huwelijk met [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen"
  GAINS_WEDDING_VERY_BAD_FERTILITY: "Het huwelijk met [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen"
  GAINED_WEDDING_VERY_BAD_FERTILITY: "Het huwelijk met [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen"
- THEY_GAIN_WEDDING_VERY_BAD_FERTILITY: "Het huwelijk tussen [CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen
+ THEY_GAIN_WEDDING_VERY_BAD_FERTILITY: "Het huwelijk tussen [CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen"
  THEY_GAINED_WEDDING_VERY_BAD_FERTILITY: "Het huwelijk tussen [CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] is voorbestemd om #bold geen#! #X enkele#! nakomeling voort te brengen"
 
  I_GET_A_VISITOR:2 "[TARGET_CHARACTER.GetShortUIName|U] trekt in bij je [court|E]"
@@ -845,7 +845,7 @@ l_english:
  SET_CULTURE_THIRD:1 "[CHARACTER.GetShortUIName|U] neemt de [TARGET_CULTURE.GetName|V] Cultuur over"
  SET_CULTURE_GLOBAL_PAST:0 "Heeft de [TARGET_CULTURE.GetName|V] Cultuur overgenomen"
  SET_CULTURE_FIRST_PAST:2 "Je hebt je [TARGET_CULTURE.GetName|V] Cultuur overgenomen"
- SET_CULTURE_THIRD_PAST:1 "[CHARACTER.GetShortUIName|U] heeft de [TARGET_CULTURE.GetName|V] Cultuur" overgenomen
+ SET_CULTURE_THIRD_PAST:1 "[CHARACTER.GetShortUIName|U] heeft de [TARGET_CULTURE.GetName|V] Cultuur overgenomen"
 
  SET_CULTURE_OF_CHARACTER_SAME_AS:0 "Verandert [CHARACTER.GetShortUINamePossessive] cultuur naar dezelfde cultuur als [TARGET_CHARACTER.GetShortUIName] ([TARGET_CHARACTER.GetCulture.GetName|V])"
  SAT_CUTLURE_OF_CHARACTER_SAME_AS:0 "Veranderde [CHARACTER.GetShortUINamePossessive] cultuur naar dezelfde cultuur als [TARGET_CHARACTER.GetShortUIName] ([TARGET_CHARACTER.GetCulture.GetName|V])"
@@ -1731,7 +1731,7 @@ l_english:
  INCREASED_SEDUCE_SUCCESS_CHANCE_25_THEY:1 "[GetScheme('seduce').GetTypeName] [scheme|E] [success_chance|E]: #P +[EmptyScope.ScriptValue('smooth_operator_perk_bonus')|0]%#!\nKan zonder enige sanctie #V 1#! meer [language|E] leren"
 
  ESPIONAGE_MAY_FABRICATE_HOOKS:0 "[espionage|E] kan ook [hooks|E] opleveren"
- ENABLE_FABRICATE_HOOK_SCHEME:1 "Maakt het [GetScheme('fabricate_hook').GetTypeName]-[schema|E] mogelijk."
+ ENABLE_FABRICATE_HOOK_SCHEME:1 "Maakt het [GetScheme('fabricate_hook').GetTypeName]-[scheme|E] mogelijk."
  
  ESPIONAGE_COUNCILLOR_TASK_BONUS_25:0 "[espionage|E] Voortgangssnelheid: #P +[EmptyScope.ScriptValue('digging_for_dirt_perk_percentage')|0]%#!"
 
@@ -2129,7 +2129,7 @@ l_english:
  REMOVE_ALL_COUNTY_MODIFIER_INSTANCES_PAST_EFFECT:0 "Heeft alle $MODIFIER$ Modificatoren verloren"
  FACTION_REMOVE_WAR_EFFECT:0 "De factieoorlog verwijderen"
  FACTION_REMOVE_WAR_PAST_EFFECT:0 "De factieoorlog verwijderd"
- GET_ALL_INNOVATIONS_FROM_EFFECT:3 "[CULTURE.GetName|V] [culture|E] ontdekt alle [innovations|E] van [TARGET_CULTURE.GetName|V] cultuur
+ GET_ALL_INNOVATIONS_FROM_EFFECT:3 "[CULTURE.GetName|V] [culture|E] ontdekt alle [innovations|E] van [TARGET_CULTURE.GetName|V] cultuur"
  GET_ALL_INNOVATIONS_FROM_PAST_EFFECT:3 "[CULTURE.GetName|V] [culture|E] heeft alle [innovations|E] van [TARGET_CULTURE.GetName|V] cultuur ontdekt"
  
  CONTRACT_MODIFICATION_BLOCKED_GLOBAL:0 "[feudal_contract|E] onderhandelingen worden #X blocked#!"
@@ -2606,12 +2606,12 @@ l_english:
  add_legitimacy_increase_level_first_neg: "Je verlaagt je [legitimacy_level|E] naar $legitmacy_flavor_and_level$"
  add_legitimacy_increase_level_first_past: "Je hebt je [legitimacy_level|E] verhoogd naar $legitmacy_flavor_and_level$"
  add_legitimacy_increase_level_first_past_neg: "Je hebt je [legitimacy_level|E] verlaagd naar $legitmacy_flavor_and_level$"
- add_legitimacy_increase_level_third: "[CHARACTER.GetShortUIName|U] verhoogt [CHARACTER.GetHerHis] [legitimacy_level|E] naar $legitmacy_flavor_and_level$".
+ add_legitimacy_increase_level_third: "[CHARACTER.GetShortUIName|U] verhoogt [CHARACTER.GetHerHis] [legitimacy_level|E] naar $legitmacy_flavor_and_level$"
  add_legitimacy_increase_level_third_neg: "[CHARACTER.GetShortUIName|U] verlaagt [CHARACTER.GetHerHis] [legitimacy_level|E] tot $legitmacy_flavor_and_level$"
  add_legitimacy_increase_level_third_past: "[CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetHerHis] [legitimacy_level|E] verhoogd tot $legitmacy_flavor_and_level$"
  add_legitimacy_increase_level_third_past_neg: "[CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetHerHis] [legitimacy_level|E] verlaagd tot $legitmacy_flavor_and_level$"
- add_legitimacy_increase_level_global: "Verhoogt [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$"
- add_legitimacy_increase_level_global_neg: "Verlaagt [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$"
- add_legitimacy_increase_level_global_past: "Heeft [legitimiteit_niveau|E] naar $legitimiteit_smaak_en_niveau$ verhoogd"
- add_legitimacy_increase_level_global_past_neg: "Heeft [legitimacy_level|E] naar $legitmacy_flavor_and_level$ verlaagd"
+ add_legitimacy_increase_level_global: "Verhoogt [legitimacy_level|E] naar $legitimacy_level$"
+ add_legitimacy_increase_level_global_neg: "Verlaagt [legitimacy_level|E] naar $legitimacy_level$"
+ add_legitimacy_increase_level_global_past: "Heeft [legitimacy_level|E] naar $legitimacy_level$ verhoogd"
+ add_legitimacy_increase_level_global_past_neg: "Heeft [legitimacy_level|E] to $legitmacy_flavor_and_level$ verlaagd"
  
