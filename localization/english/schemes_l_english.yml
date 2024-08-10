@@ -1,4 +1,5 @@
 ﻿l_english:
+
  SCHEME_AGENT_GOLD:0 "Omkoping"
  SCHEME_AGENT_GOLD_VALID:0 "[recipient.GetShortUINameNoTooltip] [gold_i] [SCOPE.ScriptValue('bribe_value')|V0] betalen"
  SCHEME_HOOK:1 "Een [hook_i][hook|e] gebruiken"
@@ -109,7 +110,7 @@
  sway:1 "Zwaai"
  sway_action:0 "Zwaaien"
  sway_desc:0 "Ik zal proberen ervoor te zorgen dat [SCHEME.GetTarget.GetShortUINameNoTooltip] me begrijpt en misschien zelfs aardig vindt."
- sway_desc_general:1 "Het Complot Zwaaien is een [personal_scheme|E] dat erop gericht is om de [opinion|E] van een ander personage over jou te verbeteren. Dit schema is grotendeels afhankelijk van je [diplomacy|E]. Omdat het geen [hostile_scheme|E] is, is het geen [secret_scheme_single|E] en kunnen er geen [agents|E] hiervoor worden ingezt.\n\nAnders dan de meeste complotten, begint het Zwaaiencomplot na voltooiing opnieuw. De Mening die je ervan krijgt stapelt zich op, dus door het actief te houden zal de [scheme_target|E] je steeds aardiger vinden."
+ sway_desc_general:1 "Het Complot Zwaaien is een [personal_scheme|E] dat erop gericht is om de [opinion|E] van een ander personage over jou te verbeteren. Dit Complot is grotendeels afhankelijk van je [diplomacy|E]. Omdat het geen [hostile_scheme|E] is, is het geen [secret_scheme_single|E] en kunnen er geen [agents|E] hiervoor worden ingezt.\n\nAnders dan de meeste complotten, begint het Zwaaiencomplot na voltooiing opnieuw. De Mening die je ervan krijgt stapelt zich op, dus door het actief te houden zal de [scheme_target|E] je steeds aardiger vinden."
  scheme_interaction_tt_sway_approved:2 "Poging door te zwaaien naar [recipient.GetShortUINameNoTooltip], om [recipient.GetHerHis] [opinion|E] over jou te verbeteren"
  sway_sway_success_message:0 "[target.GetShortUINameNoTooltip] Succesvol Gezwaaid"
  sway_sway_failed_message:0 "[target.GetShortUINameNoTooltip] niet beïnvloed door Zwaaien"
@@ -235,7 +236,7 @@
  learn_court_language_interaction_notification:0 "De taal van het Hof leren"
  learn_language_invalidated_already_know_court_language_desc:0 "Je kent de [court_language|E] al"
 
- learn_language_desc_general_shared:0 "Dit Complotis voornamelijk gebaseerd op [learning|E].\n\nDe [success_chance|E] wordt door veel dingen beïnvloed, maar voornamelijk door je [learning_skill|E], die van je [court_chaplain|E], als je een gedeelde [heritage|E] hebt, en hoeveel talen je al kent. Jongere [characters|E] leren gemakkelijker nieuwe talen."
+ learn_language_desc_general_shared:0 "Dit Complot is voornamelijk gebaseerd op [learning|E].\n\nDe [success_chance|E] wordt door veel dingen beïnvloed, maar voornamelijk door je [learning_skill|E], die van je [court_chaplain|E], als je een gedeelde [heritage|E] hebt, en hoeveel talen je al kent. Jongere [characters|E] leren gemakkelijker nieuwe talen."
 
  # FABRICATE HOOK EXTRA
  CAN_NOT_FABRICATE_HOOKS_ON_WANDERERS:0 "Haken kunnen niet worden gemaakt op dwalende personages"
