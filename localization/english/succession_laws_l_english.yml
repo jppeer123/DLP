@@ -119,8 +119,7 @@
  tribal_elective_candidates: "Uitgebreide Familie, Vazallen en Eisers"
  tribal_elective_candidates_tooltip: "Om een verkiesbare kandidaat voor de Jirga te zijn, moet een personage aan een van de volgende voorwaarden voldoen:\n$EFFECT_LIST_BULLET$Een legitiem lid zijn van de [dynasty|E] van de heerser, die niet in lijn van opvolging ligt om een Theocratie of Republiek te erven. Kinderen van een kandidaat kunnen niet genomineerd worden\n$EFFECT_LIST_BULLET$Een [claimant|E] zijn op de titel, die niet in lijn is om een Theocratie of Republiek te erven\n$EFFECT_LIST_BULLET$Een [direct_vassal|E] zijn van de Titel"
  tribal_elective_electors: "$feudal_elective_electors$"
- tribal_elective_electors_tooltip: "Om een geldig [elector|E] bij de Jirga-verkiezing te zijn, moet een personage een [de_jure|E] vazal van de titel zijn en aan #italic één#! van de volgende voorwaarden voldoen:\n$EFFECT_LIST_BULLET$een [house_head|E] zijn\n$EFFECT_LIST_BULLET$een volwassene zijn met [piety_level|E] 2 of hoger"
-
+ tribal_elective_electors_tooltip: "Om een geldige [elector|E] bij de Jirga-verkiezing te zijn, moet een personage een [de_jure|E] vazal van de titel zijn en aan #italic één#! van de volgende voorwaarden voldoen:\n$EFFECT_LIST_BULLET$een [house_head|E] zijn\n$EFFECT_LIST_BULLET$een volwassene zijn met [piety_level|E] 2 of hoger"
 
  clan_antagonistic_partition_succession_law: "Antagonistische Opvolging"
  clan_antagonistic_partition_succession_law_subname: "Alle kinderen erven gelijkelijk"
@@ -138,7 +137,7 @@
  clan_friendly_partition_succession_law_subname: "Alle kinderen erven"
  clan_friendly_partition_succession_law_effects: "\n#V Bij $clan_friendly_partition_succession_law$, gaat het leeuwendeel van de [titles] naar jouw [player_heir] – de rest wordt verdeeld onder je kinderen.#!\n\n#weak $partition_base_desc$\n#!The Speler-Erfgenaam zal #emp altijd#! minstens de helft van de Titels van de overleden heerser erven.\n#!"
 
- clan_harmonious_partition_succession_law: "Harmonieze Opvolging"
+ clan_harmonious_partition_succession_law: "Harmoniueze Opvolging"
  clan_harmonious_partition_succession_law_subname: "Alle kinderen erven"
  clan_harmonious_partition_succession_law_effects: "\n#V Bij $clan_harmonious_partition_succession_law$, gaat het leeuwendeel van de [titles] naar jouw [player_heir] – de rest wordt verdeeld onder je kinderen.#!\n\n#weak $partition_base_desc$\n#!The Speler-Erfgenaamr zal #emp altijd#! minstens driekwart van de Titels van de overleden heerser erven.\n#!"
 
