@@ -1,29 +1,29 @@
 ﻿l_english:
  SUGGESTION_TITLE:0 "#T $NAME$#!"
  
- suggestion_recruit_maa_label:0 "Rekruteer Wapendragers"
+ suggestion_recruit_maa_label:0 "Wapendragers rekruteren"
  suggestion_recruit_maa:0 "Suggestie: Rekruteer Wapendragers"
- suggestion_recruit_maa_desc:0 "Je hebt minder [men_at_arms|E] dan verwacht is van een [ruler|E] met jouw [rank|E].\n\nNieuwe rekruteren zullen jouw [armies|E] ten goede komen, tegelijkertijd potentieële vijanden ervan weerhouden jou aan te vallen en je helpen te vechten tegen diegene die het alsnog doen."
+ suggestion_recruit_maa_desc:0 "Je hebt minder [men_at_arms|E] dan verwacht voor een [ruler|E] van jouw [rank|E].\n\nNieuwe rekruteren zal jouw [armies|E] goed doen. Dan worden potentiële vijanden er bovendien van weerhouden jou aan te vallen en ze helpen je te strijden tegen degenen die er toch op staan om te vechten."
  suggestion_recruit_maa_click:0 "#I Klik om je Leger te bekijken#!"
 
- suggestion_declare_war_label:0 "Verklaar Oorlog"
+ suggestion_declare_war_label:0 "Oorlog verklaren"
  suggestion_declare_war:0 "Suggestie: Verklaar Oorlog tegen [recipient.GetShortUINameNoTooltip]"
  suggestion_declare_war_desc:1 "Een oorlog winnen tegen [recipient.GetShortUIName] zal jouw [realm|E] laten groeien en potentiëel helpen jouw macht te vergroten, dit kan succes op de lange termijn veilig stellen voor je [house|E]."
  suggestion_declare_war_click:1 "#I Klik om Oorlog te verklaren#!"
 
  suggestion_construct_building_label:0 "Begin met Bouwen"
  suggestion_construct_building:0 "Suggestie: Begin met het opzetten van een bouwwerk in [landed_title.GetNameNoTierNoTooltip]"
- suggestion_construct_building_desc:1 "Gebouwen bouwen in [landed_title.GetNameNoTooltip] zal jou verschillende voordelen en winsten opleveren, zo'n investering gaat op de lange-termijn geen windeieren leggen."
+ suggestion_construct_building_desc:1 "Constructies bouwen in [landed_title.GetNameNoTooltip] zal je verschillende voordelen en winsten opleveren; zo'n investering zal je op de lange-termijn geen windeieren leggen."
  suggestion_construct_building_click:1 "#I Klik om de Heerlijkheid te bekijken#!"
 
- suggestion_fabricate_claim_label:0 "Fabriceer een Claim"
- suggestion_fabricate_claim:0 "Suggestie: Fabriceer een Claim op [landed_title.GetNameNoTierNoTooltip]"
- suggestion_fabricate_claim_desc:1 "Het naburige [landed_title.GetName] is beiden rijk en welvarend, maar je kan het niet overnemen zonder [casus_belli|E].\n\nAls je jouw [court_chaplain|E] of [realm_priest|E] stuurt om een [claim|E] te fabriceren, zal het jou een geldige reden geven om [war|E] te verklaren en deze titel voor jezelf in te nemen!"
+ suggestion_fabricate_claim_label:0 "Een Claim verzinnen"
+ suggestion_fabricate_claim:0 "Suggestie: Verzin een Claim op [landed_title.GetNameNoTierNoTooltip]"
+ suggestion_fabricate_claim_desc:1 "Het naburige [landed_title.GetName] is zowel rijk als welvarend, maar je kan het niet overnemen zonder [casus_belli|E].\n\nAls je jouw [court_chaplain|E] of [realm_priest|E] vraagt om een [claim|E] te verzinnen, zal het jou een geldige reden geven om [war|E] te verklaren en deze titel voor jezelf in te nemen!"
  suggestion_fabricate_claim_click:1 "#I Klik om Titel te bekijken#!"
 
  suggestion_create_title_label:0 "Creëer Titel"
  suggestion_create_title:0 "Suggestie: Creëer de [landed_title.GetNameNoTooltip]"
- suggestion_create_title_desc:1 "Je bezit genoeg [de_jure|E] land om het [landed_title.GetName] te [create|E]. Dit zal jouw [prestige|E] ernstig verhogen en jou de [rightful_liege|E] maken van alle titels die hieronder vallen."
+ suggestion_create_title_desc:1 "Je bezit genoeg [de_jure|E] land om het [landed_title.GetName] te [create|E]. Dit zal jouw [prestige|E] aanzienlijk verhogen en jou de [rightful_liege|E] maken van alle titels die hieronder vallen."
  suggestion_create_title_click:1 "#I Klik om Titel te bekijken#!"
 
  SUGGESTIONS_DEBUG:0 "#D SUGGESTIONS DEBUG:#!"
@@ -41,11 +41,11 @@
  suggestion_increase_opinion_label:0 "Verbeter Mening"
  suggestion_increase_opinion:0 "Suggestie: Verbeter [recipient.GetShortUINamePossessiveNoTooltip] mening over jou"
  suggestion_increase_opinion_desc:0 "Jouw [actor.Custom2('RelationToMeShort', SCOPE.sC('recipient'))] [recipient.GetShortUIName] heeft een slechte [opinion|E] over jou. Je kan dit verbeteren met een [personal_scheme|E], dit zal jouw leven potentieël makkelijker maken."
- suggestion_increase_opinion_click:1 "#I Klik om een Complot te startten#!"
+ suggestion_increase_opinion_click:1 "#I Klik om een Complot te starten#!"
 
  suggestion_raid_label:0 "Plunder"
  suggestion_raid:0 "Suggestie: Plunder [landed_title.GetNameNoTierNoTooltip]"
- suggestion_raid_desc:0 "Stuur jouw leger eropuit om  [landed_title.GetNameNoTierNoTooltip] te [raid|E], zij kunnen terugkomen met veel $game_concept_raid_loot$."
+ suggestion_raid_desc:0 "Stuur jouw leger eropuit om [landed_title.GetNameNoTierNoTooltip] te [raid|E], zij kunnen terugkomen met veel $game_concept_raid_loot$."
  suggestion_raid_click:1 "#I Klik om jouw Leger te bekijken#!"
 
  suggestion_grant_title_label:0 "Verleen Titel"
