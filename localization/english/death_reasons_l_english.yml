@@ -1,4 +1,5 @@
 ﻿﻿l_english:
+
  death_natural_causes:1 "overleed in [CHARACTER.GetHerHis] slaap"
  death_old_age:0 "stierf door ouderdom"
  death_bubonic_plague:1 "overleed aan de [GetTrait('bubonic_plague').GetName( CHARACTER.Self )]"
@@ -132,7 +133,7 @@
  death_burned_witch_killer:0 "verbrandde op de brandstapel op bevel van [TARGET_CHARACTER.GetUINamePossessive]"
  death_pilgrimage_bandit_attack:0 "werd overvallen door bandieten tijdens een pelgrimstocht"
  death_sun_trial:0 "geëxecuteerd na een 'Zon proces'"
- death_sun_trial_killer:0 "geëxecuteerd na een 'Zon proces' op bevel van [TARGET_CHARACTER.GetUINamePossessive]
+ death_sun_trial_killer:0 "geëxecuteerd na een 'Zon proces' op bevel van [TARGET_CHARACTER.GetUINamePossessive]"
  death_attacked:0 "werd gedood bij een aanval"
  death_attacked_killer:1 "werd gedood bij een aanval door [TARGET_CHARACTER.GetUIName]"
  death_feast_accident:0 "stierf toen een feest vreselijk misging"
