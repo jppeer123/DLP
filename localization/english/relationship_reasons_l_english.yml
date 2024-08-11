@@ -1,504 +1,506 @@
-﻿l_english:
- nemesis_skinned_cat:0 "[TARGET_CHARACTER.GetShortUIName|U] swore eternal vengeance after [CHARACTER.GetShortUINameNoTooltip] killed and skinned [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] pet cat."
- nemesis_skinned_cat_corresponding:0 "[CHARACTER.GetShortUIName|U] swore eternal vengeance after [TARGET_CHARACTER.GetShortUINameNoTooltip] killed and skinned [CHARACTER.GetShortUINamePossessiveNoTooltip] pet cat."
- 
- nemesis_excrement:0 "[CHARACTER.GetShortUIName|U] swore eternal vengeance after [TARGET_CHARACTER.GetShortUIName] sent an agent to cover [CHARACTER.GetShortUINameNoTooltip] from head-to-toe in excrement."
- nemesis_excrement_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] swore eternal vengeance after [CHARACTER.GetShortUIName] sent an agent to cover [TARGET_CHARACTER.GetShortUINameNoTooltip] from head-to-toe in excrement."
- 
- test_friend_desc:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over maps."
- test_rival_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] swore vengeance upon [CHARACTER.GetShortUIName] after [CHARACTER.GetShortUINameNoTooltip] killed [TARGET_CHARACTER.GetHerHis] dog."
- test_rival_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] swore vengeance upon [TARGET_CHARACTER.GetShortUIName] after [TARGET_CHARACTER.GetSheHe] killed [CHARACTER.GetShortUINamePossessiveNoTooltip] dog."
- test_nemesis_desc:1 "[TARGET_CHARACTER.GetShortUIName|U] swore eternal vengeance upon [CHARACTER.GetShortUIName] after [CHARACTER.GetShortUINameNoTooltip] killed, cooked, and ate [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] favorite dog."
- test_nemesis_desc_corresponding:1 "[CHARACTER.GetShortUIName|U] swore eternal vengeance upon [TARGET_CHARACTER.GetShortUIName] after [TARGET_CHARACTER.GetShortUINameNoTooltip] killed, cooked, and ate [CHARACTER.GetShortUINamePossessiveNoTooltip] favorite dog."
- test_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] seduced [CHARACTER.GetShortUIName] by showing off [TARGET_CHARACTER.GetHerHis] shapely legs."
- test_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] seduced [TARGET_CHARACTER.GetShortUIName] by showing off [CHARACTER.GetShortUINamePossessiveNoTooltip] shapely legs."
- test_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] professed undying devotion to [CHARACTER.GetShortUIName] by climbing a mountain and fetching a rare flower."
- test_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] professed undying devotion to [TARGET_CHARACTER.GetShortUIName] after [TARGET_CHARACTER.GetSheHe] climbed a mountain and fetched a rare flower."
- lover_seduced:0 "[TARGET_CHARACTER.GetShortUIName|U] seduced [CHARACTER.GetShortUIName]."
- lover_seduced_corresponding:0 "[CHARACTER.GetShortUIName|U] seduced [TARGET_CHARACTER.GetShortUIName]."
- 
- rival_daneland:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became rivals after the creation of the Daneland."
- rival_varangian:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] started despising each other while serving together in the Varangian Guard."
- 
- rival_fowl_prank:0 "[TARGET_CHARACTER.GetShortUIName|U] pranked [CHARACTER.GetShortUIName] with a bird at a feast."
- rival_fowl_prank_corresponding:0 "[CHARACTER.GetShortUIName|U] pranked [TARGET_CHARACTER.GetShortUIName] with a bird at a feast."
- 
- rival_unjustified_imprisonment:0 "[TARGET_CHARACTER.GetShortUIName|U] unjustly imprisoned [CHARACTER.GetShortUIName]."
- rival_unjustified_imprisonment_corresponding:0 "[CHARACTER.GetShortUIName|U] unjustly imprisoned [TARGET_CHARACTER.GetShortUIName]."
- 
- rival_name_inspiration:0 "[TARGET_CHARACTER.GetShortUIName|U] named a mountain '[CHARACTER.GetShortUIName]-Bane'."
- rival_name_inspiration_corresponding:0 "[CHARACTER.GetShortUIName|U] named a mountain '[TARGET_CHARACTER.GetShortUIName]-Bane'."
- 
- rival_lands_stolen:0 "[TARGET_CHARACTER.GetShortUIName|U] stole [CHARACTER.GetShortUINamePossessive] lands."
- rival_lands_stolen_corresponding:0 "[CHARACTER.GetShortUIName|U] stole [TARGET_CHARACTER.GetShortUINamePossessive] lands."
- 
- rival_murder_feast:0 "[TARGET_CHARACTER.GetShortUIName|U] tried to murder [CHARACTER.GetShortUIName|U] in a murder feast."
- 
- rival_murder_feast_family:0 "[TARGET_CHARACTER.GetShortUIName|U] has sworn to avenge the death of [TARGET_CHARACTER.GetHerHis] family by [CHARACTER.GetShortUIName|U] in a murder feast."
- rival_murder_feast_family_corresponding:0 "[CHARACTER.GetShortUIName|U] murdered [TARGET_CHARACTER.GetShortUINamePossessive] family in a murder feast."
- 
- rival_guardian_cave_change_stubborn:0 "[TARGET_CHARACTER.GetShortUIName|U] thought it just and appropriate when [TARGET_CHARACTER_2.GetShortUIName] forced [CHARACTER.GetShortUIName], a mere child, to enter a dark cave alone."
- rival_guardian_cave_change_stubborn_corresponding:0 "[CHARACTER.GetShortUIName|U] thought it just and appropriate when [TARGET_CHARACTER_2.GetShortUIName] forced [TARGET_CHARACTER.GetShortUIName], a mere child, to enter a dark cave alone."
- 
- rival_ignored_suffering:1 "As children, [TARGET_CHARACTER.GetShortUIName|U] willfully ignored the suffering of [CHARACTER.GetShortUIName] and refused to get help."
- rival_ignored_suffering_corresponding:1 "As children, [CHARACTER.GetShortUIName|U] willfully ignored the suffering of [TARGET_CHARACTER.GetShortUIName] and refused to get help."
- 
- best_friend_bonded_at_court:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong bond of friendship after vehemently supporting each others interests at [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- 
- best_friend_poetry:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong bond of friendship after [CHARACTER.GetShortUINameNoTooltip] wrote an epic poem about [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] achievements."
- best_friend_poetry_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong bond of friendship after [TARGET_CHARACTER.GetShortUINameNoTooltip] wrote an epic poem about [CHARACTER.GetShortUINamePossessiveNoTooltip] achievements."
- 
- best_friend_helped_pen_memory:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] found endless trust in each other after [TARGET_CHARACTER.GetShortUINameNoTooltip] helped [CHARACTER.GetShortUINamePossessiveNoTooltip] write a tome of memories."
- best_friend_helped_pen_memory_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] found endless trust in each other after [CHARACTER.GetShortUINameNoTooltip] helped [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] write a tome of memories."
- 
- best_friend_help_overcome_vice:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became life-long friends after [TARGET_CHARACTER.GetShortUINameNoTooltip] tried to help [CHARACTER.GetShortUINameNoTooltip] overcome a vice."
- best_friend_help_overcome_vice_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became life-long friends after [CHARACTER.GetShortUINameNoTooltip] tried to help [TARGET_CHARACTER.GetShortUINameNoTooltip] overcome a vice."
- 
- best_friend_coverted_and_saved_my_soul:1 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] forged a strong bond of friendship when [TARGET_CHARACTER.GetShortUINameNoTooltip] saved [CHARACTER.GetShortUINamePossessiveNoTooltip] soul by converting [CHARACTER.GetShortUINameNoTooltip] to [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] faith."
- best_friend_coverted_and_saved_my_soul_corresponding:1 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] forged a strong bond of friendship when [CHARACTER.GetShortUINameNoTooltip] saved [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] soul by converting [TARGET_CHARACTER.GetShortUINameNoTooltip] to [CHARACTER.GetShortUINamePossessiveNoTooltip] faith."
- 
- best_friend_language_help:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after [TARGET_CHARACTER.GetShortUINameNoTooltip] showed endless patience in helping [CHARACTER.GetShortUINameNoTooltip] learn [TARGET_CHARACTER_2.GetCulture.GetLanguage.GetName]."
- best_friend_language_help_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after [CHARACTER.GetShortUINameNoTooltip] showed endless patience in helping [TARGET_CHARACTER.GetShortUINameNoTooltip] learn [TARGET_CHARACTER_2.GetCulture.GetLanguage.GetName]."
- 
- best_friend_confide:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a bond after [TARGET_CHARACTER.GetShortUINameNoTooltip] patiently listened to [CHARACTER.GetShortUINamePossessiveNoTooltip] troubles."
- best_friend_confide_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a bond after [CHARACTER.GetShortUINameNoTooltip] patiently listened to [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] troubles."
- 
- friend_impressed_stones:0 "[CHARACTER.GetShortUIName|U] impressed [TARGET_CHARACTER.GetShortUINameNoTooltip] by deciphering an ancient plaque."
- friend_impressed_stones_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] was impressed by [CHARACTER.GetShortUINameNoTooltip] when [CHARACTER.GetSheHe] deciphered an ancient plaque."
- 
- best_friend_spoke_highly_about:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after [CHARACTER.GetShortUINameNoTooltip] openly spoke very highly about [TARGET_CHARACTER.GetShortUIName]."
- best_friend_spoke_highly_about_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after [TARGET_CHARACTER.GetShortUINameNoTooltip] openly spoke very highly about [CHARACTER.GetShortUIName]."
- 
- best_friend_make_time:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends by always making time for each other, no matter what."
- best_friend_switch_places:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after switching places for a day."
- best_friend_varangian:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed an unbreakable bond while serving together in the varangian guard."
- best_friend_shared_revelries:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after sharing many nights of revelry together."
- best_friend_bonded_at_tourney:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong bond after supporting each other at a tourney."
+l_english:
 
- best_friend_counsel_and_support:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong bond by always supporting and counseling each other."
+# Begonnen aan de vertaling (gebleven regel 500) van dit grote bestand. Wordt vervolgd...
 
- best_friend_childhood_oath:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] swore an oath of eternal friendship as children."
- best_friend_bathhouse_bonding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after soaking in a bathhouse in [PROVINCE.GetName] together."
- best_friend_socializing:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after a long and valuable discussion where meaningful and deep topics were discussed."
- best_friend_encouraged_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became best friends after being encouraged to support each other at [TARGET_CHARACTER.GetShortUINamePossessive] court."
- best_friend_pilgrimage:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] formed a strong friendship while on a pilgrimage together."
- best_friend_sworn:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] swore an #EMP unbreakable#! oath of eternal friendship!"
+ nemesis_skinned_cat:0 "[TARGET_CHARACTER.GetShortUIName|U] zwoer eeuwige wraak nadat [CHARACTER.GetShortUINameNoTooltip] [TARGET_CHARACTER.GetShortUINamePossessessiveNoTooltip] kat had gedood en gevild."
+ nemesis_skinned_cat_corresponding:0 "[CHARACTER.GetShortUIName|U] zwoer eeuwige wraak nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] [CHARACTER.GetShortUINamePossessiveNoTooltip] kat had gedood en gevild."
  
- generic_familial_bonding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over the death of [TARGET_CHARACTER_2.GetShortUIName]."
- generic_desserts_in_shape_of_jesus:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a dessert with an uncanny resemblance to a religious figure."
- generic_ate_a_baby_together:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded when eating some #EMP delectable#! food together."
- generic_encouraged_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after being encouraged to socialize at court."
+ nemesis_excrement:0 "[CHARACTER.GetShortUIName|U] zwoer eeuwige wraak nadat [TARGET_CHARACTER.GetShortUIName] een agent stuurde om [CHARACTER.GetShortUINameNoTooltip] van top tot teen met uitwerpselen te bedekken."
+ nemesis_excrement_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] zwoer eeuwige wraak nadat [CHARACTER.GetShortUIName] een agent stuurde om [TARGET_CHARACTER.GetShortUINameNoTooltip] van top tot teen in uitwerpselen te bedekken."
  
- friend_alliance:0 "[CHARACTER.GetShortUIName|U] heeded many of [TARGET_CHARACTER.GetShortUINamePossessive] calls to war, proving that a valuable alliance had been formed."
- friend_alliance_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeded many of [CHARACTER.GetShortUINamePossessive] calls to war, proving that a valuable alliance had been formed."
+ test_friend_desc:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] benaderden elkaar op de kaart."
+ test_rival_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] zwoer wraak op [CHARACTER.GetShortUIName] nadat [CHARACTER.GetShortUINameNoTooltip] de hond van [TARGET_CHARACTER.GetHerHis] had gedood."
+ test_rival_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] zwoer wraak op [TARGET_CHARACTER.GetShortUIName] nadat [TARGET_CHARACTER.GetShe] [CHARACTER.GetShortUINamePossessiveNoTooltip] hond had gedood."
+ test_nemesis_desc:1 "[TARGET_CHARACTER.GetShortUIName|U] zwoer eeuwige wraak op [CHARACTER.GetShortUIName] nadat [CHARACTER.GetShortUINameNoTooltip] [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] favoriete hond had gedood, gekookt en opgegeten."
+ test_nemesis_desc_corresponding:1 "[CHARACTER.GetShortUIName|U] zwoer eeuwige wraak op [TARGET_CHARACTER.GetShortUIName] nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] de favoriete hond van [CHARACTER.GetShortUIName] had gedood, gekookt en opgegeten."
+ test_lover_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] verleidde [CHARACTER.GetShortUIName] door te pronken met [TARGET_CHARACTER.GetHerHis] welgevormde benen."
+ test_lover_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] verleidde [TARGET_CHARACTER.GetShortUIName] door te pronken met [CHARACTER.GetShortUINamePossessiveNoTooltip] welgevormde benen."
+ test_soulmate_desc:0 "[TARGET_CHARACTER.GetShortUIName|U] toonde eeuwige toewijding aan [CHARACTER.GetShortUIName] door een berg te beklimmen en een zeldzame bloem te halen."
+ test_soulmate_desc_corresponding:0 "[CHARACTER.GetShortUIName|U] toonde eeuwige toewijding aan [TARGET_CHARACTER.GetShortUIName] door een berg te beklimmen en een zeldzame bloem te halen."
+ lover_seduced:0 "[TARGET_CHARACTER.GetShortUIName|U] verleidde [CHARACTER.GetShortUIName]."
+ lover_seduced_corresponding:0 "[CHARACTER.GetShortUIName|U] verleidde [TARGET_CHARACTER.GetShortUIName]."
+ 
+ rival_daneland:0 "[TARGET_CHARACTER.GetShortUIName|U] en [CHARACTER.GetShortUIName] werden rivalen na de creatie van Daneland."
+ rival_varangian:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] begonnen elkaar te minachten toen ze samen dienden in de Varangiaanse Garde."
+ 
+ rival_fowl_prank:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] op een feest in de maling genomen met een vogel."
+ rival_fowl_prank_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] op een feest in de maling genomen met een vogel."
+ 
+ rival_unjustified_imprisonment:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] onterecht gevangen gezet."
+ rival_unjustified_imprisonment_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] onterecht gevangen gezet."
+ 
+ rival_name_inspiration:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft een berg '[CHARACTER.GetShortUIName]-Slachter' genoemd."
+ rival_name_inspiration_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft een berg '[TARGET_CHARACTER.GetShortUIName]-Slachter' genoemd."
+ 
+ rival_lands_stolen:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUINamePossessive] landen gestolen."
+ rival_lands_stolen_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUINamePossessive] landen gestolen."
+ 
+ rival_murder_feast:0 "[TARGET_CHARACTER.GetShortUIName|U] probeerde [CHARACTER.GetShortUIName|U] te vermoorden tijdens een moordfeest." 
+ rival_murder_feast_family:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft gezworen de dood van [TARGET_CHARACTER.GetHerHis] familie door [CHARACTER.GetShortUIName|U] te wreken tijdens een moordfeest."
+ rival_murder_feast_family_corresponding:0 "[CHARACTER.GetShortUIName|U] vermoordde [TARGET_CHARACTER.GetShortUINamePossessive] familie tijdens een moordfeest."
+ 
+ rival_guardian_cave_change_stubborn:0 "[TARGET_CHARACTER.GetShortUIName|U] vond het rechtvaardig en gepast dat [TARGET_CHARACTER_2.GetShortUIName] [CHARACTER.GetShortUIName] -nog een kind- dwong om alleen een donkere grot in te gaan."
+ rival_guardian_cave_change_stubborn_corresponding:0 "[CHARACTER.GetShortUIName|U] vond het rechtvaardig en gepast dat [TARGET_CHARACTER_2.GetShortUIName] [TARGET_CHARACTER.GetShortUIName] -een kind nog- dwong om alleen een donkere grot in te gaan."
+ 
+ rival_ignored_suffering:1 "Toen ze allebei nog kinderen waren, negeerde [TARGET_CHARACTER.GetShortUIName|U] bewust het lijden van [CHARACTER.GetShortUIName] en weigerde hulp te zoeken."
+ rival_ignored_suffering_corresponding:1 "Toen ze allebei nog kinderen waren, negeerde, [CHARACTER.GetShortUIName|U] bewust het lijden van [TARGET_CHARACTER.GetShortUIName]  en weigerde hulp te zoeken."
+ 
+ best_friend_bonded_at_court:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben sterke vriendschapsbanden gesmeed nadat ze elkaars belangen fel hadden verdedigd aan hof van [TARGET_CHARACTER_2.GetShortUIName]."
+ 
+ best_friend_poetry:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een sterke vriendschapsband nadat [CHARACTER.GetShortUINameNoTooltip] een episch gedicht schreef over [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] prestaties."
+ best_friend_poetry_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een sterke vriendschapsband nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] een episch gedicht schreef over [CHARACTER.GetShortUINamePossessiveNoTooltip] prestaties."
+ 
+ best_friend_helped_pen_memory:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen eindeloos vertrouwen in elkaar nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] [CHARACTER.GetShortUINamePossessiveNoTooltip] hielp bij het schrijven van een boek vol herinneringen."
+ best_friend_helped_pen_memory_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen eindeloos vertrouwen in elkaar nadat [CHARACTER.GetShortUINameNoTooltip] [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] hielp bij het schrijven van een boek vol herinneringen."
+ 
+ best_friend_help_overcome_vice:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden levenslange vrienden nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] [CHARACTER.GetShortUINameNoTooltip] probeerde te helpen een misstap te overwinnen."
+ best_friend_help_overcome_vice_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden levenslange vrienden nadat [CHARACTER.GetShortUINameNoTooltip] [TARGET_CHARACTER.GetShortUINameNoTooltip] probeerde te helpen een misstap te overwinnen."
+ 
+ best_friend_coverted_and_saved_my_soul:1 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] smeedden een sterke vriendschapsband toen [TARGET_CHARACTER.GetShortUINameNoTooltip] [CHARACTER. GetShortUINamePossessiveNoTooltip] ziel redde door [CHARACTER.GetShortUINameNoTooltip] te bekeren tot [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] geloof."
+ best_friend_coverted_and_saved_my_soul_corresponding:1 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] smeedden een sterke vriendschapsband toen [CHARACTER.GetShortUINameNoTooltip] [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] ziel redde door [TARGET_CHARACTER.GetShortUINameNoTooltip] te bekeren tot [CHARACTER.GetShortUINamePossessiveNoTooltip] geloof."
+ 
+ best_friend_language_help:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] eindeloos geduld toonde bij het lesgeven van [TARGET_CHARACTER_2.GetCulture.GetLanguage.GetName|U] aan [CHARACTER.GetShortUINameNoTooltip]."
+ best_friend_language_help_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat [CHARACTER.GetShortUINameNoTooltip] eindeloos geduld toonde bij het lesgeven van [TARGET_CHARACTER_2.GetCulture.GetLanguage.GetName] aan [TARGET_CHARACTER.GetShortUINameNoTooltip]."
+ 
+ best_friend_confide:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een band nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] geduldig luisterde naar de  [CHARACTER.GetShortUINamePossessiveNoTooltip] problemen."
+ best_friend_confide_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een band nadat [CHARACTER.GetShortUINameNoTooltip] geduldig luisterde naar de [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] problemen."
+ 
+ friend_impressed_stones:0 "[CHARACTER.GetShortUIName|U] maakte indruk op [TARGET_CHARACTER.GetShortUINameNoTooltip] door een oude plaquette te ontcijferen."
+ friend_impressed_stones_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] was onder de indruk van [CHARACTER.GetShortUINameNoTooltip] toen [CHARACTER.GetSheHe] een oude plaquette wist te ontcijferen."
+ 
+ best_friend_spoke_highly_about:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat [CHARACTER.GetShortUINameNoTooltip] openlijk lovende woorden sprak over [TARGET_CHARACTER.GetShortUIName]."
+ best_friend_spoke_highly_about_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat [TARGET_CHARACTER.GetShortUINameNoTooltip]  openlijk lovende woorden sprak over [CHARACTER.GetShortUIName]."
+ 
+ best_friend_make_time:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden door altijd tijd voor elkaar te hebben, wat er ook gebeurt."
+ best_friend_switch_places:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat ze een dag van plaats hadden geruild."
+ best_friend_varangian:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een onafscheidelijke band nadat ze samen in de Varangiaanse Garde hadden gediend."
+ best_friend_shared_revelries:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden na vele nachten samen feesten."
+ best_friend_bonded_at_tourney:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een sterke band nadat ze elkaar hadden gesteund in een toernooi."
 
- rival_disregarded_plea_for_help: "[CHARACTER.GetShortUIName|U] declined [TARGET_CHARACTER.GetShortUINamePossessive] pleas for aid during war."
- rival_disregarded_plea_for_help_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] declined [CHARACTER.GetShortUINamePossessive] pleas for aid during war."
- 
- friend_court_visit:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after a particularly great visit to [CHARACTER.GetShortUINamePossessiveNoTooltip] court."
- friend_court_visit_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after a particularly great visit to [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] court."
- 
- friend_seduction_tips:0 "While visiting a tavern, [TARGET_CHARACTER.GetShortUIName] introduced [CHARACTER.GetShortUIName] to the very attractive [TARGET_CHARACTER_2.GetShortUINameNoTooltip]."
- friend_seduction_tips_corresponding:0 "While visiting a tavern, [CHARACTER.GetShortUIName] introduced [TARGET_CHARACTER.GetShortUIName] to the very attractive [TARGET_CHARACTER_2.GetShortUINameNoTooltip]."
- 
- friend_councel_and_aid:0 "[TARGET_CHARACTER.GetShortUIName|U] gave [CHARACTER.GetShortUIName] councel and aid, alleviating the stress of rulership."
- friend_councel_and_aid_corresponding:0 "[CHARACTER.GetShortUIName|U] gave [TARGET_CHARACTER.GetShortUIName] councel and aid, alleviating the stress of rulership."
- 
- friend_slew_other_vassal:0 "[TARGET_CHARACTER.GetShortUIName|U] slew [TARGET_CHARACTER_2.GetShortUIName], a fellow vassal, out of loyalty to [CHARACTER.GetShortUIName]."
- friend_slew_other_vassal_corresponding:0 "[CHARACTER.GetShortUIName|U] slew [TARGET_CHARACTER_2.GetShortUIName], a fellow vassal, out of loyalty to [TARGET_CHARACTER.GetShortUIName]."
- 
- friend_not_destroy_toy:0 "As children, [TARGET_CHARACTER.GetShortUIName|U] did not destroy [CHARACTER.GetShortUINamePossessive] toys."
- friend_not_destroy_toy_corresponding:0 "As children, [CHARACTER.GetShortUIName|U] did not destroy [TARGET_CHARACTER.GetShortUINamePossessive] toys."
- friend_uncovered_plot:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after uncovering a plot."
- friend_deviant_fun:0 "[TARGET_CHARACTER.GetShortUIName|U] introduced [CHARACTER.GetShortUIName] to a new hobby."
- friend_deviant_fun_corresponding:0 "[CHARACTER.GetShortUIName|U] introduced [TARGET_CHARACTER.GetShortUIName] to a new hobby."
- 
- contemplated_life_and_death_together:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] contemplated life and death together during a formative journey."
- contemplated_life_and_death_together_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] contemplated life and death together during a formative journey."
- studied_history_together:0 "[TARGET_CHARACTER.GetShortUIName|U] and [CHARACTER.GetShortUIName] studied the ancient history of a faraway land together during a formative journey."
- studied_history_together_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] studied the ancient history of a faraway land together during a formative journey."
+ best_friend_counsel_and_support:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] smeedden een sterke band door elkaar altijd met hulp en goede raad te steunen."
 
- friend_fix_relationship_success:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after [CHARACTER.GetShortUINameNoTooltip] fixed a rift in the relationship."
- friend_fix_relationship_success_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after [TARGET_CHARACTER.GetShortUINameNoTooltip] fixed a rift in the relationship."
+ best_friend_childhood_oath:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zwoeren als kinderen een eed van eeuwige vriendschap."
+ best_friend_bathhouse_bonding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat ze samen in het badhuis van [PROVINCE.GetName] waren geweest."
+ best_friend_socializing:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden na een lang en waardevol gesprek waarin betekenisvolle en diepgaande dingen werden besproken."
+ best_friend_encouraged_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden beste vrienden nadat ze werden aangemoedigd om elkaar te steunen aan het hof van [TARGET_CHARACTER.GetShortUIName]."
+ best_friend_pilgrimage:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] vormden een sterke vriendschap tijdens een gezamenlijke bedevaartstocht."
+ best_friend_sworn:0 "[[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zwoeren een eed van #EMP onverbrekelijke#! vriendschap!"
  
- friend_deviant_fun_opposite:0 "[CHARACTER.GetShortUIName|U] introduced [TARGET_CHARACTER.GetShortUIName] to a new hobby."
- friend_deviant_fun_opposite_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] introduced [CHARACTER.GetShortUIName] to a new hobby."
+ generic_familial_bonding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen door de dood van [TARGET_CHARACTER_2.GetShortUIName]."
+ generic_desserts_in_shape_of_jesus:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band over een nagerecht met een griezelige gelijkenis met een religieus figuur."
+ generic_ate_a_baby_together:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band toen ze samen een #EMP overheerlijke#! maaltijd hadden."
+ generic_encouraged_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden close nadat ze werden aangemoedigd om goed met elkaar om te gaan aan het hof."
  
- friend_insulted_rival:0 "[TARGET_CHARACTER.GetShortUIName|U] publicly insulted [TARGET_CHARACTER_2.GetShortUIName], one of [CHARACTER.GetShortUINamePossessive] rivals."
- friend_insulted_rival_corresponding:0 "[CHARACTER.GetShortUIName|U] publicly insulted [TARGET_CHARACTER_2.GetShortUIName], one of [TARGET_CHARACTER.GetShortUINamePossessive] rivals."
- 
- friend_common_ground:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after finding common ground as the result of many, deep, conversations."
- friend_feast_for_liege:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after hosting a feast for [TARGET_CHARACTER_2.GetTitledFirstName] together."
- 
- friend_charmed_during_visit:0 "[CHARACTER.GetShortUIName|U] charmed [TARGET_CHARACTER.GetShortUIName] during a visit to [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- friend_charmed_during_visit_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] charmed [CHARACTER.GetShortUIName] during a visit to [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- 
- friend_amusing_antics:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] amusing antics."
- friend_amusing_antics_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over [CHARACTER.GetShortUINamePossessiveNoTooltip] amusing antics."
- 
- friend_long_lost_twin:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] were revealed to be long-lost siblings!"
- 
- friend_bonded_over_sins:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared sin."
- friend_bond_at_ceremony:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded at a religious ceremony in [PROVINCE.GetName]."
- friend_drinking_buddies:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over good ale, beer, wine, and spirits!"
- friend_tavern_visit:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a cup of [CHARACTER.Custom('RegionalDrink')] at the tavern!"
- friend_bonded_at_tourney:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after spending time at a tourney."
- friend_politics:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after discussing a lot of politics and diplomacy."
- friend_dinner:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after having a delightful conversation over dinner."
- friend_dance:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded at the dance in [PROVINCE.GetName]."
- friend_common_interests:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over common interests."
- friend_times_gone_by:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after talking about how much better things used to be."
- friend_what_makes_life_worth_living:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after a heartfelt conversation about what makes life worth living."
- friend_common_education:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after passionately discussing a variety of interesting topics."
- friend_used_to_be_besties:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] used to be best friends, but are now merely cordial."
- friend_prisoners:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] grew close after sharing a cell in [TARGET_CHARACTER_2.GetShortUINamePossessive] dungeon."
- friend_hit_it_off:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became inseparable after being introduced during an arranged visit to [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- friend_reconciled_differences:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] reconciled their differences."
- friend_confiding_each_other:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] confided in each other."
- friend_feast_bonding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over common interests at a feast."
- friend_feast_talking_and_laughing:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after eating, drinking, and talking during a feast."
- friend_gardening:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared love for gardening."
- friend_pleasant_conversation:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after sharing many a pleasant conversation."
- friend_art_of_torture_punishment:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared appreciation for the art of torture."
- friend_torture_stories:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after sharing stories about cruel punishments and torture."
- friend_shared_opinions_on_punishment:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after sharing thoughts and feelings on how best to torture prisoners."
- friend_childhood_random:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded as children after sharing plenty of misadventures."
- friend_saved_life_together:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after saving the life of an injured soldier together."
- friend_convinced_merchants_to_invest_in_church:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after convincing a group of merchants to invest their gold in a [CHARACTER.GetFaith.HouseOfWorship]."
- friend_downgrade_best_friends:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] are amicable friends, but used to be much more than that in the past."
- friend_upgrade_generic:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] grew into good friends after being amicable for a long time."
- friend_private_feast:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] grew close at a private feast."
- friend_renovate_dungeons:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded when renovating the dungeons together."
- friend_pilgrimage:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded while on a pilgrimage."
- friend_cultivated_friendship:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded as children after having a parent carefully cultivate the friendship."
- friend_vassal_childhood:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded as children after being motivated to play together."
- friend_scholarly_matters:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over scholarly matters."
- friend_house_mediation:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over matters of house and lineage."
- friend_matters_of_faith:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over matters of faith and religion."
- friend_matters_of_culture:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over matters of culture and tradition."
- friend_matters_of_religious_authority:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over matters of religious authority and moral philosophy."
- friend_deft_diplomacy_by_liege_spouse:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] made peace and became friends after [TARGET_CHARACTER_2.GetShortUINameNoTooltip] deftly negotiated an end to the war."
- friend_partitioned_england:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after agreeing to partition $k_england$."
- friend_bonded_over_food:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over good food."
- friend_shared_hunt_credit:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] shared the glory of a successful hunt."
- friend_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after growing close at [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- friend_bonded_over_good_business_investments:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over good business investments."
- friend_settled_differences:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] settled all their differences."
- friend_found_common_ground:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became inseparable after finding common ground."
- friend_composer_stories:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over many a good story."
- friend_playing_children:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after talking and playing a lot as children."
- friend_rousing_fight:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after fighting each other in a rousing duel."
- friend_delectable_herring:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared love for particularly pungent rotten herring."
- friend_drinking_together:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] had a lot of good drinks together!"
- friend_superstitions:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] share the same superstitions."
- friend_bathhouse_bonding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] soaked together in a bathhouse in [PROVINCE.GetName]."
- friend_shared_rivals:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared hatred of [TARGET_CHARACTER_2.GetShortUIName]."
- friend_bonfire_bonding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] roasted honeyed treats over an open fire together."
- friend_generic_history:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] have been good friends since forever."
- friend_stole_clothes_together:0 "As children, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] stole [TARGET_CHARACTER_2.GetShortUINamePossessive] clothes in a clever prank."
- friend_children_stole_alcohol:0 "As children, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] stole a keg of spirits and drank it all!"
- friend_bonded_after_reading_book:0 "As children, [CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after reading the [CHARACTER.GetFaith.ReligiousText] together."
- friend_gym_bro:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after wrestling."
- friend_hashish_cakes:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] ate hashish cakes together."
- friend_castille_leon:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after celebrating the creation of Castille and Leon."
- friend_melancholic_bond:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over a shared sense of melancholy."
- friend_curiously_similar:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded over over being eerily similar."
- 
- friend_sword_in_stone:0 "[CHARACTER.GetShortUIName|U] let [TARGET_CHARACTER.GetShortUIName] pull the blade from the stone during a Cultural Festival."
- friend_sword_in_stone_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] pulled the sword from the stone with [CHARACTER.GetShortUINamePossessive] invaluable help during a Cultural Festival."
+ friend_alliance:0 "[CHARACTER.GetShortUIName|U] gaf gehoor aan veel van [TARGET_CHARACTER.GetShortUINamePossessive] oproepen tot oorlog, wat bewees dat er een waardevolle alliantie was gevormd."
+ friend_alliance_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] gaf gehoor aan veel van [CHARACTER.GetShortUINamePossessive] oproepen tot oorlog, wat bewees dat er een waardevolle alliantie was gevormd."
 
- friend_varangian:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends while serving together in the varangian guard."
+ rival_disregarded_plea_for_help: "[CHARACTER.GetShortUIName|U] wees [TARGET_CHARACTER.GetShortUINamePossessive] verzoeken om hulp af tijdens de oorlog."
+ rival_disregarded_plea_for_help_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] wees [CHARACTER.GetShortUINamePossessive] verzoeken om hulp af tijdens de oorlog."
  
- friend_holy_site_monk_monk:0 "[CHARACTER.GetShortUIName|U] made a generous donation to [TARGET_CHARACTER.GetShortUINamePossessive] temples."
- friend_holy_site_monk_monk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] received a generous donation from [CHARACTER.GetShortUIName] to [TARGET_CHARACTER.GetHerHis] temples."
+ friend_court_visit:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden na een bijzonder goed bezoek aan het hof van [CHARACTER.GetShortUINameNoTooltip]."
+ friend_court_visit_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden na een bijzonder goed bezoek aan het hof van [TARGET_CHARACTER.GetShortUIName]."
  
- friend_holy_site_monk:0 "[CHARACTER.GetShortUIName|U] allowed [TARGET_CHARACTER.GetShortUIName] to stay behind in a Holy Site."
- friend_holy_site_monk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] was allowed by [CHARACTER.GetShortUIName] to stay behind in a Holy Site."
+ friend_seduction_tips:0 "Tijdens een bezoek aan een taverne stelde [TARGET_CHARACTER.GetShortUIName] [CHARACTER.GetShortUIName] voor aan de zeer aantrekkelijke [TARGET_CHARACTER_2.GetShortUINameNoTooltip]."
+ friend_seduction_tips_corresponding:0 "Tijdens een bezoek aan een taverne stelde [CHARACTER.GetShortUIName] [TARGET_CHARACTER.GetShortUIName] voor aan de zeer aantrekkelijke [TARGET_CHARACTER_2.GetShortUINameNoTooltip]."
+ 
+ friend_councel_and_aid:0 "[TARGET_CHARACTER.GetShortUIName|U] gaf [CHARACTER.GetShortUIName] raad en hulp en verlichtte de stress van het heerserschap."
+ friend_councel_and_aid_corresponding:0 "[CHARACTER.GetShortUIName|U] gaf [TARGET_CHARACTER.GetShortUIName] raad en hulp en verlichtte de stress van het heerserschap."
+ 
+ friend_slew_other_vassal:0 "[TARGET_CHARACTER.GetShortUIName|U] doodde [TARGET_CHARACTER_2.GetShortUIName], een medevazal, uit loyaliteit aan [CHARACTER.GetShortUIName]."
+ friend_slew_other_vassal_corresponding:0 "[CHARACTER.GetShortUIName|U] doodde [TARGET_CHARACTER_2.GetShortUIName], een medevazal, uit loyaliteit aan [TARGET_CHARACTER.GetShortUIName]."
+ 
+ friend_not_destroy_toy:0 "Als kind vernielde [TARGET_CHARACTER.GetShortUIName|U] geen speelgoed van [CHARACTER.GetShortUIName]."
+ friend_not_destroy_toy_corresponding:0 "Als kind vernielde [CHARACTER.GetShortUIName|U] geen speelgoed van [TARGET_CHARACTER.GetShortUIName]."
+ friend_uncovered_plot:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden na het ontdekken van een complot."
+ friend_deviant_fun:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] kennis laten maken met een nieuwe hobby."
+ friend_deviant_fun_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] kennis laten maken met een nieuwe hobby."
+ 
+ contemplated_life_and_death_together:0 "[TARGET_CHARACTER.GetShortUIName|U] en [CHARACTER.GetShortUIName] dachten samen na over leven en dood tijdens een zingevende reis."
+ contemplated_life_and_death_together_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName]  dachten samen na over leven en dood tijdens een zingevende reis."
+ studied_history_together:0 "[TARGET_CHARACTER.GetShortUIName|U] en [CHARACTER.GetShortUIName] bestudeerden samen de oude geschiedenis van een ver land tijdens een zingevende reis."
+ studied_history_together_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] bestudeerden samen de oude geschiedenis van een ver land tijdens een zingevende reis."
 
- friend_gaming:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after playing boardgames together."
+ friend_fix_relationship_success:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat [CHARACTER.GetShortUINameNoTooltip] een breuk in hun relatie had hersteld."
+ friend_fix_relationship_success_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat [TARGET_CHARACTER.GetShortUINameNoTooltip] een breuk in hun relatie had hersteld."
+ 
+ friend_deviant_fun_opposite:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] kennis laten maken met een nieuwe hobby."
+ friend_deviant_fun_opposite_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] kennis laten maken met een nieuwe hobby."
+ 
+ friend_insulted_rival:0 "[TARGET_CHARACTER.GetShortUIName|U] beledigde publiekelijk [TARGET_CHARACTER_2.GetShortUIName], een van [CHARACTER.GetShortUINamePossessive] rivalen."
+ friend_insulted_rival_corresponding:0 "[CHARACTER.GetShortUIName|U] beledigde publiekelijk [TARGET_CHARACTER_2.GetShortUIName], een van [TARGET_CHARACTER.GetShortUINamePossessive] rivalen."
+ 
+ friend_common_ground:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden omdat ze tijdens vele diepgaande gesprekken ontdekten dat ze een paar dingen gemeen hadden."
+ friend_feast_for_liege:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden na het samen organiseren van een feest voor [TARGET_CHARACTER_2.GetTitledFirstName]."
+ 
+ friend_charmed_during_visit:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] gecharmeerd tijdens een bezoek aan het hof van [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_charmed_during_visit_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] gecharmeerd tijdens een bezoek aan het hof van [TARGET_CHARACTER_2.GetShortUIName]."
+ 
+ friend_amusing_antics:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] grappige capriolen."
+ friend_amusing_antics_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door [CHARACTER.GetShortUINamePossessiveNoTooltip] grappige capriolen."
+ 
+ friend_long_lost_twin:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] bleken lang verloren broers en zussen te zijn!"
+ 
+ friend_bonded_over_sins:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen door een gemeenschappelijke zonde."
+ friend_bond_at_ceremony:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben een band gekregen tijdens een religieuze ceremonie in [PROVINCE.GetName]."
+ friend_drinking_buddies:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen door goed bier, wijn en sterke drank!"
+ friend_tavern_visit:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen bij een kopje [CHARACTER.Custom('RegionalDrink')] in de herberg!"
+ friend_bonded_at_tourney:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze tijd hadden doorgebracht op een toernooi."
+ friend_politics:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze veel hadden gepraat over politiek en diplomatie."
+ friend_dinner:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na een amusant gesprek tijdens een etentje."
+ friend_dance:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kwamen dichter bij elkaar tijdens het dansen in [PROVINCE.GetName]."
+ friend_common_interests:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band vanwege gemeenschappelijke interesses."
+ friend_times_gone_by:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze hadden gepraat over hoe veel beter alles vroeger was."
+ friend_what_makes_life_worth_living:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na een diepgaand gesprek over wat het leven de moeite waard maakt."
+ friend_common_education:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een hechte band na het gepassioneerd bespreken van verschillende interessante onderwerpen."
+ friend_used_to_be_besties:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] waren eerst beste vrienden, maar zijn nu enkel nog beleefd."
+ friend_prisoners:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] groeiden naar elkaar toe nadat ze een cel deelden in de [TARGET_CHARACTER_2.GetShortUINamePossessive] kerker."
+ friend_hit_it_off:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden onafscheidelijk nadat ze aan elkaar waren voorgesteld tijdens een gearrangeerde ontmoeting aan het hof van [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_reconciled_differences:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben hun verschillen bijgelegd."
+ friend_confiding_each_other:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] namen elkaar in vertrouwen."
+ friend_feast_bonding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door gemeenschappelijke interesses op een feest."
+ friend_feast_talking_and_laughing:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na het eten, drinken en praten tijdens een feest."
+ friend_gardening:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door hun gedeelde liefde voor tuinieren."
+ friend_pleasant_conversation:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na vele prettige gesprekken."
+ friend_art_of_torture_punishment:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door een gedeelde waardering voor de kunst van het martelen."
+ friend_torture_stories:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na het delen van verhalen over wrede straffen en marteling."
+ friend_shared_opinions_on_punishment:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na het delen van gedachten en gevoelens over hoe gevangenen het beste gemarteld kunnen worden."
+ friend_childhood_random:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen als kinderen een band na het delen van vele tegenslagen."
+ friend_saved_life_together:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze samen het leven van een gewonde soldaat hadden gered."
+ friend_convinced_merchants_to_invest_in_church:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze een groep kooplieden hadden overtuigd om hun goud te investeren in een [CHARACTER.GetFaith.HouseOfWorship]."
+ friend_downgrade_best_friends:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn wederzijdse vrienden gebleven, maar waren vroeger veel meer dan dat."
+ friend_upgrade_generic:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden goede vrienden nadat ze lange tijd aardig tegen elkaar waren geweest."
+ friend_private_feast:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] groeiden naar elkaar toe op een privéfeest."
+ friend_renovate_dungeons:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band toen ze samen de kerkers aan het verbouwen waren."
+ friend_pilgrimage:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band tijdens een pelgrimstocht."
+ friend_cultivated_friendship:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band als kinderen nadat een ouder de vriendschap zorgvuldig had gestimuleerd."
+ friend_vassal_childhood:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band als kinderen nadat ze aangemoedigd waren om samen te spelen."
+ friend_scholarly_matters:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band over wetenschappelijke zaken."
+ friend_house_mediation:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kwamen nader tot elkaar door Huis en bloedlijn."
+ friend_matters_of_faith:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen door geloof en religie."
+ friend_matters_of_culture:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kwamen nader tot elkaar door cultuur en traditie."
+ friend_matters_of_religious_authority:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band over zaken van religieus gezag en morele filosofie."
+ friend_deft_diplomacy_by_liege_spouse:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] sloten vrede en werden vrienden nadat [TARGET_CHARACTER_2.GetShortUINameNoTooltip] behendig onderhandelde over het einde van de oorlog."
+ friend_partitioned_england:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat ze het eens werden om $k_england$ te verdelen."
+ friend_bonded_over_food:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door lekker eten."
+ friend_shared_hunt_credit:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] deelden de glorie van een succesvolle jacht."
+ friend_bonding_at_court:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden omdat ze naar elkaar toe groeiden op het [TARGET_CHARACTER_2.GetShortUINamePossessive] hof."
+ friend_bonded_over_good_business_investments:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band vanwege goede zakelijke investeringen."
+ friend_settled_differences:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben al hun geschillen bijgelegd."
+ friend_found_common_ground:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden onafscheidelijk omdat ze raakvlakken hadden gevonden."
+ friend_composer_stories:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben veel goede verhalen met elkaar gedeeld."
+ friend_playing_children:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat ze als kind veel met elkaar praatten en speelden."
+ friend_rousing_fight:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze tegen elkaar hadden gevochten in een spannend duel."
+ friend_delectable_herring:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door hun gedeelde liefde voor rottende stinkende haring."
+ friend_drinking_together:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben veel gedronken samen!"
+ friend_superstitions:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] delen hetzelfde bijgeloof."
+ friend_bathhouse_bonding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] baden samen in een badhuis in [PROVINCE.GetName]."
+ friend_shared_rivals:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn nader tot elkaar gekomen door hun gedeelde haat tegen [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_bonfire_bonding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] roosterden samen honingzoete lekkernijen boven een open vuur."
+ friend_generic_history:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] zijn al heel lang goede vrienden."
+ friend_stole_clothes_together:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben als kinderen samen de kleren van [TARGET_CHARACTER_2.GetShortUIName] voor de grap gestolen."
+ friend_children_stole_alcohol:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben als kinderen een vat sterke drank en dronken alles op!"
+ friend_bonded_after_reading_book:0 "Als kinderen kregen [CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] een band nadat ze samen de [CHARACTER.GetFaith.ReligiousText] hadden gelezen."
+ friend_gym_bro:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden na een partijtje worstelen."
+ friend_hashish_cakes:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] aten samen hasjkoekjes."
+ friend_castille_leon:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band na het vieren van de oprichting van Castilië en Leon."
+ friend_melancholic_bond:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band door een gedeeld gevoel van melancholie."
+ friend_curiously_similar:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band omdat ze griezelig veel op elkaar leken."
+ 
+ friend_sword_in_stone:0 "[CHARACTER.GetShortUIName|U] liet [TARGET_CHARACTER.GetShortUIName] de kling uit de steen trekken tijdens een Cultureel Festival."
+ friend_sword_in_stone_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] trok het zwaard uit de steen met [CHARACTER.GetShortUINamePossessive] onschatbare hulp van tijdens een Cultureel Festival."
 
- friend_emergency_surgery:0 "[TARGET_CHARACTER.GetShortUINamePossessive] quick-thinking surgery saved [CHARACTER.GetShortUINamePossessive] life, for which [CHARACTER.GetSheHe] is forever grateful."
- friend_emergency_surgery_corresponding: "[CHARACTER.GetShortUINamePossessive] quick-thinking surgery saved [TARGET_CHARACTER.GetShortUINamePossessive] life, for which [TARGET_CHARACTER.GetSheHe] is forever grateful."
+ friend_varangian:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] raakten bevriend toen ze samen dienden in de Varangiaanse Garde."
  
- friend_random_1:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after travelling together in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- friend_random_2:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] shared supplies while wandering in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- friend_random_3:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] helped each other while sharing a camp in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- friend_random_4:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] shared a good meal and many stories at a tavern in [PROVINCE.GetName]."
- friend_random_5:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] shared lodgings in [PROVINCE.GetName] for a brief time."
- friend_random_6:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] found a lot in common while serving in [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- friend_random_7:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] supported each other while serving in [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- friend_random_8:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] shared plenty of good meals in [TARGET_CHARACTER_2.GetShortUINamePossessive] mess hall."
- friend_random_9:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded during a walk in [TARGET_CHARACTER_2.GetShortUINamePossessive] capital of [PROVINCE.GetName]."
- friend_random_10:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends while attending business in [TARGET_CHARACTER_2.GetShortUINamePossessive] capital of [PROVINCE.GetName]."
- friend_random_fallback:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] traveled together."
+ friend_holy_site_monk_monk:0 "[CHARACTER.GetShortUIName|U] heeft een gulle donatie gedaan aan [TARGET_CHARACTER.GetShortUINamePossessive] tempels."
+ friend_holy_site_monk_monk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft een gulle donatie ontvangen van [CHARACTER.GetShortUIName] aan de [TARGET_CHARACTER.GetHerHis] tempels."
  
- rival_random_1:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] started despising each other after travelling together in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- rival_random_2:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] stole supplies from each other while wandering in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- rival_random_3:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] snored much too loudly while sharing a camp in the [PROVINCE.Custom('TerrainTypeProvince')] of [PROVINCE.GetName]."
- rival_random_4:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] ruined the good mood at a tavern in [PROVINCE.GetName]."
- rival_random_5:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] got into a brawl while sharing lodgings in [PROVINCE.GetName]."
- rival_random_6:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] came to blows over political matters while serving in [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- rival_random_7:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] undermined each other while serving in [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- rival_random_8:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] got into a childish food fight in [TARGET_CHARACTER_2.GetShortUINamePossessive] mess hall."
- rival_random_9:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] got into a spat while taking a walk in [TARGET_CHARACTER_2.GetShortUINamePossessive] capital of [PROVINCE.GetName]."
- rival_random_10:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] couldn't agree on how to handle a shared task while in [TARGET_CHARACTER_2.GetShortUINamePossessive] capital of [PROVINCE.GetName]."
- rival_random_fallback:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] came to despise each other while travelling together."
- 
- friend_epic_vassal_inspiration:0 "[TARGET_CHARACTER.GetShortUIName|U] swore friendship to [CHARACTER.GetShortUINameNoTooltip] after being inspired by a grand epic telling the tales of friendship between legendary heroes."
- friend_epic_vassal_inspiration_corresponding:0 "[CHARACTER.GetShortUIName|U] swore friendship to [TARGET_CHARACTER.GetShortUINameNoTooltip] after being inspired by a grand epic telling the tales of friendship between legendary heroes."
- 
- friend_coping_motivation:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after [CHARACTER.GetShortUIName] used [TARGET_CHARACTER.GetShortUIName] for motivation."
- friend_coping_motivation_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] became friends after [TARGET_CHARACTER.GetShortUIName] used [CHARACTER.GetShortUIName] for motivation."
- 
- friend_motivated_by_parent:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] motivated to be friendly with [TARGET_CHARACTER.GetShortUIName] by [TARGET_CHARACTER_2.GetShortUIName]."
- friend_motivated_by_parent_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] motivated to be friendly with [CHARACTER.GetShortUIName] by [TARGET_CHARACTER_2.GetShortUIName]."
- 
- friend_good_chats:0 "While still a child, [CHARACTER.GetShortUIName] learned a lot from chatting with [TARGET_CHARACTER.GetShortUIName]."
- friend_good_chats_corresponding:0 "While still a child, [TARGET_CHARACTER.GetShortUIName] learned a lot from chatting with [CHARACTER.GetShortUIName]."
- 
- friend_pedagogy:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U] careful education and guardianship of [CHARACTER.GetShortUIName] planted the seeds of lasting friendship."
- friend_pedagogy_corresponding:0 "[CHARACTER.GetShortUINamePossessive|U] careful education and guardianship of [TARGET_CHARACTER.GetShortUIName] planted the seeds of lasting friendship."
- 
- friend_encouraged_differences:0 "[CHARACTER.GetShortUIName|U] encouraged and accepted [TARGET_CHARACTER.GetShortUINamePossessive] differences."
- friend_encouraged_differences_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] encouraged and accepted [CHARACTER.GetShortUINamePossessive] differences."
- 
- friend_language_learned:0 "[CHARACTER.GetShortUIName|U] learned [TARGET_CHARACTER.GetShortUINamePossessive] language."
- friend_language_learned_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] learned [CHARACTER.GetShortUINamePossessive] language."
- 
- friend_festival_puppy:0 "[CHARACTER.GetShortUIName|U] gifted [TARGET_CHARACTER.GetShortUIName] a puppy during a Cultural Festival."
- friend_festival_puppy_corresponding:0 "[TARGET_CHARACTER.GetShortUIName] received a puppy as a gift from [CHARACTER.GetShortUIName] during a Cultural Festival."
- 
- friend_party_baron:0 "[TARGET_CHARACTER.GetShortUIName|U] befriended [CHARACTER.GetShortUIName] with vigor and enthusiasm!"
- friend_party_baron_corresponding:0 "[CHARACTER.GetShortUIName|U] befriended [TARGET_CHARACTER.GetShortUIName] with vigor and enthusiasm!"
- 
- friend_forgiven_transgression:0 "[TARGET_CHARACTER.GetShortUIName|U] unconditionally forgave [CHARACTER.GetShortUIName] previous transgressions."
- friend_forgiven_transgression_corresponding:0 "[CHARACTER.GetShortUIName|U] unconditionally forgave [TARGET_CHARACTER.GetShortUIName] previous transgressions."
- 
- friend_debate_win:0 "[CHARACTER.GetShortUIName|U] convinced [TARGET_CHARACTER.GetShortUIName] of [CHARACTER.GetShortUINamePossessiveNoTooltip] virtues in a debate."
- friend_debate_win_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] convinced [CHARACTER.GetShortUIName] of [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] virtues in a debate."
- 
- friend_apologise:0 "[CHARACTER.GetShortUIName|U] made a heartfelt apology to [TARGET_CHARACTER.GetShortUIName]."
- friend_apologise_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] made a heartfelt apology to [CHARACTER.GetShortUIName]."
- 
- friend_appreciated_good_entertainment:0 "As a child, [TARGET_CHARACTER.GetShortUIName] made a lasting impression by bringing [CHARACTER.GetShortUIName] to an execution."
- friend_appreciated_good_entertainment_corresponding:0 "As a child, [CHARACTER.GetShortUIName] made a lasting impression by bringing [TARGET_CHARACTER.GetShortUIName] to an execution."
- 
- friend_introduced_by_common_friend:0 "[CHARACTER.GetShortUIName|U] were introduced to [TARGET_CHARACTER.GetShortUIName] by one of [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] friends."
- friend_introduced_by_common_friend_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] were introduced to [CHARACTER.GetShortUIName] by one of [CHARACTER.GetShortUINamePossessiveNoTooltip] friends."
- 
- friend_woke_me:0 "[CHARACTER.GetShortUIName|U] woke [TARGET_CHARACTER.GetShortUIName] from a nap in an uncomfortable place."
- friend_woke_me_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] woke [CHARACTER.GetShortUIName] from a nap in an uncomfortable place."
- 
- friend_helped_during_episode:0 "[TARGET_CHARACTER.GetShortUIName|U] helped [CHARACTER.GetShortUIName] during an episode."
- friend_helped_during_episode_corresponding:0 "[CHARACTER.GetShortUIName|U] helped [TARGET_CHARACTER.GetShortUIName] during an episode."
- 
- friend_returned_lost_scroll:0 "[CHARACTER.GetShortUIName|U] returned a lost scroll of great importance to [TARGET_CHARACTER.GetShortUIName]."
- friend_returned_lost_scroll_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] returned a lost scroll of great importance to [CHARACTER.GetShortUIName]."
- 
- friend_story_by_fire:0 "Sitting by the fire, drink in hand, [CHARACTER.GetShortUIName] told [TARGET_CHARACTER.GetShortUIName] a fantastic story."
- friend_story_by_fire_corresponding:0 "Sitting by the fire, drink in hand, [TARGET_CHARACTER.GetShortUIName] told [CHARACTER.GetShortUIName] a fantastic story."
- 
- friend_gift_house:0 "[CHARACTER.GetShortUIName|U] honored [TARGET_CHARACTER.GetShortUINamePossessive] contributions to House [CHARACTER.GetHouse.GetName] with a gift of gold."
- friend_gift_house_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] honored [CHARACTER.GetShortUINamePossessive] contributions to House [TARGET_CHARACTER.GetHouse.GetName] with a gift of gold."
- 
- friend_common_language:0 "[TARGET_CHARACTER.GetShortUIName|U] sent friendly messages penned in the language of [CHARACTER.GetShortUINamePossessive] court."
- friend_common_language_corresponding:0 "[CHARACTER.GetShortUIName|U] sent friendly messages penned in the language of [TARGET_CHARACTER.GetShortUINamePossessive] court."
- 
- friend_supported_me_against_spouse:0 "[CHARACTER.GetShortUIName|U] stood with [TARGET_CHARACTER.GetShortUIName] against [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] treacherous former spouse [TARGET_CHARACTER_2.GetShortUIName]."
- friend_supported_me_against_spouse_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] stood with [CHARACTER.GetShortUIName] against [CHARACTER.GetShortUINamePossessiveNoTooltip] treacherous former spouse [TARGET_CHARACTER_2.GetShortUIName]."
- 
- friend_impressive_feat_of_alcoholism:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] incredibly impressed by [CHARACTER.GetShortUINameNoTooltip] drinking an unbelievable amount of alcohol."
- friend_impressive_feat_of_alcoholism_corresponding:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] incredibly impressed by [TARGET_CHARACTER.GetShortUINameNoTooltip] drinking an unbelievable amount of alcohol."
- 
- friend_brought_back_home:1 "[TARGET_CHARACTER.GetShortUIName|U] became eternally grateful after [CHARACTER.GetShortUIName] brought [TARGET_CHARACTER.GetShortUINameNoTooltip] back home to court, escaping a miserable marriage to [TARGET_CHARACTER_2.GetShortUIName]."
- friend_brought_back_home_corresponding:0 "[CHARACTER.GetShortUIName|U] became eternally grateful after [TARGET_CHARACTER.GetShortUIName] brought [CHARACTER.GetShortUINameNoTooltip] back home to court, escaping a miserable marriage to [TARGET_CHARACTER_2.GetShortUIName]."
- 
- friend_shared_toy:0 "As children, [CHARACTER.GetShortUIName] got to play with [TARGET_CHARACTER.GetShortUINamePossessive] [TARGET_CHARACTER.Custom('child_favorite_toy')]."
- friend_shared_toy_corresponding:0 "As children, [TARGET_CHARACTER.GetShortUIName] got to play with [CHARACTER.GetShortUINamePossessive] [CHARACTER.Custom('child_favorite_toy')]."
- 
- friend_given_a_cat:0 "[TARGET_CHARACTER.GetShortUIName|U] gave [CHARACTER.GetShortUIName] a kitten."
- friend_given_a_cat_corresponding:0 "[CHARACTER.GetShortUIName|U] gave [TARGET_CHARACTER.GetShortUIName] a kitten."
- 
- friend_given_a_cat_2:0 "[CHARACTER.GetShortUIName|U] gave [TARGET_CHARACTER.GetShortUIName] a kitten."
- friend_given_a_cat_2_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] gave [CHARACTER.GetShortUIName] a kitten."
- 
- friend_given_a_dog:0 "[TARGET_CHARACTER.GetShortUIName|U] gave [CHARACTER.GetShortUIName] a puppy."
- friend_given_a_dog_corresponding:0 "[CHARACTER.GetShortUIName|U] gave [TARGET_CHARACTER.GetShortUIName] a puppy."
- 
- friend_given_a_dog_2:0 "[CHARACTER.GetShortUIName|U] gave [TARGET_CHARACTER.GetShortUIName] a puppy."
- friend_given_a_dog_2_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] gave [CHARACTER.GetShortUIName] a puppy."
- 
- friend_dedicated_artifact:0 "[TARGET_CHARACTER.GetShortUIName|U] dedicated an artifact to [CHARACTER.GetShortUIName]."
- friend_dedicated_artifact_corresponding:0 "[CHARACTER.GetShortUIName|U] dedicated an artifact to [TARGET_CHARACTER.GetShortUIName]."
- 
- friend_converted_explorer:0 "[CHARACTER.GetShortUIName|U] converted to [TARGET_CHARACTER.GetShortUINamePossessive] faith."
- friend_converted_explorer_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] converted to [CHARACTER.GetShortUINamePossessive] faith."
- 
- friend_religious_tolerance:0 "[CHARACTER.GetShortUIName|U] showed tolerance and understanding towards [TARGET_CHARACTER.GetShortUINamePossessive] beliefs."
- friend_religious_tolerance_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] showed tolerance and understanding towards [CHARACTER.GetShortUINamePossessive] beliefs."
- 
- friend_let_off_the_hook:0 "[CHARACTER.GetShortUIName|U] let [TARGET_CHARACTER.GetShortUIName] off the hook regarding a breach of feudal contract."
- friend_let_off_the_hook_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] let [CHARACTER.GetShortUIName] off the hook regarding a breach of feudal contract."
- 
- friend_guided_right_path:0 "[TARGET_CHARACTER.GetShortUIName|U] spent time guiding [CHARACTER.GetShortUIName] to the right religious path."
- friend_guided_right_path_corresponding:0 "[CHARACTER.GetShortUIName|U] spent time guiding [TARGET_CHARACTER.GetShortUIName] to the right religious path."
- 
- friend_defended_honor_root_character_scope:0 "[CHARACTER.GetShortUIName|U] defended [TARGET_CHARACTER.GetShortUINamePossessive] honor."
- friend_defended_honor_root_character_scope_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] defended [CHARACTER.GetShortUINamePossessive] honor."
- 
- friend_composer_epic:0 "[TARGET_CHARACTER.GetShortUIName|U] composed a magnificent epic for [CHARACTER.GetShortUIName]."
- friend_composer_epic_corresponding:0 "[CHARACTER.GetShortUIName|U] composed a magnificent epic for [TARGET_CHARACTER.GetShortUIName]."
- 
- friend_defended_honor_target_character_scope:0 "[TARGET_CHARACTER.GetShortUIName|U] defended [CHARACTER.GetShortUINamePossessive] honor."
- friend_defended_honor_target_character_scope_corresponding:0 "[CHARACTER.GetShortUIName|U] defended [TARGET_CHARACTER.GetShortUINamePossessive] honor."
- 
- friend_saved_as_children:0 "While still children, [CHARACTER.GetShortUIName] saved [TARGET_CHARACTER.GetShortUIName] from being beaten by a group of rowdy youths."
- friend_saved_as_children_corresponding:0 "While still children, [TARGET_CHARACTER.GetShortUIName|U] saved [CHARACTER.GetShortUIName] from being beaten by a group of rowdy youths."
- 
- friend_approves_methods:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed with [CHARACTER.GetShortUINamePossessive] knowledge of trepanning."
- friend_approves_methods_corresponding:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed with [TARGET_CHARACTER.GetShortUINamePossessive] knowledge of trepanning."
- 
- friend_taxed_vassals_lands:0 "[TARGET_CHARACTER.GetShortUIName|U] collected extra taxes for [CHARACTER.GetShortUIName]."
- friend_taxed_vassals_lands_corresponding:0 "[CHARACTER.GetShortUIName|U] collected extra taxes for [TARGET_CHARACTER.GetShortUIName]."
- 
- friend_treated_wounds:0 "[TARGET_CHARACTER.GetShortUIName|U] treated [CHARACTER.GetShortUINamePossessive] wounds."
- friend_treated_wounds_corresponding:0 "[CHARACTER.GetShortUIName|U] treated [TARGET_CHARACTER.GetShortUINamePossessive] wounds."
- 
- friend_child_special_attention:0 "[CHARACTER.GetShortUIName|U] payed a lot of special attention to [TARGET_CHARACTER.GetShortUINamePossessive] education."
- friend_child_special_attention_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] payed a lot of special attention to [CHARACTER.GetShortUINamePossessive] education."
- 
- friend_wnight_homosexual:0 "[TARGET_CHARACTER.GetShortUIName|U] confessed [TARGET_CHARACTER.GetHerHis] sexual orientation to [CHARACTER.GetShortUINamePossessive] during their wedding night."
- friend_wnight_homosexual_corresponding: "[CHARACTER.GetShortUIName|U] confessed [CHARACTER.GetHerHis] sexual orientation to [TARGET_CHARACTER.GetShortUINamePossessive] during their wedding night."
- 
- friend_wnight_homosexual_both:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetHerHis] confessed their sexual orientations to each other during their wedding night."
- 
- friend_child_care:0 "[CHARACTER.GetShortUIName|U] showed a lot of love and care during [TARGET_CHARACTER.GetShortUINamePossessive] upbringing."
- friend_child_care_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] showed a lot of love and care during [CHARACTER.GetShortUINamePossessive] upbringing."
- 
- friend_invited_to_court:0 "[CHARACTER.GetShortUIName|U] invited [TARGET_CHARACTER.GetShortUIName], a mere peasant, to stay at court."
- friend_invited_to_court_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] invited [CHARACTER.GetShortUIName], a mere peasant, to stay at court."
- 
- friend_sheer_audacity:0 "[TARGET_CHARACTER.GetShortUIName|U] escaped the dungeon, walked up to [CHARACTER.GetShortUIName], and demanded better food!"
- friend_sheer_audacity_corresponding:0 "[CHARACTER.GetShortUIName|U] escaped the dungeon, walked up to [TARGET_CHARACTER.GetShortUIName], and demanded better food!"
- 
- friend_delivered_enemy:0 "[TARGET_CHARACTER.GetShortUIName|U] sold out one of [CHARACTER.GetShortUINamePossessive] enemies, [TARGET_CHARACTER_2.GetShortUIName]."
- friend_delivered_enemy_corresponding:0 "[CHARACTER.GetShortUIName|U] sold out one of [TARGET_CHARACTER.GetShortUINamePossessive] enemies, [TARGET_CHARACTER_2.GetShortUIName]."
- 
- friend_forging_jomsvikings:0 "[CHARACTER.GetShortUIName|U] put [TARGET_CHARACTER.GetShortUIName] in charge of the newly-forged Jomsvikings."
- friend_forging_jomsvikings_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] put [CHARACTER.GetShortUIName] in charge of the newly-forged Jomsvikings."
- 
- friend_wrote_letter_together:0 "[TARGET_CHARACTER.GetShortUIName|U] helped [CHARACTER.GetShortUIName] write a splendidly worded letter to the religious authorities."
- friend_wrote_letter_together_corresponding:0 "[CHARACTER.GetShortUIName|U] helped [TARGET_CHARACTER.GetShortUIName] write a splendidly worded letter to the religious authorities."
- 
- friend_took_pity:0 "[CHARACTER.GetShortUIName|U] took pity and let [TARGET_CHARACTER.GetShortUIName] sleep in the castle."
- friend_took_pity_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] took pity and let [CHARACTER.GetShortUIName] sleep in the castle."
- 
- friend_theological_debate:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] had a fruitful theological debate."
+ friend_holy_site_monk:0 "[CHARACTER.GetShortUIName|U] stond [TARGET_CHARACTER.GetShortUIName] toe om achter te blijven in een Heilige Plaats."
+ friend_holy_site_monk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] mocht van [CHARACTER.GetShortUIName] achterblijven op een heilige plaats."
 
- friend_wbanquet_saved_from_well:0 "[CHARACTER.GetShortUIName|U] saved [TARGET_CHARACTER.GetShortUIName] from falling into a well."
- friend_wbanquet_saved_from_well_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] was saved by [CHARACTER.GetShortUIName] from falling into a well."
+ friend_gaming:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat ze samen bordspellen hadden gespeeld."
+
+ friend_emergency_surgery:0 "[TARGET_CHARACTER.GetShortUINamePossessive] snelle ingreep redde het leven van [CHARACTER.GetShortUINamePossessive], waarvoor [CHARACTER.GetSheHe] voor altijd dankbaar is."
+ friend_emergency_surgery_corresponding: "[CHARACTER.GetShortUINamePossessive] snelle operatie redde [TARGET_CHARACTER.GetShortUINamePossessive] leven, waarvoor [TARGET_CHARACTER.GetSheHe] voor altijd dankbaar is."
  
- friend_estate_visit:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded during a visit to [PROVINCE.GetName]."
- friend_estate_visit_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded during a visit to [PROVINCE.GetName]."
+ friend_random_1:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat ze samen reisden in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ friend_random_2:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] deelden voorraden tijdens het zwerven in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ friend_random_3:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hielpen elkaar terwijl ze een kamp deelden in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ friend_random_4:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hadden een goede maaltijd en deelden veel verhalen in een taverne in [PROVINCE.GetName]."
+ friend_random_5:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] deelden voor korte tijd hun verblijf in [PROVINCE.GetName]."
+ friend_random_6:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hadden veel gemeen tijdens het dienen in [TARGET_CHARACTER_2.GetShortUINamePossessive] Hof."
+ friend_random_7:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] steunden elkaar tijdens het dienen in [TARGET_CHARACTER_2.GetShortUINamePossessive] hof."
+ friend_random_8:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] deelden veel goede maaltijden in [TARGET_CHARACTER_2.GetShortUINamePossessive] eetzaal."
+ friend_random_9:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band tijdens een wandeling in [TARGET_CHARACTER_2.GetShortUINamePossessive] hoofdnederzetting van [PROVINCE.GetName]."
+ friend_random_10:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] raakten bevriend toen ze zaken deden in [TARGET_CHARACTER_2.GetShortUINamePossessessive] hoofdnederzetting van [PROVINCE.GetName]."
+ friend_random_fallback:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] reisden samen."
  
- friend_feast_subject_of_interest:0 "[CHARACTER.GetShortUIName|U] discussed subjects of profound interest to [TARGET_CHARACTER.GetShortUIName] at [TARGET_CHARACTER_2.GetShortUINamePossessive] feast in [PROVINCE.GetName]."
- friend_feast_subject_of_interest_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] discussed subjects of profound interest to [CHARACTER.GetShortUIName] at [TARGET_CHARACTER_2.GetShortUINamePossessive] feast in [PROVINCE.GetName]."
+ rival_random_1:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] begonnen elkaar te minachten nadat ze samen hadden gereisd in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ rival_random_2:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben voorraden van elkaar gestolen tijdens het zwerven in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ rival_random_3:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] snurkten veel te luid terwijl ze een kamp deelden in de [PROVINCE.Custom('TerrainTypeProvince')] van [PROVINCE.GetName]."
+ rival_random_4:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] verpestten de goede stemming in een taverne in [PROVINCE.GetName]."
+ rival_random_5:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] raakten slaags terwijl ze onderdak deelden in [PROVINCE.GetName]."
+ rival_random_6:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] raakten slaags over politieke zaken toen ze dienden in de [TARGET_CHARACTER_2.GetShortUINamePossessive] hof."
+ rival_random_7:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] ondermijnden elkaar toen ze dienden aan het hof van [TARGET_CHARACTER_2.GetShortUIName]."
+ rival_random_8:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] raakten verzeild in een kinderachtig voedselgevecht in de [TARGET_CHARACTER_2.GetShortUINamePossessive] eetzaal."
+ rival_random_9:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen ruzie tijdens een wandeling in [TARGET_CHARACTER_2.GetShortUINamePossessive] hoofdnederzetting van [PROVINCE.GetName]."
+ rival_random_10:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] konden het niet eens worden over hoe ze een gezamenlijke taak moesten volbrengen tijdens een verblijf in [PROVINCE.GetName], de hoofdnederzetting van [TARGET_CHARACTER_2.GetShortUIName]."
+ rival_random_fallback:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] gingen elkaar verafschuwen terwijl ze samen reisden."
  
- friend_bible_commentary:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after spending several days and nights writing extensive commentary on the [CHARACTER.GetFaith.ReligiousText]."
- friend_bible_commentary_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded after spending several days and nights writing extensive commentary on the [TARGET_CHARACTER.GetFaith.ReligiousText]."
+ friend_epic_vassal_inspiration:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft vriendschap gezworen aan [CHARACTER.GetShortUINameNoTooltip] nadat hij was geïnspireerd door een groots epos met daarin verhalen over vriendschap tussen legendarische helden."
+ friend_epic_vassal_inspiration_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft vriendschap gezworen aan [TARGET_CHARACTER.GetShortUINameNoTooltip] nadat hij was geïnspireerd door een groots epos met daarin verhalen over vriendschap tussen legendarische helden."
  
- friend_passion_play:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed by [TARGET_CHARACTER.GetShortUINamePossessive] 'creative' passion play."
- friend_passion_play_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed by [CHARACTER.GetShortUINamePossessive] 'creative' passion play."
+ friend_coping_motivation:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat [CHARACTER.GetShortUIName] [TARGET_CHARACTER.GetShortUIName] gebruikte voor motivatie."
+ friend_coping_motivation_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] werden vrienden nadat [TARGET_CHARACTER.GetShortUIName] [CHARACTER.GetShortUIName] gebruikte voor motivatie."
  
- friend_helped_with_diplomacy:0 "[TARGET_CHARACTER.GetShortUIName|U] offered [CHARACTER.GetShortUIName] aid in conducting delicate foreign diplomacy with [TARGET_CHARACTER_2.GetShortUIName]."
- friend_helped_with_diplomacy_corresponding:0 "[CHARACTER.GetShortUIName|U] offered [TARGET_CHARACTER.GetShortUIName] aid in conducting delicate foreign diplomacy with [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_motivated_by_parent:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'werden', 'werd')] aangemoedigd door [TARGET_CHARACTER_2.GetShortUIName] om vriend te worden met [TARGET_CHARACTER.GetShortUIName]."
+ friend_motivated_by_parent_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'werden', 'werd' )] door [TARGET_CHARACTER_2.GetShortUIName] aangemoedigd om vriend te worden met [CHARACTER.GetShortUIName]."
  
- friend_right_hand_man:0 "[TARGET_CHARACTER.GetShortUIName|U] served as [CHARACTER.GetShortUINamePossessive] right-hand [TARGET_CHARACTER.GetWomanMan]."
- friend_right_hand_man_corresponding:0 "[CHARACTER.GetShortUIName|U] served as [TARGET_CHARACTER.GetShortUINamePossessive] right-hand [CHARACTER.GetWomanMan]."
+ friend_good_chats:0 "[CHARACTER.GetShortUIName] heeft als kind veel geleerd van gesprekken met [TARGET_CHARACTER.GetShortUIName]."
+ friend_good_chats_corresponding:0 "[TARGET_CHARACTER.GetShortUIName]  heeft als kind veel geleerd van gesprekken met [CHARACTER.GetShortUIName]."
  
- friend_spared:0 "[TARGET_CHARACTER.GetShortUIName|U] decided to compassionately spare [CHARACTER.GetShortUINamePossessive] life."
- friend_spared_corresponding:0 "[CHARACTER.GetShortUIName|U] decided to compassionately spare [TARGET_CHARACTER.GetShortUINamePossessive] life."
+ friend_pedagogy:0 "[TARGET_CHARACTER.GetShortUINamePossessive|U] zorgvuldige opvoeding van [CHARACTER.GetShortUINamePossessive|U] plantte de zaden van blijvende vriendschap."
+ friend_pedagogy_corresponding:0 "[CHARACTER.GetShortUINamePossessive|U] zorgvuldige opvoeding van [TARGET_CHARACTER.GetShortUIName] plantte de zaden van blijvende vriendschap."
  
- friend_took_lessons_to_heart:0 "[CHARACTER.GetShortUIName|U] took [TARGET_CHARACTER.GetShortUINamePossessive] lessons to heart, truly."
- friend_took_lessons_to_heart_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] took [CHARACTER.GetShortUINamePossessive] lessons to heart, truly."
+ friend_encouraged_differences:0 "[CHARACTER.GetShortUIName|U] stimuleerde en accepteerde [TARGET_CHARACTER.GetShortUINamePossessive] verschillen."
+ friend_encouraged_differences_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] stimuleerde en accepteerde [CHARACTER.GetShortUINamePossessive] verschillen."
  
- friend_childhood_antics:0 "[CHARACTER.GetShortUIName|U] forgave [TARGET_CHARACTER.GetShortUIName] for stealing alcohol as a child."
- friend_childhood_antics_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] forgave [CHARACTER.GetShortUIName] for stealing alcohol as a child."
+ friend_language_learned:0 "[CHARACTER.GetShortUIName|U] leerde [TARGET_CHARACTER.GetShortUINamePossessive] taal."
+ friend_language_learned_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] leerde [CHARACTER.GetShortUINamePossessive] taal."
  
- friend_child_sermon:0 "While [CHARACTER.GetShortUIName] were a child, [TARGET_CHARACTER.GetShortUIName] delivered a fiery religious sermon that left a lasting impression."
- friend_child_sermon_corresponding:0 "While [TARGET_CHARACTER.GetShortUIName] were a child, [CHARACTER.GetShortUIName] delivered a fiery religious sermon that left a lasting impression."
+ friend_festival_puppy:0 "[CHARACTER.GetShortUIName|U] schonk [TARGET_CHARACTER.GetShortUIName] een puppy tijdens een Cultureel Festival."
+ friend_festival_puppy_corresponding:0 "[TARGET_CHARACTER.GetShortUIName] kreeg een puppy cadeau van [CHARACTER.GetShortUIName] tijdens een Cultureel Festival."
  
- friend_encouraged_zealous:0 "[CHARACTER.GetShortUIName|U] encouraged [TARGET_CHARACTER.GetShortUIName], then a child, to stay zealous in matters of faith."
- friend_encouraged_zealous_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] encouraged [CHARACTER.GetShortUIName], then a child, to stay zealous in matters of faith."
+ friend_party_baron:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft met ijver en enthousiasme vriendschap gesloten met [CHARACTER.GetShortUIName]!"
+ friend_party_baron_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft met ijver en enthousiasme vriendschap gesloten met [TARGET_CHARACTER.GetShortUIName]!"
  
- friend_encouraged_deceitfulness:0 "[CHARACTER.GetShortUIName|U] encouraged [TARGET_CHARACTER.GetShortUIName], then a child, to keep using underhanded tactics to enact revenge."
- friend_encouraged_deceitfulness_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] encouraged [CHARACTER.GetShortUIName], then a child, to keep using underhanded tactics to enact revenge."
+ friend_forgiven_transgression:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] alle eerdere wandaden onvoorwaardelijk vergeven."
+ friend_forgiven_transgression_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] alle eerdere wandaden onvoorwaardelijk vergeven."
  
- friend_encouraged_fickleness:0 "[CHARACTER.GetShortUIName|U] encouraged [TARGET_CHARACTER.GetShortUIName], then a child, to keep trying new things in unexpected ways."
- friend_encouraged_fickleness_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] encouraged [CHARACTER.GetShortUIName], then a child, to keep trying new things in unexpected ways."
+ friend_debate_win:0 "[CHARACTER.GetShortUIName|U] overtuigde [TARGET_CHARACTER.GetShortUIName] van [CHARACTER.GetShortUINamePossessiveNoTooltip] deugden tijdens een debat."
+ friend_debate_win_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] overtuigde [CHARACTER.GetShortUIName] van [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] deugden tijdens een debat."
  
- friend_comforted_shy_child:0 "While a child, [TARGET_CHARACTER.GetShortUIName] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] comforted by [CHARACTER.GetShortUIName] after a terrible beating."
- friend_comforted_shy_child_corresponding:0 "While a child, [CHARACTER.GetShortUIName] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] comforted by [TARGET_CHARACTER.GetShortUIName] after a terrible beating."
+ friend_apologise:0 "[CHARACTER.GetShortUIName|U] heeft zich oprecht verontschuldigd bij [TARGET_CHARACTER.GetShortUIName]."
+ friend_apologise_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft zich oprecht verontschuldigd bij [CHARACTER.GetShortUIName]."
  
- friend_impressed_by_childs_compassion:0 "While a child, [TARGET_CHARACTER.GetShortUIName] impressed [CHARACTER.GetShortUIName] by cleaning all the pots in the kitchen."
- friend_impressed_by_childs_compassion_corresponding:0 "While a child, [CHARACTER.GetShortUIName] impressed [TARGET_CHARACTER.GetShortUIName] by cleaning all the pots in the kitchen."
+ friend_appreciated_good_entertainment:0 "Als kind liet [TARGET_CHARACTER.GetShortUIName] een blijvende indruk achter door [CHARACTER.GetShortUIName] mee te nemen naar een executie."
+ friend_appreciated_good_entertainment_corresponding:0 "Als kind liet [CHARACTER.GetShortUIName] een blijvende indruk achter door [TARGET_CHARACTER.GetShortUIName] mee te nemen naar een executie."
  
- friend_impressed_by_justice:0 "While a child, [TARGET_CHARACTER.GetShortUIName] impressed [CHARACTER.GetShortUIName] during a lesson in realm management and taxation."
- friend_impressed_by_justice_corresponding:0 "While a child, [CHARACTER.GetShortUIName] impressed [TARGET_CHARACTER.GetShortUIName] during a lesson in realm management and taxation."
+ friend_introduced_by_common_friend:0 "[CHARACTER.GetShortUIName|U] werd door één van [TARGET_CHARACTER.GetShortUINamePossessessiveNoTooltip] vrienden voorgesteld aan [TARGET_CHARACTER.GetShortUIName]."
+ friend_introduced_by_common_friend_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd door één van [CHARACTER.GetShortUINamePossessiveNoTooltip] vrienden voorgesteld aan [CHARACTER.GetShortUIName]."
  
- friend_impressed_by_forgiveness:0 "While a child, [TARGET_CHARACTER.GetShortUIName] impressed [CHARACTER.GetShortUIName] during a lesson in vassal diplomacy."
- friend_impressed_by_forgiveness_corresponding:0 "While a child, [CHARACTER.GetShortUIName] impressed [TARGET_CHARACTER.GetShortUIName] during a lesson in vassal diplomacy."
+ friend_woke_me:0 "[CHARACTER.GetShortUIName|U] wekte [TARGET_CHARACTER.GetShortUIName] uit een dutje op een ongemakkelijke plaats."
+ friend_woke_me_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] wekte [CHARACTER.GetShortUIName] uit een dutje op een ongemakkelijke plaats."
  
- friend_tried_to_save_my_life:0 "While children, [CHARACTER.GetShortUIName] rushed to get [TARGET_CHARACTER.GetShortUIName] bandages after an ill-fated armory break-in."
- friend_tried_to_save_my_life_corresponding:0 "While children, [TARGET_CHARACTER.GetShortUIName] rushed to get [CHARACTER.GetShortUIName] bandages after an ill-fated armory break-in."
+ friend_helped_during_episode:0 "[TARGET_CHARACTER.GetShortUIName|U] hielp [CHARACTER.GetShortUIName] bij een incident."
+ friend_helped_during_episode_corresponding:0 "[CHARACTER.GetShortUIName|U] hielp [TARGET_CHARACTER.GetShortUIName] bij een incident."
  
- friend_taught_child_compassion:0 "[TARGET_CHARACTER.GetShortUIName] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] thankful after [CHARACTER.GetShortUIName] taught an insolent child how to be compassionate."
- friend_taught_child_compassion_corresponding:0 "[CHARACTER.GetShortUIName] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] thankful after [TARGET_CHARACTER.GetShortUIName] taught an insolent child how to be compassionate."
+ friend_returned_lost_scroll:0 "[CHARACTER.GetShortUIName|U] heeft een zeer belangrijke verloren boekrol teruggegeven aan [TARGET_CHARACTER.GetShortUIName]."
+ friend_returned_lost_scroll_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft een zeer belangrijke verloren boekrol teruggegeven aan [CHARACTER.GetShortUIName]."
  
- friend_spouse_talked_me_up:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed when [TARGET_CHARACTER_2.GetShortUIName] extoled [CHARACTER.GetShortUINamePossessiveNoTooltip] virtues."
- friend_spouse_talked_me_up_corresponding:1 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] impressed when [TARGET_CHARACTER_2.GetShortUIName] extoled [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] virtues."
+ friend_story_by_fire:0 "Zittend bij het vuur, drankje in de hand, vertelde [CHARACTER.GetShortUIName] aan [TARGET_CHARACTER.GetShortUIName] een fantastisch verhaal."
+ friend_story_by_fire_corresponding:0 "Zittend bij het vuur, drankje in de hand, vertelde [TARGET_CHARACTER.GetShortUIName] aan [CHARACTER.GetShortUIName] een fantastisch verhaal."
  
- friend_homage_ceremony:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName|U] had a celebration of their friendship during a Cultural Festival."
+ friend_gift_house:0 "[CHARACTER.GetShortUIName|U] eerde de bijdrage van [TARGET_CHARACTER.GetShortUIName] aan het Huis [CHARACTER.GetHouse.GetName] met een gouden geschenk."
+ friend_gift_house_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] eerde de bijdrage van [CHARACTER.GetShortUIName] aan het Huis [TARGET_CHARACTER.GetHouse.GetName] met een gouden geschenk."
  
- friend_confide:0 "[TARGET_CHARACTER.GetShortUIName|U] confided in [CHARACTER.GetShortUIName]."
- friend_confide_corresponding:0 "[CHARACTER.GetShortUIName|U] confided in [TARGET_CHARACTER.GetShortUIName]."
+ friend_common_language:0 "[TARGET_CHARACTER.GetShortUIName|U] stuurde vriendelijke berichten in de taal van [CHARACTER.GetShortUINamePossessive] Hof."
+ friend_common_language_corresponding:0 "[CHARACTER.GetShortUIName|U] stuurde vriendelijke berichten in de taal van [TARGET_CHARACTER.GetShortUINamePossessive] Hof."
  
- friend_confide_opposite:0 "[CHARACTER.GetShortUIName|U] confided in [TARGET_CHARACTER.GetShortUIName]."
- friend_confide_opposite_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] confided in [CHARACTER.GetShortUIName]."
+ friend_supported_me_against_spouse:0 "[CHARACTER.GetShortUIName|U] stond samen met [TARGET_CHARACTER.GetShortUIName] tegenover [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] verraderlijke voormalige echtgenoot [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_supported_me_against_spouse_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] stond samen met [CHARACTER.GetShortUIName] tegenover [CHARACTER.GetShortUINamePossessiveNoTooltip] verraderlijke voormalige echtgenoot [TARGET_CHARACTER_2.GetShortUIName]."
  
- friend_aggressively_befriended:0 "[CHARACTER.GetShortUIName|U] aggressively befriended [TARGET_CHARACTER.GetShortUIName] at a feast."
- friend_aggressively_befriended_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] aggressively befriended [CHARACTER.GetShortUIName] at a feast."
+ friend_impressive_feat_of_alcoholism:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] enorm onder de indruk van het drinken van een ongelooflijke hoeveelheid alcohol door [CHARACTER.GetShortUINameNoTooltip]."
+ friend_impressive_feat_of_alcoholism_corresponding:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] enorm onder de indruk van het drinken van een ongelooflijke hoeveelheid alcohol door [TARGET_CHARACTER.GetShortUINameNoTooltip]."
  
- friend_old_mentor:0 "[TARGET_CHARACTER.GetShortUIName|U] taught [CHARACTER.GetShortUIName] a great deal of useful skills."
- friend_old_mentor_corresponding:0 "[CHARACTER.GetShortUIName|U] taught [TARGET_CHARACTER.GetShortUIName] a great deal of useful skills."
+ friend_brought_back_home:1 "[TARGET_CHARACTER.GetShortUIName|U] is [CHARACTER.GetShortUIName] eeuwig dankbaar, omdat [TARGET_CHARACTER.GetShortUINameNoTooltip] hem terug naar het Hof heeft gebracht, ontsnapt aan een ellendig huwelijk met [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_brought_back_home_corresponding:0 "[CHARACTER.GetShortUIName|U] is [TARGET_CHARACTER.GetShortUIName] eeuwig dankbaar, omdat [CHARACTER.GetShortUINameNoTooltip] hem terug naar het Hof heeft gebracht, ontsnapt aan een ellendig huwelijk met [TARGET_CHARACTER_2.GetShortUIName]."
  
- friend_toy:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded as children after playing with [CHARACTER.GetShortUINamePossessiveNoTooltip] [CHARACTER.Custom('child_favorite_toy')] together."
- friend_toy_corresponding:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName] bonded as children after playing with [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] [TARGET_CHARACTER.Custom('child_favorite_toy')] together."
+ friend_shared_toy:0 "Als kind mocht [CHARACTER.GetShortUIName] spelen met [TARGET_CHARACTER.GetShortUINamePossessive] [TARGET_CHARACTER.Custom('child_favorite_toy')]."
+ friend_shared_toy_corresponding:0 "Als kind mocht [TARGET_CHARACTER.GetShortUIName] spelen met [CHARACTER.GetShortUINamePossessive] [CHARACTER.Custom('child_favorite_toy')]."
  
- friend_returned_refugee:0 "[TARGET_CHARACTER.GetShortUIName|U] returned an exiled refugee to [CHARACTER.GetShortUIName]."
- friend_returned_refugee_corresponding:0 "[CHARACTER.GetShortUIName|U] returned an exiled refugee to [TARGET_CHARACTER.GetShortUIName]."
+ friend_given_a_cat:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] een jong katje gegeven."
+ friend_given_a_cat_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] een jong katje gegeven."
  
- friend_protected_secrets:0 "[TARGET_CHARACTER.GetShortUIName|U] protected [CHARACTER.GetShortUINamePossessive] secrets."
- friend_protected_secrets_corresponding:0 "[CHARACTER.GetShortUIName|U] protected [TARGET_CHARACTER.GetShortUINamePossessive] secrets."
+ friend_given_a_cat_2:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] een jong katje gegeven."
+ friend_given_a_cat_2_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] een jong katje gegeven."
  
- lover_court_visit_seduction:0 "[CHARACTER.GetShortUIName|U] seduced [TARGET_CHARACTER.GetShortUIName] during a visit to [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
- lover_court_visit_seduction_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] seduced [CHARACTER.GetShortUIName] during a visit to [TARGET_CHARACTER_2.GetShortUINamePossessive] court."
+ friend_given_a_dog:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] een puppy gegeven."
+ friend_given_a_dog_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] een puppy gegeven."
  
- lover_poet_demand:0 "[CHARACTER.GetShortUIName|U] gave in to [TARGET_CHARACTER.GetShortUINamePossessive] poetic demand for love."
- lover_poet_demand_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] gave in to [CHARACTER.GetShortUINamePossessive] poetic demand for love."
+ friend_given_a_dog_2:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] een puppy gegeven."
+ friend_given_a_dog_2_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName]een puppy gegeven."
  
- lover_cannibal_seduction:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'were', 'was' )] given permission to take a single, seductive, bite of [CHARACTER.GetShortUINamePossessive] flesh."
- lover_cannibal_seduction_corresponding:1 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] given permission to take a single, seductive, bite of [TARGET_CHARACTER.GetShortUINamePossessive] flesh."
+ friend_dedicated_artifact:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft een bijzonder Object opgedragen aan [CHARACTER.GetShortUIName]."
+ friend_dedicated_artifact_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft een bijzonder Object opgedragen aan [TARGET_CHARACTER.GetShortUIName]."
  
- lover_wnight_walk:0 "[CHARACTER.GetShortUIName|U] took [TARGET_CHARACTER.GetShortUIName|U] for a romantic walk during their wedding night."
- lover_wnight_walk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] was taken by [CHARACTER.GetShortUIName|U] on a romantic walk during their wedding night."
+ friend_converted_explorer:0 "[CHARACTER.GetShortUIName|U] is bekeerd tot [TARGET_CHARACTER.GetShortUINamePossessive] geloof."
+ friend_converted_explorer_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] is bekeerd tot [CHARACTER.GetShortUINamePossessive] geloof."
  
- lover_wnight_talk:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName|U] shared a deep conversation during their wedding night."
+ friend_religious_tolerance:0 "[CHARACTER.GetShortUIName|U] toonde tolerantie en begrip voor [TARGET_CHARACTER.GetShortUINamePossessive] overtuigingen."
+ friend_religious_tolerance_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] toonde tolerantie en begrip voor [CHARACTER.GetShortUINamePossessive] overtuigingen."
  
- lover_wnight_secret_accepted:0 "[CHARACTER.GetShortUIName|U] accepted [TARGET_CHARACTER.GetShortUINamePossessive] secret when [TARGET_CHARACTER.GetSheHe] confessed it during their wedding night."
- lover_wnight_secret_accepted_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive] secret was accepted by [CHARACTER.GetShortUIName|U] when [TARGET_CHARACTER.GetSheHe] confessed it during their wedding night."
+ friend_let_off_the_hook:0 "[CHARACTER.GetShortUIName|U] laat [TARGET_CHARACTER.GetShortUIName] gaan met betrekking tot een schending van een feodaal contract."
+ friend_let_off_the_hook_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] laat [CHARACTER.GetShortUIName] gaan met betrekking tot een schending van een feodaal contract."
  
- lover_wnight_secret_shared:0 "[CHARACTER.GetShortUIName|U] and [TARGET_CHARACTER.GetShortUIName|U] confessed their secrets to each other during their wedding night."
+ friend_guided_right_path:0 "[TARGET_CHARACTER.GetShortUIName|U] besteedde tijd aan het begeleiden van [CHARACTER.GetShortUIName] naar het juiste religieuze pad."
+ friend_guided_right_path_corresponding:0 "[CHARACTER.GetShortUIName|U] besteedde tijd aan het begeleiden van [TARGET_CHARACTER.GetShortUIName] naar het juiste religieuze pad."
+ 
+ friend_defended_honor_root_character_scope:0 "[CHARACTER.GetShortUIName|U] verdedigde [TARGET_CHARACTER.GetShortUINamePossessive] eer."
+ friend_defended_honor_root_character_scope_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] verdedigde [CHARACTER.GetShortUINamePossessive] eer."
+ 
+ friend_composer_epic:0 "[TARGET_CHARACTER.GetShortUIName|U] schreef een prachtig epos voor [CHARACTER.GetShortUIName]."
+ friend_composer_epic_corresponding:0 "[CHARACTER.GetShortUIName|U] schreef een prachtig epos voor [TARGET_CHARACTER.GetShortUIName]."
+ 
+ friend_defended_honor_target_character_scope:0 "[TARGET_CHARACTER.GetShortUIName|U] verdedigde [CHARACTER.GetShortUINamePossessive] eer."
+ friend_defended_honor_target_character_scope_corresponding:0 "[CHARACTER.GetShortUIName|U] verdedigde [TARGET_CHARACTER.GetShortUINamePossessive] eer."
+ 
+ friend_saved_as_children:0 "Toen ze nog kinderen waren, redde [CHARACTER.GetShortUIName] [TARGET_CHARACTER.GetShortUIName] van een pak slaag van een groep luidruchtige jongeren."
+ friend_saved_as_children_corresponding:0 "Toen ze nog kinderen waren, redde [TARGET_CHARACTER.GetShortUIName|U] [CHARACTER.GetShortUIName] van een pak slaag van een groep oproerkraaiende jongeren."
+ 
+ friend_approves_methods:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk van [CHARACTER.GetShortUINamePossessive] kennis van Trepanatie (schedeloperaties)."
+ friend_approves_methods_corresponding:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk van [TARGET_CHARACTER.GetShortUINamePossessive] kennis van Trepanatie (schedeloperaties)."
+ 
+ friend_taxed_vassals_lands:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft extra belasting geïnd voor [CHARACTER.GetShortUIName]."
+ friend_taxed_vassals_lands_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft extra belasting geïnd voor [TARGET_CHARACTER.GetShortUIName]."
+ 
+ friend_treated_wounds:0 "[TARGET_CHARACTER.GetShortUIName|U] behandelde [CHARACTER.GetShortUINamePossessive] wonden."
+ friend_treated_wounds_corresponding:0 "[CHARACTER.GetShortUIName|U] behandelde [TARGET_CHARACTER.GetShortUINamePossessive] wonden."
+ 
+ friend_child_special_attention:0 "[CHARACTER.GetShortUIName|U] besteedde veel aandacht aan [TARGET_CHARACTER.GetShortUINamePossessive] onderwijs."
+ friend_child_special_attention_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] besteedde veel aandacht aan [CHARACTER.GetShortUINamePossessive] onderwijs."
+ 
+ friend_wnight_homosexual:0 "[TARGET_CHARACTER.GetShortUIName|U] bekende [TARGET_CHARACTER.GetHerHis] seksuele geaardheid aan [CHARACTER.GetShortUIName] tijdens hun huwelijksnacht."
+ friend_wnight_homosexual_corresponding: "[CHARACTER.GetShortUIName|U] bekende [CHARACTER.GetHerHis] seksuele geaardheid aan [TARGET_CHARACTER.GetShortUIName] tijdens hun huwelijksnacht."
+ 
+ friend_wnight_homosexual_both:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName|U] biechtten hun seksuele geaardheid aan elkaar op tijdens hun huwelijksnacht."
+ 
+ friend_child_care:0 "[CHARACTER.GetShortUIName|U] toonde veel liefde en zorg tijdens de [TARGET_CHARACTER.GetShortUINamePossessive] opvoeding."
+ friend_child_care_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] toonde veel liefde en zorg tijdens de [CHARACTER.GetShortUINamePossessive] opvoeding."
+ 
+ friend_invited_to_court:0 "[CHARACTER.GetShortUIName|U] nodigde [TARGET_CHARACTER.GetShortUIName], een gewone boer, uit om aan het hof te verblijven."
+ friend_invited_to_court_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] nodigde [CHARACTER.GetShortUIName], een gewone boer, uit om aan het hof te verblijven."
+ 
+ friend_sheer_audacity:0 "[TARGET_CHARACTER.GetShortUIName|U] ontsnapte uit de kerker, liep naar [CHARACTER.GetShortUIName] en eiste beter eten!"
+ friend_sheer_audacity_corresponding:0 "[CHARACTER.GetShortUIName|U] ontsnapte uit de kerker, liep naar [TARGET_CHARACTER.GetShortUIName] en eiste beter eten!"
+ 
+ friend_delivered_enemy:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft een van de [CHARACTER.GetShortUINamePossessessive] vijanden ([TARGET_CHARACTER_2.GetShortUIName]) verraden voor geld."
+ friend_delivered_enemy_corresponding:0 "[CHARACTER.GetShortUIName|U] heeft een van de [TARGET_CHARACTER.GetShortUINamePossessive] vijanden ([TARGET_CHARACTER_2.GetShortUIName]) voor geld."
+ 
+ friend_forging_jomsvikings:0 "[CHARACTER.GetShortUIName|U] geeft [TARGET_CHARACTER.GetShortUIName] de leiding over de nieuw opgerichte Jomsvikings."
+ friend_forging_jomsvikings_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] geeft [CHARACTER.GetShortUIName] de leiding over de nieuw opgerichte Jomsvikings."
+ 
+ friend_wrote_letter_together:0 "[TARGET_CHARACTER.GetShortUIName|U] hielp [CHARACTER.GetShortUIName] met het schrijven van een prachtig geformuleerde brief aan de religieuze autoriteiten."
+ friend_wrote_letter_together_corresponding:0 "[CHARACTER.GetShortUIName|U] hielp [TARGET_CHARACTER.GetShortUIName] met het schrijven van een prachtig geformuleerde brief aan de religieuze autoriteiten."
+ 
+ friend_took_pity:0 "[CHARACTER.GetShortUIName|U] had medelijden en liet [TARGET_CHARACTER.GetShortUIName] in het kasteel slapen."
+ friend_took_pity_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] had medelijden en liet [CHARACTER.GetShortUIName] in het kasteel slapen."
+ 
+ friend_theological_debate:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hadden een vruchtbaar theologisch debat."
+
+ friend_wbanquet_saved_from_well:0 "[CHARACTER.GetShortUIName|U] redde [TARGET_CHARACTER.GetShortUIName] voor het vallen in een put."
+ friend_wbanquet_saved_from_well_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd gered door [CHARACTER.GetShortUIName] voor het vallen in een put."
+ 
+ friend_estate_visit:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben een band gekregen tijdens een bezoek aan [PROVINCE.GetName]."
+ friend_estate_visit_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] hebben een band gekregen tijdens een bezoek aan [PROVINCE.GetName]."
+ 
+ friend_feast_subject_of_interest:0 "[CHARACTER.GetShortUIName|U] besprak onderwerpen van diepgaand belang voor [TARGET_CHARACTER.GetShortUIName] op [TARGET_CHARACTER_2.GetShortUINamePossessive] feest in [PROVINCE.GetName]."
+ friend_feast_subject_of_interest_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] besprak onderwerpen van diepgaand belang voor [CHARACTER.GetShortUIName] op [TARGET_CHARACTER_2.GetShortUINamePossessive] feest in [PROVINCE.GetName]."
+ 
+ friend_bible_commentary:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze dagen en nachten hadden besteed aan het schrijven van uitgebreid commentaar op [CHARACTER.GetFaith.ReligiousText]."
+ friend_bible_commentary_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen een band nadat ze dagen en nachten hadden besteed aan het schrijven van uitgebreid commentaar op [TARGET_CHARACTER.GetFaith.ReligiousText]."
+ 
+ friend_passion_play:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk van [TARGET_CHARACTER.GetShortUINamePossessive] 'creatief' passiespel."
+ friend_passion_play_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk van [CHARACTER.GetShortUINamePossessive] 'creatief' passiespel."
+ 
+ friend_helped_with_diplomacy:0 "[TARGET_CHARACTER.GetShortUIName|U] bood [CHARACTER.GetShortUIName] hulp aan bij het voeren van delicate buitenlandse diplomatie met [TARGET_CHARACTER_2.GetShortUIName]."
+ friend_helped_with_diplomacy_corresponding:0 "[CHARACTER.GetShortUIName|U] bood [TARGET_CHARACTER.GetShortUIName] hulp aan bij het voeren van delicate buitenlandse diplomatie met [TARGET_CHARACTER_2.GetShortUIName]."
+ 
+ friend_right_hand_man:0 "[TARGET_CHARACTER.GetShortUIName|U] diende als [CHARACTER.GetShortUINamePossessessive] rechterhand."
+ friend_right_hand_man_corresponding:0 "[CHARACTER.GetShortUIName|U] diende als [TARGET_CHARACTER.GetShortUINamePossessive] rechterhand."
+ 
+ friend_spared:0 "[TARGET_CHARACTER.GetShortUIName|U] besloot uit mededogen om het leven van [CHARACTER.GetShortUIName] te sparen."
+ friend_spared_corresponding:0 "[CHARACTER.GetShortUIName|U] besloot uit mededogen om het leven van [TARGET_CHARACTER.GetShortUIName] te sparen."
+ 
+ friend_took_lessons_to_heart:0 "[CHARACTER.GetShortUIName|U] nam [TARGET_CHARACTER.GetShortUINamePossessive] lessen ter harte, echt waar."
+ friend_took_lessons_to_heart_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] nam [CHARACTER.GetShortUINamePossessive] lessen ter harte, echt waar."
+ 
+ friend_childhood_antics:0 "[CHARACTER.GetShortUIName|U] heeft [TARGET_CHARACTER.GetShortUIName] vergeven toen hij als kind alcohol had gestolen."
+ friend_childhood_antics_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] heeft [CHARACTER.GetShortUIName] vergeven toen hij als kind alcohol had gestolen."
+ 
+ friend_child_sermon:0 "Toen [CHARACTER.GetShortUIName] nog een kind was, hield [TARGET_CHARACTER.GetShortUIName] een vurige religieuze preek die een blijvende indruk achterliet."
+ friend_child_sermon_corresponding:0 "Toen [TARGET_CHARACTER.GetShortUIName] nog een kind was, hield [CHARACTER.GetShortUIName] een vurige religieuze preek die een blijvende indruk achterliet."
+ 
+ friend_encouraged_zealous:0 "[CHARACTER.GetShortUIName|U] moedigde [TARGET_CHARACTER.GetShortUIName], toen een kind, aan om geestdriftig te blijven in geloofskwesties."
+ friend_encouraged_zealous_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] moedigde [CHARACTER.GetShortUIName], toen een kind, aan om geestdriftig te blijven in geloofskwesties."
+ 
+ friend_encouraged_deceitfulness:0 "[CHARACTER.GetShortUIName|U] moedigde [TARGET_CHARACTER.GetShortUIName], toen een kind, aan om slinkse tactieken te blijven gebruiken om wraak te nemen."
+ friend_encouraged_deceitfulness_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] moedigde [CHARACTER.GetShortUIName], toen een kind, aan om slinkse tactieken te blijven gebruiken om wraak te nemen."
+ 
+ friend_encouraged_fickleness:0 "[CHARACTER.GetShortUIName|U] moedigde [TARGET_CHARACTER.GetShortUIName], toen een kind, aan om nieuwe dingen op verrassende manieren te blijven proberen."
+ friend_encouraged_fickleness_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] moedigde [CHARACTER.GetShortUIName], toen een kind, aan om nieuwe dingen op verrassende manieren te blijven proberen."
+ 
+ friend_comforted_shy_child:0 "Als kind, [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'werden', 'werd' )] [TARGET_CHARACTER.GetShortUIName] na een verschrikkelijk pak slaag getroost door [CHARACTER.GetShortUIName]."
+ friend_comforted_shy_child_corresponding:0 "Als kind, [Select_CString(CHARACTER.IsLocalPlayer, 'werden', 'werd' )] [CHARACTER.GetShortUIName] na een verschrikkelijk pak slaag getroost door [TARGET_CHARACTER.GetShortUIName]."
+ 
+ friend_impressed_by_childs_compassion:0 "Als kind maakte [TARGET_CHARACTER.GetShortUIName] indruk op [CHARACTER.GetShortUIName] door alle potten in de keuken schoon te maken."
+ friend_impressed_by_childs_compassion_corresponding:0 "Als kind maakte [CHARACTER.GetShortUIName] indruk op [TARGET_CHARACTER.GetShortUIName] door alle potten in de keuken schoon te maken."
+ 
+ friend_impressed_by_justice:0 "Als kind maakte [TARGET_CHARACTER.GetShortUIName] indruk op [CHARACTER.GetShortUIName] tijdens een les in rijksbeheer en belastingen."
+ friend_impressed_by_justice_corresponding:0 "Als kind maakte [CHARACTER.GetShortUIName] indruk op [TARGET_CHARACTER.GetShortUIName] tijdens een les in rijksbeheer en belastingen."
+ 
+ friend_impressed_by_forgiveness:0 "Als kind maakte [TARGET_CHARACTER.GetShortUIName] indruk op [CHARACTER.GetShortUIName] tijdens een les in vazal diplomatie."
+ friend_impressed_by_forgiveness_corresponding:0 "Als kind maakte [CHARACTER.GetShortUIName] indruk op [TARGET_CHARACTER.GetShortUIName] tijdens een les in vazal diplomatie."
+ 
+ friend_tried_to_save_my_life:0 "Als kinderen haastte [CHARACTER.GetShortUIName] zich om verband te halen voor [TARGET_CHARACTER.GetShortUIName] na een noodlottige inbraak in een wapenkamer."
+ friend_tried_to_save_my_life_corresponding:0 "Als kinderen haastte [TARGET_CHARACTER.GetShortUIName] zich om [CHARACTER.GetShortUIName] verband te halen na een noodlottige inbraak in een wapenkamer."
+ 
+ friend_taught_child_compassion:0 "[TARGET_CHARACTER.GetShortUIName] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] dankbaar nadat [CHARACTER.GetShortUIName] een brutaal kind leerde om medelevend te zijn."
+ friend_taught_child_compassion_corresponding:0 "[CHARACTER.GetShortUIName] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] dankbaar nadat [TARGET_CHARACTER.GetShortUIName] een brutaal kind leerde om medelevend te zijn."
+ 
+ friend_spouse_talked_me_up:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk toen [TARGET_CHARACTER_2.GetShortUIName] de deugden van [CHARACTER.GetShortUINamePossessiveNoTooltip] ophemelde."
+ friend_spouse_talked_me_up_corresponding:1 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] onder de indruk toen [TARGET_CHARACTER_2.GetShortUIName] de deugden van [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] ophemelde."
+ 
+ friend_homage_ceremony:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName|U] vierden hun vriendschap tijdens een Cultureel Festival."
+ 
+ friend_confide:0 "[TARGET_CHARACTER.GetShortUIName|U] nam [CHARACTER.GetShortUIName] in vertrouwen."
+ friend_confide_corresponding:0 "[CHARACTER.GetShortUIName|U] nam [TARGET_CHARACTER.GetShortUIName] in vertrouwen."
+ 
+ friend_confide_opposite:0 "[CHARACTER.GetShortUIName|U] nam [TARGET_CHARACTER.GetShortUIName] in vertrouwen."
+ friend_confide_opposite_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] nam [CHARACTER.GetShortUIName] in vertrouwen."
+ 
+ friend_aggressively_befriended:0 "[CHARACTER.GetShortUIName|U] raakte op agressieve wijze bevriend met [TARGET_CHARACTER.GetShortUIName] op een feest."
+ friend_aggressively_befriended_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] raakte op agressieve wijze bevriend met [CHARACTER.GetShortUIName] op een feest."
+ 
+ friend_old_mentor:0 "[TARGET_CHARACTER.GetShortUIName|U] leerde [CHARACTER.GetShortUIName] veel nuttige vaardigheden."
+ friend_old_mentor_corresponding:0 "[CHARACTER.GetShortUIName|U] leerde [TARGET_CHARACTER.GetShortUIName] veel nuttige vaardigheden."
+ 
+ friend_toy:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen als kinderen een band toen ze samen met [CHARACTER.GetShortUINamePossessiveNoTooltip] [CHARACTER.Custom('child_favorite_toy')] speelden."
+ friend_toy_corresponding:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] kregen als kinderen een band toen ze samen met [TARGET_CHARACTER.GetShortUINamePossessiveNoTooltip] [TARGET_CHARACTER.Custom('child_favorite_toy')] speelden."
+ 
+ friend_returned_refugee:0 "[TARGET_CHARACTER.GetShortUIName|U] stuurde een verbannen vluchteling terug naar [CHARACTER.GetShortUIName]."
+ friend_returned_refugee_corresponding:0 "[CHARACTER.GetShortUIName|U] stuurde een verbannen vluchteling terug naar [TARGET_CHARACTER.GetShortUIName]."
+ 
+ friend_protected_secrets:0 "[TARGET_CHARACTER.GetShortUIName|U] beschermde [CHARACTER.GetShortUINamePossessive] geheimen."
+ friend_protected_secrets_corresponding:0 "[CHARACTER.GetShortUIName|U] beschermde [TARGET_CHARACTER.GetShortUINamePossessive] geheimen."
+ 
+ lover_court_visit_seduction:0 "[CHARACTER.GetShortUIName|U] verleidde [TARGET_CHARACTER.GetShortUIName] tijdens een bezoek aan [TARGET_CHARACTER_2.GetShortUINamePossessive] Hof."
+ lover_court_visit_seduction_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] verleidde [CHARACTER.GetShortUIName] tijdens een bezoek aan [TARGET_CHARACTER_2.GetShortUINamePossessive] Hof."
+ 
+ lover_poet_demand:0 "[CHARACTER.GetShortUIName|U] gaf toe aan de [TARGET_CHARACTER.GetShortUINamePossessive] poëtische vraag naar liefde."
+ lover_poet_demand_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] gaf toe aan [CHARACTER.GetShortUINamePossessive] poëtische vraag naar liefde."
+ 
+ lover_cannibal_seduction:1 "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(TARGET_CHARACTER.IsLocalPlayer, 'waren', 'was' )] toestemming gegeven om een verleidelijke hap van [CHARACTER.GetShortUINamePossessessive] vlees te nemen."
+ lover_cannibal_seduction_corresponding:1 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'waren', 'was' )] toestemming gegeven om een verleidelijke hap van [TARGET_CHARACTER.GetShortUINamePossessive] vlees te nemen."
+ 
+ lover_wnight_walk:0 "[CHARACTER.GetShortUIName|U] nam [TARGET_CHARACTER.GetShortUIName|U] mee voor een romantische wandeling tijdens hun huwelijksnacht."
+ lover_wnight_walk_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd meegenomen door [CHARACTER.GetShortUIName|U] voor een romantische wandeling tijdens hun huwelijksnacht."
+ 
+ lover_wnight_talk:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName|U] voerden een diep gesprek tijdens hun huwelijksnacht."
+ 
+ lover_wnight_secret_accepted:0 "[CHARACTER.GetShortUIName|U] accepteerde [TARGET_CHARACTER.GetShortUINamePossessive] geheim toen [TARGET_CHARACTER.GetSheHe] het tijdens hun huwelijksnacht opbiechtte."
+ lover_wnight_secret_accepted_corresponding:0 "[TARGET_CHARACTER.GetShortUINamePossessive] geheim werd geaccepteerd door [CHARACTER.GetShortUIName|U] toen [TARGET_CHARACTER.GetSheHe] het opbiechtte tijdens hun huwelijksnacht."
+ 
+ lover_wnight_secret_shared:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName|U] biechtten hun geheimen aan elkaar op tijdens hun huwelijksnacht."
  
  lover_random_1:0 "[CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] attracted to [TARGET_CHARACTER.GetShortUINamePossessive] shapely legs."
  lover_random_1_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] [Select_CString(CHARACTER.IsLocalPlayer, 'were', 'was' )] attracted to [CHARACTER.GetShortUINamePossessive] shapely legs."
