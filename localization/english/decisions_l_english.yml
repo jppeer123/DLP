@@ -46,8 +46,8 @@
  borrow_from_holy_order_decision_effect_tooltip:1 "You borrow [SCOPE.ScriptValue('holy_order_gold_value')|P00] [gold|E][gold_i] from a [holy_order|E]\n\n@warning_icon! The [holy_order|E] will start making demands if you do not repay the loan\n@warning_icon! You cannot borrow more money again until you have paid back this loan"
  borrow_from_holy_order_gold_condition:3 "No [CHARACTER.GetFaith.GetAdjective] Holy Order has enough gold"
 
- escape_from_prison_decision:0 "Escape from Prison"
- escape_from_prison_decision_tooltip:0 "Attempt to escape prison"
+ escape_from_prison_decision:0 "Ontsnap uit het gevang"
+ escape_from_prison_decision_tooltip:0 "Neem een poging tot ontsnapping"
  escape_from_prison_decision_desc:0 "The same walls, the same routine, the same gruel for food – every day is just like the last. This prison is eating away at me, and I will stand it no longer!"
  escape_from_prison_decision_success.tt:0 "Your escape attempt succeeds"
  escape_from_prison_decision_failure.tt:0 "Your escape attempt fails"

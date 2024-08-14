@@ -1,4 +1,4 @@
-l_english:
+﻿l_english:
  
  CHARACTER_DEATH_EFFECT:1 "@death_icon! sterft"
  CHARACTER_DEATH_EFFECT_THIRD:1 "@death_icon! [CHARACTER.GetShortUIName|U] sterft"

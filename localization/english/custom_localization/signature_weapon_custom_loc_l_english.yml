@@ -3,11 +3,11 @@
  signature_weapon_name:0 "[ROOT.Var('signature_weapon_scope').Artifact.GetName]"
  signature_weapon_type:0 "[ROOT.Char.Custom('signature_weapon')]"
 
- signature_weapon_sword:0 "sword"
- signature_weapon_sword_draw:0 "heft"
- signature_weapon_sword_draws:0 "hefts"
- signature_weapon_sword_drawing:0 "hefting"
- signature_weapon_sword_drawn:0 "hefted"
+ signature_weapon_sword:0 "zwaard"
+ signature_weapon_sword_draw:0 "trek"
+ signature_weapon_sword_draws:0 "trekt"
+ signature_weapon_sword_drawing:0 "trekkend"
+ signature_weapon_sword_drawn:0 "getrokken"
 
  signature_weapon_mace:0 "mace"
  signature_weapon_mace_lift:0 "lift"
@@ -15,19 +15,19 @@
  signature_weapon_mace_lifting:0 "lifting"
  signature_weapon_mace_lifted:0 "lifted"
 
- signature_weapon_axe:0 "axe"
- signature_weapon_axe_heft:0 "heft"
- signature_weapon_axe_hefts:0 "hefts"
- signature_weapon_axe_hefting:0 "hefting"
- signature_weapon_axe_hefted:0 "hefted"
+ signature_weapon_axe:0 "bijl"
+ signature_weapon_axe_heft:0 "hef"
+ signature_weapon_axe_hefts:0 "heft"
+ signature_weapon_axe_hefting:0 "heffend"
+ signature_weapon_axe_hefted:0 "geheven"
 
- signature_weapon_hammer:0 "hammer"
+ signature_weapon_hammer:0 "hamer"
  signature_weapon_hammer_raise:0 "raise"
  signature_weapon_hammer_raises:0 "raises"
  signature_weapon_hammer_raising:0 "raising"
  signature_weapon_hammer_raised:0 "raised"
 
- signature_weapon_spear:0 "spear"
+ signature_weapon_spear:0 "speer"
  signature_weapon_spear_couch:0 "couch"
  signature_weapon_spear_couches:0 "couches"
  signature_weapon_spear_couching:0 "couching"
@@ -39,7 +39,7 @@
  signature_weapon_dagger_brandishing:0 "brandishing"
  signature_weapon_dagger_brandished:0 "brandished"
 
- signature_weapon_a_quick_slash:0 "a quick slash"
+ signature_weapon_a_quick_slash:0 "een snelle snee"
  signature_weapon_a_mighty_heave:0 "a mighty heave"
  signature_weapon_a_fast_thrust:0 "a fast thrust"
 
@@ -51,15 +51,15 @@
  signature_weapon_crush_present:0 "crushes the bones in"
  signature_weapon_pierce_present:0 "pierces deep into"
 
- article_a:0 "a"
- article_an:0 "an"
+ article_a:0 "een"
+ article_an:0 "een"
 
  # Non-Lethal Attacks
  signature_weapon_attempted_heavy_slash:0 "powerful cleave"
  signature_weapon_attempted_heavy_crush:0 "crushing thwack"
  signature_weapon_attempted_heavy_pierce:0 "piercing thrust"
 
- signature_weapon_attempted_light_slash:0 "quick slash"
+ signature_weapon_attempted_light_slash:0 "snelle snee"
  signature_weapon_attempted_light_crush:0 "rapid thump"
  signature_weapon_attempted_light_pierce:0 "thrusting jab"
 
@@ -80,23 +80,23 @@
  signature_weapon_flourish_swings:0 "swings"
 
  # Various Verb Types
- signature_weapon_attack_verb_hew:0 "hew"
- signature_weapon_attack_verb_smash:0 "smash"
- signature_weapon_attack_verb_stab:0 "stab"
- signature_weapon_attack_verb_hewing:0 "hewing"
- signature_weapon_attack_verb_smashing:0 "smashing"
- signature_weapon_attack_verb_stabbing:0 "stabbing"
- signature_weapon_attack_verb_hews:0 "hews"
- signature_weapon_attack_verb_smashes:0 "smashes"
- signature_weapon_attack_verb_stabs:0 "stabs"
+ signature_weapon_attack_verb_hew:0 "houw"
+ signature_weapon_attack_verb_smash:0 "sla in"
+ signature_weapon_attack_verb_stab:0 "steek"
+ signature_weapon_attack_verb_hewing:0 "houwend"
+ signature_weapon_attack_verb_smashing:0 "inslaand"
+ signature_weapon_attack_verb_stabbing:0 "stekend"
+ signature_weapon_attack_verb_hews:0 "houwt"
+ signature_weapon_attack_verb_smashes:0 "slaat in"
+ signature_weapon_attack_verb_stabs:0 "steekt"
 
- signature_weapon_attack_verb_bite:0 "bite"
- signature_weapon_attack_verb_crack:0 "crack"
+ signature_weapon_attack_verb_bite:0 "bijt"
+ signature_weapon_attack_verb_crack:0 "kraak"
  signature_weapon_attack_verb_puncture:0 "puncture"
- signature_weapon_attack_verb_bites:0 "bites"
+ signature_weapon_attack_verb_bites:0 "bijt"
  signature_weapon_attack_verb_cracks:0 "cracks"
  signature_weapon_attack_verb_punctures:0 "punctures"
- signature_weapon_attack_verb_biting:0 "biting"
+ signature_weapon_attack_verb_biting:0 "bijtend"
  signature_weapon_attack_verb_cracking:0 "cracking"
  signature_weapon_attack_verb_puncturing:0 "puncturing"
 
@@ -118,21 +118,21 @@
  signature_weapon_attack_verb_plunging:0 "plunging"
  signature_weapon_attack_verb_driving:0 "driving"
 
- signature_weapon_attack_verb_cutting:0 "cutting"
+ signature_weapon_attack_verb_cutting:0 "snijdend"
 
  # Weapon Descriptors
- signature_weapon_haft:0 "haft"
+ signature_weapon_haft:0 "heft"
  signature_weapon_pommel:0 "pommel"
 
- signature_weapon_point:0 "point"
- signature_weapon_head:0 "head"
- signature_weapon_edge:0 "edge"
+ signature_weapon_point:0 "punt"
+ signature_weapon_head:0 "hoofd"
+ signature_weapon_edge:0 "snede"
 
- signature_weapon_end_wood:0 "wood"
- signature_weapon_end_metal:0 "metal"
+ signature_weapon_end_wood:0 "hout"
+ signature_weapon_end_metal:0 "metaal"
 
- signature_weapon_tip_adjective_sharp:0 "sharp"
- signature_weapon_tip_adjective_heavy:0 "heavy"
+ signature_weapon_tip_adjective_sharp:0 "scherp"
+ signature_weapon_tip_adjective_heavy:0 "zwaar"
 
  signature_weapon_breaks_blade_bends:0 "blade bends"
  signature_weapon_breaks_haft_snaps_in_two:0 "haft snaps in two"
