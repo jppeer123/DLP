@@ -1,7 +1,7 @@
-l_english:
- GAME_RULES:0 "Speelregels"
- GAME_RULES_HEADER:0 "Speelregels"
- GAME_RULE_CATEGORIES:0 "Speelregel filters"
+﻿l_english:
+ GAME_RULES:0 "Spelregels"
+ GAME_RULES_HEADER:0 "Spelregels"
+ GAME_RULE_CATEGORIES:0 "Spelregel filters"
  IRONMAN_LABEL:0 "IJzeren Vuist"
  ENABLE_IRONMAN:0 "Inschakelen"
  DISABLE_IRONMAN:0 "Uitschakelen"
