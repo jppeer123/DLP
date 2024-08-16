@@ -1,21 +1,21 @@
 ﻿l_english:
- fire_court_physician_effect.tt:1 "[THIS.Char.GetShortUIName] is no longer [GetCourtPositionType('court_physician_court_position').GetName()]"
+ fire_court_physician_effect.tt:1 "[THIS.Char.GetShortUIName] is niet langer [GetCourtPositionType('court_physician_court_position').GetName()]"
 
  #Recovery events, by Linnéa Thimrén and Petter Vilberg
- health.0001.desc:0 "My Wound Has Healed"
+ health.0001.desc:0 "Mijn Wond is Genezen"
 
- health_wounded_title:0 "Wounded:"
- health.0002.t:1 "$health_wounded_title$ Healing"
- health.0002.desc:0 "My injuries are slowly getting better and pain is no longer my constant companion. I am still weakened, but today I am capable of many things that were impossible just a moon ago."
- health.0002.a:0 "I look forward to my complete recovery."
+ health_wounded_title:0 "Gewond:"
+ health.0002.t:1 "$health_wounded_title$ Helend"
+ health.0002.desc:0 "Mijn verwondingen beginnen langzaam te genezen en pijn is niet langer mijn constante metgezel. Ik ben nog steeds verzwakt, maar vandaag ben ik in staat vele dingen te doen die ik een maan geleden voor onmogelijk had geacht."
+ health.0002.a:0 "Ik kijk uit naar mijn volledig herstel."
 
- health.0003.t:1 "$health_wounded_title$ A Brush with Death"
- health.0003.desc:0 "It seems that the worst has passed. My gaping wounds and broken bones have started to slowly knit themselves together."
- health.0003.a:0 "I might just make it through this."
+ health.0003.t:1 "$health_wounded_title$ Een Ontmoeting met de Dood"
+ health.0003.desc:0 "Het ziet er naar uit dat het ergste is gepasseerd. Mijn gapende wonden en gebroken botten zijn langzaam begonnen zichzelf te herstellen."
+ health.0003.a:0 "Wellicht kom ik hier wel doorheen."
 
- health.0004.t:1 "$health_wounded_title$ The Fire Ends"
- health.0004.desc:0 "The skin around is hardened, but the burning sensation in my wound has passed. It seems the infection is gone."
- health.0004.a:1 "Thank [ROOT.Char.GetFaith.HealthGodName]."
+ health.0004.t:1 "$health_wounded_title$ Het Vuur Dooft"
+ health.0004.desc:0 "De huid is verhard, maar het branderig gevoel in mijn wond is verdwenen. Het ziet er naar uit dat de infectie weggetrokken is."
+ health.0004.a:1 "Gezegend zij [ROOT.Char.GetFaith.HealthGodName]."
 
  health.wounded_1_success:0 "Successful Wound Treatment"
  health.wounded_1_failure:0 "Failed Wound Treatment"
@@ -47,12 +47,12 @@
  health.0204.court_physician.desc:0 "\n\n"You have contracted gangrene, my [ROOT.Char.GetLadyLord]. This is most serious... We must treat you at once!""
 
  # Disease Contraction, by Mathilda Bjarnehed
- health.1001.t:1 "[SCOPE.Custom('EventTitleDisease')]: My Mortal Body"
- health.1001.desc:0 "[ROOT.Char.GetTitleTierName] or peasant, high or low, it does not matter. In the end, we are all mortal.\n\nI was reminded of this as I woke coughing in the early morning hours, a dull ache pounding through my head and throat. My body is wracked by shivers and weakness, my head leaking from every orifice.\n\n"
- health.1001.nophysician.desc: "Surely there must be someone in the realm I can get to fix this cursed condition..."
- health.1001.court_physician.desc:0 ""I heard that wheezing from down the corridor, my [ROOT.Char.GetLadyLord]," [physician.GetFirstName], my physician, pokes [physician.GetHerHis] head around my door, "should you require it, I know a fair number of suitable remedies.""
- health.1001.a:0 "All I want is to stay in bed..."
- health.1001.b:0 "I must return home #EMP at once!#!"
+ health.1001.t:1 "[SCOPE.Custom('EventTitleDisease')]: Mijn Sterfelijk Lichaam"
+ health.1001.desc:0 "[ROOT.Char.GetTitleTierName] of horige, hoog of laag, het maakt niet uit. Aan het einde van de dag zijn wij allemaal sterfelijk.\n\nIk werd hieraan herinnerd, toen ik in de vroege morgen ontwaakte met een hoest, en een suffe pijn in mijn hoofd en keel. Mijn lichaam wordt geteisterd door rillingen en zwakte, mijn hoofd lekkend uit elke opening.\n\n"
+ health.1001.nophysician.desc: "Er moet iemand in het rijk zijn die mij kan genezen van deze vervloekte kwalen..."
+ health.1001.court_physician.desc:0 ""Ik hoorde die piepende ademhaling al vanaf de gang, mijn [ROOT.Char.GetLadyLord]," [physician.GetFirstName], mijn hofarts, steekt [physician.GetHerHis] hoofd door mijn deur, "mocht u het nodig hebben, ken ik een behoorlijk aantal geschikte remedies voor uw kwalen.""
+ health.1001.a:0 "Het enige wat ik wil is in bed blijven..."
+ health.1001.b:0 "Ik moet #EMP direct#! naar huis toe!"
 
  health.1002.t:1 "[SCOPE.Custom('EventTitleDisease')]: As Sharp As A Knife"
  health.1002.desc:0 "Breathing is such an easy, wonderful thing — a little miracle one rarely gives a moment's thought. Now, as I struggle to keep my breath even and the cough attacks are followed by stabbing chest pain, it is constantly at the forefront of my mind."

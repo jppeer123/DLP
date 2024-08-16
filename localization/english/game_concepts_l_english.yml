@@ -1392,7 +1392,7 @@
  game_concept_guardian_possessive:0 "Opvoeder's"
  game_concept_guardians_possessive:0 "Opvoeders'"
  game_concept_guardianship:1 "Opvoeding"
- game_concept_guardian_desc:2 "Een $game_concept_guardian$ is een [character|E], met de toegewezen opdracht om een [child|E] (ook wel een [ward|E] genoemd) te [educate|E].\n\n$game_concept_guardians$ geven vaak hun [personality_traits|E] door aan hun $game_concept_wards$, evenals hun [culture|E] en/of [faith|E],  als dat zo gespecificeerd is in de $game_concept_education_focus$.\n\nDe $game_concept_guardian$ kan in een andere [court|E] wonen. Door een [close_family_member|E] op deze manier aan een andere [ruler|E] toe te vertrouwen, zal zijn [opinion|E] over jou verbeteren."
+ game_concept_guardian_desc:2 "Een $game_concept_guardian$ is een [character|E], met de toegewezen opdracht om een [child|E] (ook wel een [ward|E] genoemd) [Concept('educate','op te leiden')|E].\n\n$game_concept_guardians$ geven vaak hun [personality_traits|E] door aan hun $game_concept_wards$, evenals hun [culture|E] en/of [faith|E],  als dat zo gespecificeerd is in de $game_concept_education_focus$.\n\nDe $game_concept_guardian$ kan in een andere [court|E] wonen. Door een [close_family_member|E] op deze manier aan een andere [ruler|E] toe te vertrouwen, zal zijn [opinion|E] over jou verbeteren."
  game_concept_ward:0 "Pupil"
  game_concept_wards:0 "Pupillen"
  game_concept_ward_possessive:0 "Pupil's"

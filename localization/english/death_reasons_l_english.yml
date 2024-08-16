@@ -46,7 +46,7 @@
  death_murder_killer:0 "werd vermoord door [TARGET_CHARACTER.GetUIName]"
  death_siege:2 "werd gedood tijdens een beleg"
  death_duel:0 "werd gedood in een duel"
- death_duel_killer:0 "wzoals gedood door [TARGET_CHARACTER.GetUIName] in een duel"
+ death_duel_killer:0 "zoals gedood door [TARGET_CHARACTER.GetUIName] in een duel"
  death_accident:0 "is omgekomen bij een ongeval"
  death_accident_killer:0 "$death_murder_killer$"
  death_ended_on_feast_table:0 "eindigt [CHARACTER.GetHerHis] leven tijdens een feest"
