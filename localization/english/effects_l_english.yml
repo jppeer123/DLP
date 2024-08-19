@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  
  CHARACTER_DEATH_EFFECT:1 "@death_icon! sterft"
  CHARACTER_DEATH_EFFECT_THIRD:1 "@death_icon! [CHARACTER.GetShortUIName|U] sterft"
@@ -1415,7 +1415,7 @@
  STARTS_GREAT_HOLY_WAR:0 "Begint de [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] tegen [TARGET_CHARACTER.GetShortUIName]"
 
  GHW_UNPLEDGE_ATTACKER_PLAYER:0 "Beloftes terugnemen voor [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
- GHW_UNPLEDGED_ATTACKER_PLAYER:0 Beloftes teruggenomen voor [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
+ GHW_UNPLEDGED_ATTACKER_PLAYER:0 "Beloftes teruggenomen voor [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
  GHW_UNPLEDGE_DEFENDER_PLAYER:0 "Beloftes terugnemen voor [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
  GHW_UNPLEDGED_DEFENDER_PLAYER:0 "Beloftes teruggenomen voor [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')]"
  GHW_I_UNPLEDGE_ATTACKER:1 "Je zult de [GREAT_HOLY_WAR.GetFaith.Custom('GHWName')] als Aanvaller afzweren"
