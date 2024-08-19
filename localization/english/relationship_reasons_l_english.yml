@@ -1813,8 +1813,8 @@ l_english:
  rival_embezzled_and_refused_to_reimburse:0 "[CHARACTER.GetShortUIName|U] verduisterde goud van [TARGET_CHARACTER.GetShortUIName] en weigerde het terug te betalen"
  rival_embezzled_and_refused_to_reimburse_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] verduisterde goud van [CHARACTER.GetShortUIName] en weigerde het terug te betalen"
  
- rival_tried_to_embezzle:0 "[CHARACTER.GetShortUIName|U] werd betrapt op het verduisteren van goud van [TARGET_CHARACTER.GetShortUIName]".
- rivaal_tried_to_embezzle_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd betrapt op het verduisteren van goud van [CHARACTER.GetShortUIName]".
+ rival_tried_to_embezzle:0 "[CHARACTER.GetShortUIName|U] werd betrapt op het verduisteren van goud van [TARGET_CHARACTER.GetShortUIName]"
+ rivaal_tried_to_embezzle_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd betrapt op het verduisteren van goud van [CHARACTER.GetShortUIName]"
 
  lover_covered_excreta:0 "[CHARACTER.GetShortUIName|U]: "[CHARACTER.GetShortUIName|U] reageerde heel liefdevol op [TARGET_CHARACTER.GetShortUIName] die een emmer uitwerpselen op het hoofd van [CHARACTER.GetShortUIName] dumpte."
  lover_covered_excreta_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] reageerde heel liefdevol op [CHARACTER.GetShortUIName] die een emmer uitwerpselen op het hoofd van [TARGET_CHARACTER.GetShortUIName] dumpte."
@@ -2613,7 +2613,7 @@ l_english:
  lover_wedding_relation_suitor:0 "[CHARACTER.GetShortUIName|U] en [TARGET_CHARACTER.GetShortUIName] onden het goed met elkaar vinden na te zijn voorgesteld op een familiebruiloft"
 
  friend_wedding_help_bond:0 "[CHARACTER.GetShortUIName|U] hielp [TARGET_CHARACTER.GetShortUIName] uit een huwelijksfeest"
- friend_wedding_help_bond_corresponding:0 “[TARGET_CHARACTER.GetShortUIName|U] werd uit een bruiloftsfeest geholpen door [CHARACTER.GetShortUIName]"
+ friend_wedding_help_bond_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] werd uit een bruiloftsfeest geholpen door [CHARACTER.GetShortUIName]"
 
  friend_supportive_at_wedding:0 "[CHARACTER.GetShortUIName|U] was dankbaar voor [TARGET_CHARACTER.GetShortUINamePossessive] steun op [CHARACTER.GetHerHis] bruiloft."
  friend_supportive_at_wedding_corresponding: "[TARGET_CHARACTER.GetShortUIName|U] was dankbaar voor [CHARACTER.GetShortUINamePossessive] steun op [TARGET_CHARACTER.GetHerHis] bruiloft."
