@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ANSWER_YES:1 "#P Zal accepteren#!"
  ANSWER_NO:1 "#N Zal #bold niet#! accepteren#!"
  ANSWER_BLOCK:1 "Blok Antwoord"
@@ -1026,7 +1026,7 @@
  marriage_interaction.0010.ending.g_both_desc:0 "\n\nIk bid dat we samen verlossing en verzoening kunnen vinden, maar ook geluk, [secondary_actor.Custom('WifeHusband')]."
 
  marriage_interaction.0011.desc:0 "Na rijp beraad moet ik je huwelijksvoorstel afwijzen.\n\n[secondary_actor.GetFirstName] en [secondary_recipient.GetFirstName] zijn niet voor elkaar bestemd."
- marriage_interaction.0011.b_desc:0 Na rijp beraad moet ik je verlovingsvoorstel afwijzen.\n\n[secondary_actor.GetFirstName] en [secondary_recipient.GetFirstName] zijn niet voor elkaar bestemd."
+ marriage_interaction.0011.b_desc:0 "Na rijp beraad moet ik je verlovingsvoorstel afwijzen.\n\n[secondary_actor.GetFirstName] en [secondary_recipient.GetFirstName] zijn niet voor elkaar bestemd."
  marriage_interaction.0011.a:0 "Wat zonde..."
 
  marriage_interaction.0020.desc:0 "Ik heb besloten om de verloving te verbreken tussen [rejecting_betrothed.GetShortUIName] en [rejected_betrothed.GetShortUIName]."
