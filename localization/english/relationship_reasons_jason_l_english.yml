@@ -1,21 +1,21 @@
 ﻿l_english:
- rival_looted_tournament:0 "[CHARACTER.GetShortUIName|U] incited an awful riot that turned [TARGET_CHARACTER.GetShortUINamePossessive] race into a bloodbath."
- rival_looted_tournament_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] incited an awful riot that turned [CHARACTER.GetShortUINamePossessive] race into a bloodbath."
+ rival_looted_tournament:0 "[CHARACTER.GetShortUIName|U] zette aan tot een vreselijke rel die [TARGET_CHARACTER.GetShortUINamePossessive] race in een bloedbad veranderde."
+ rival_looted_tournament_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] veroorzaakte een vreselijke rel die [CHARACTER.GetShortUINamePossessive] race in een bloedbad veranderde."
 
- rival_forced_to_compete:0 "[CHARACTER.GetShortUIName|U] ignored [TARGET_CHARACTER.GetShortUINamePossessive] problems and pressured [TARGET_CHARACTER.GetHerHim] into competing in a tournament against [TARGET_CHARACTER.GetHerHis] will."
- rival_forced_to_compete_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] ignored [CHARACTER.GetShortUINamePossessive] problems and pressured [CHARACTER.GetHerHim] into competing in a tournament against [CHARACTER.GetHerHis] will."
+ rival_forced_to_compete:0 "[CHARACTER.GetShortUIName|U] negeerde [TARGET_CHARACTER.GetShortUINamePossessessive] problemen en zette [TARGET_CHARACTER.GetHerHim] onder druk om tegen [TARGET_CHARACTER.GetHerHis] wil mee te doen aan een toernooi."
+ rival_forced_to_compete_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] negeerde [CHARACTER.GetShortUINamePossessive] problemen en zette [CHARACTER.GetHerHim] onder druk om tegen [CHARACTER.GetHerHis] wil mee te doen aan een toernooi."
 
- rival_dismissed_knight:0 "[CHARACTER.GetShortUIName|U] humiliated [TARGET_CHARACTER.GetShortUIName] with a shameful forfeiture of [TARGET_CHARACTER.GetHerHis] oath of martial service."
- rival_dismissed_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] humiliated [CHARACTER.GetShortUIName] with a shameful forfeiture of [CHARACTER.GetHerHis] oath of martial service."
+ rival_dismissed_knight:0 "[CHARACTER.GetShortUIName|U] vernederde [TARGET_CHARACTER.GetShortUIName] met een schandelijk schending van [TARGET_CHARACTER.GetHerHis] eed van krijgsdienst."
+ rival_dismissed_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] vernederde [CHARACTER.GetShortUIName] met een schandelijk schending van [CHARACTER.GetHerHis] eed van krijgsdienst."
 
- friend_sympathy_to_unwilling_knight:0 "[TARGET_CHARACTER.GetShortUIName|U] was offered kindness and leniency by [CHARACTER.GetShortUIName] when [TARGET_CHARACTER.GetHerHis] demons kept [TARGET_CHARACTER.GetHerHim] from doing [TARGET_CHARACTER.GetHerHis] duty."
- friend_sympathy_to_unwilling_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] offered kindness and leniency when [CHARACTER.GetShortUINamePossessive] demons kept [CHARACTER.GetHerHim] from doing [CHARACTER.GetHerHis] duty."
+ friend_sympathy_to_unwilling_knight:0 "[TARGET_CHARACTER.GetShortUIName|U] werd vriendelijk en toegeeflijk ontvangen door [CHARACTER.GetShortUIName] toen [TARGET_CHARACTER.GetHerHis] demonen [TARGET_CHARACTER.GetHerHim] ervan weerhielden om [TARGET_CHARACTER.GetHerHis] plicht te doen."
+ friend_sympathy_to_unwilling_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] ontving vriendelijkheid en clementie toen [CHARACTER.GetShortUINamePossessessive] demonen [CHARACTER.GetHerHim] ervan weerhielden [CHARACTER.GetHerHis] plicht te doen."
 
- rival_poached_drunk_knight:0 "[CHARACTER.GetShortUIName|U] preyed on the drunken enthusiasm of [TARGET_CHARACTER.GetShortUINamePossessive] finest warrior to bind the inebriate into service."
- rival_poached_drunk_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] preyed on the drunken enthusiasm of [CHARACTER.GetShortUINamePossessive] finest warrior to bind the inebriate into service."
+ rival_poached_drunk_knight:0 "[CHARACTER.GetShortUIName|U] aasde op de dronken bevlogenheid van [TARGET_CHARACTER.GetShortUINamePossessive] beste krijger om de dronkaard in dienst te nemen."
+ rival_poached_drunk_knight_corresponding:0 "[TARGET_CHARACTER.GetShortUIName|U] aasde op de dronken bevlogenheid van [CHARACTER.GetShortUINamePossessive] beste krijger om de dronkaard in dienst te nemen."
 
-rival_enforced_cultural_norms: "[CHARACTER.GetShortUIName|U] forced [CHARACTER.GetHerHis] poor understanding of their shared traditions on [TARGET_CHARACTER.GetShortUIName], filling [TARGET_CHARACTER.GetHerHim] with abiding shame."
+rival_enforced_cultural_norms: "[CHARACTER.GetShortUIName|U] legde [TARGET_CHARACTER.GetShortUIName] [CHARACTER.GetHerHis] slechte begrip van hun gemeenschappelijke tradities op en vervulde [TARGET_CHARACTER.GetHerHim] met diepe schaamte."
 
-friend_mutual_disinterest_in_tradition: "[CHARACTER.GetShortUIName|U] defended a young [TARGET_CHARACTER.GetShortUIName] against demands [TARGET_CHARACTER.GetSheHe] bow to cultural expectations."
+friend_mutual_disinterest_in_tradition: "[CHARACTER.GetShortUIName|U] beschermde de jonge [TARGET_CHARACTER.GetShortUIName] tegen de eis van om te buigen voor culturele verwachtingen."
 
-rival_accused_of_cultural_impropriety: "[CHARACTER.GetShortUIName|U] accused [TARGET_CHARACTER.GetShortUIName] of running a court utterly bereft of [TARGET_CHARACTER.GetCulture.GetNameNoTooltip] values."
+rival_accused_of_cultural_impropriety: "[CHARACTER.GetShortUIName|U] beschuldigde [TARGET_CHARACTER.GetShortUIName] van het leiden van een Hof totaal verstoken van [TARGET_CHARACTER.GetCulture.GetNameNoTooltip] waarden."
