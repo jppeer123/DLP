@@ -17,34 +17,34 @@
  health.0004.desc:0 "De huid is verhard, maar het branderig gevoel in mijn wond is verdwenen. Het ziet er naar uit dat de infectie weggetrokken is."
  health.0004.a:1 "Gezegend zij [ROOT.Char.GetFaith.HealthGodName]."
 
- health.wounded_1_success:0 "Successful Wound Treatment"
- health.wounded_1_failure:0 "Failed Wound Treatment"
+ health.wounded_1_success:0 "Successvolle Wond Behandeling"
+ health.wounded_1_failure:0 "Mislukte Wond Behandeling"
 
  # Becoming wounded, by Linnéa Thimrén and Petter Vilberg
- health.0102.t:1 "$health_wounded_title$ Deeply Cut"
- health.0102.desc:0 "Pain shoots up my body with every step, and even the smallest of movements leave me gasping. As I bring a hand up to gingerly touch my wound it comes away bloody, and I tremble as blood drips down my side."
- health.0102.court_physician.desc:0 "\n\n"Not to worry, my [ROOT.Char.GetLadyLord]. Your wound is deep, but my knowledge is deeper.""
- health.0102.a:0 "I just need to sit down for a while..."
+ health.0102.t:1 "$health_wounded_title$ Diep Gesneden"
+ health.0102.desc:0 "Pijn schiet door mijn lichaam met elke stap, zelfs de geringste beweging doet mij snakken naar adem. Als ik mijn hand voorzichtig naar de wond breng om hem aan te raken, wordt hij doordrengt met bloed. Ik beef terwijl het rood langs mijn zij druipt."
+ health.0102.court_physician.desc:0 "\n\n"Maakt u geen zorgen, mijn [ROOT.Char.GetLadyLord]. Uw wond is diep, maar mijn kennis gaat dieper.""
+ health.0102.a:0 "Ik moet gewoon eventjes gaan zitten..."
 
- health.0104.t:1 "$health_wounded_title$ Grievously Injured"
- health.0104.desc:0 "Is that bone that I see embedded in my flesh, or something that should be hidden even deeper? As my skin yawns like the hungry maws of death, I am transfixed by the river of blood that spills forth."
- health.0104.court_physician.desc:0 "\n\n"You are gravely injured, my [ROOT.Char.GetLadyLord]. We need to tend to you at once!""
- health.0104.a:1 "[ROOT.Char.GetFaith.HealthGodName|U], deliver me from this pain!"
+ health.0104.t:1 "$health_wounded_title$ Deerlijk Verminkt"
+ health.0104.desc:0 "Is dat bot dat ik door mijn vlees zie steken, of iets dat zelfs dieper verstopt zou horen te zijn? Terwijl mijn huid mij aangaapt als de hongerige kaken des doods, ben ik gefixeerd op de rivieren van bloed die eruit stromen."
+ health.0104.court_physician.desc:0 "\n\n"U bent deerlijk verwond, mijn [ROOT.Char.GetLadyLord]. We moeten u weldirect behandelen!""
+ health.0104.a:1 "[ROOT.Char.GetFaith.HealthGodName|U], verlos mij van deze pijn!"
 
  # Infection/gangrene, by Linnéa Thimrén and Petter Vilberg
- health.0201.desc:0 "Infected Wound"
+ health.0201.desc:0 "Geïnfecteerde Wond"
 
- health.0202.t:1 "$health_wounded_title$ A Taint Within"
- health.0202.desc:0 "I feel as if a hundred knives are slicing through my wound! With flesh becoming dark and blood becoming pale, it is clear that the injury is infected."
- health.0202.unintelligent:0 "It is as if many knives are cutting my skin around my wound whenever I touch it. The flesh is tender, and I think the blood is the wrong color."
- health.0202.court_physician.desc:0 "\n\n"Your wound has become infected, my [ROOT.Char.GetLadyLord]. But do not worry, I will see you through this.""
- health.0202.a:0 "I hope I live through this."
+ health.0202.t:1 "$health_wounded_title$ Een Bederf van Binnen"
+ health.0202.desc:0 "Het voelt alsof er een hondertal messen door mijn wond aan het snijden zijn! Met mijn huid dat langzaam donker wordt en het bloed dat licht kleurt, is het duidelijk dat mijn verwonding geïnfecteerd is geraakt."
+ health.0202.unintelligent:0 "Het is alsof vele messen mijn huid snijden, als ik mijn wond aanraak. De huid is teder en ik denk dat het bloed de verkeerde kleur is."
+ health.0202.court_physician.desc:0 "\n\n"Uw wond is geïnfecteerd geworden, mijn [ROOT.Char.GetLadyLord]. Maar maakt u zich geen zorgen, ik zal u hierdoorheen helpen.""
+ health.0202.a:0 "Ik hoop dat ik hier doorheen kom."
 
- health.0203.desc:0 "Gangrenous Wound"
+ health.0203.desc:0 "Koudvuur"
 
- health.0204.t:1 "$health_wounded_title$ Dark Tidings"
- health.0204.desc:0 "A wound is supposed to hurt, and some swelling is not unusual, so I assumed my wound was healing. However, now there are blisters marring my skin, and the redness is turning black. My body is rotting before my eyes!"
- health.0204.court_physician.desc:0 "\n\n"You have contracted gangrene, my [ROOT.Char.GetLadyLord]. This is most serious... We must treat you at once!""
+ health.0204.t:1 "$health_wounded_title$ Duistere Signalen"
+ health.0204.desc:0 "Een wond hoort pijn te doen, en een lichte zwelling is ook niet ongewoon, dus ik ging er van uit dat mijn wond aan het genezen was. Echter, zijn er nu blaren die mijn huid ontsieren, en het eerdere rood maakt plaats voor zwart. Mijn lichaam My body is rotting before my eyes!"
+ health.0204.court_physician.desc:0 "\n\n"U heeft koudvuur opgelopen, mijn [ROOT.Char.GetLadyLord]. Dit is zeer ernstig... We moeten u onmiddelijk behandelen!""
 
  # Disease Contraction, by Mathilda Bjarnehed
  health.1001.t:1 "[SCOPE.Custom('EventTitleDisease')]: Mijn Sterfelijk Lichaam"
@@ -54,7 +54,7 @@
  health.1001.a:0 "Het enige wat ik wil is in bed blijven..."
  health.1001.b:0 "Ik moet #EMP direct#! naar huis toe!"
 
- health.1002.t:1 "[SCOPE.Custom('EventTitleDisease')]: As Sharp As A Knife"
+ health.1002.t:1 "[SCOPE.Custom('EventTitleDisease')]: Zo Scherp als een Mes"
  health.1002.desc:0 "Breathing is such an easy, wonderful thing — a little miracle one rarely gives a moment's thought. Now, as I struggle to keep my breath even and the cough attacks are followed by stabbing chest pain, it is constantly at the forefront of my mind."
  health.1002.court_physician.desc:0 "\n\nMy physician [physician.GetFirstName] looks me up and down. "It is pneumonia, my [ROOT.Char.GetLadyLord]. Not to be taken lightly. How shall we proceed?""
  health.1002.a:0 "Please, do not let this be the end!"
@@ -106,7 +106,7 @@
  health.1010.court_physician.desc:0 "\n\n"Indeed, these lesions are a sure sign of smallpox. Very dangerous if left untreated.""
  health.1010.a:1 "[ROOT.Char.GetFaith.HealthGodName], I beg you, not yet! I'm not ready!"
 
- health.1011.t:1 "[SCOPE.Custom('EventTitleDisease')]: The Reaper's Touch"
+ health.1011.t:1 "[SCOPE.Custom('EventTitleDisease')]: De Aanraking van Magere Hein"
  health.1011.desc:0 "Fear of the plague has been a constant companion throughout my life. My childhood nurse told me haunting bedtime stories of swelling buboes and blackening limbs.\n\nBut the plague is no longer just a scary story. Gingerly, I push my fingers against the lump in my armpit. A dark and deadly force is tainting my flesh, consuming me as I still breathe."
  health.1011.court_physician.desc:0 "\n\n"My [ROOT.Char.GetLadyLord], I will do everything in my power, but it might be wise to prepare for the worst...""
  health.1011.a:1 "Oh, [ROOT.Char.GetFaith.HealthGodName]! Save me from this nightmare!"
