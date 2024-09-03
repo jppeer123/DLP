@@ -1,5 +1,5 @@
 ﻿l_english:
- #RandomElephantName
+  #RandomElephantName
  elephant_name_mahmud:0 "Mahmud"
  elephant_name_kandula:0 "Kandula"
  elephant_name_abdulabbas:0 "Abdul-Abbas"
@@ -14,8 +14,8 @@
  love_cat:0 "kat"
  love_dog:0 "hond"
  #GetFelineCanine
- get_feline:0 "katachtig"
- get_canine:0 "hondachtig"
+ get_feline:0 "katachtige"
+ get_canine:0 "hondachtige"
  #GetGenderAlliteratingAnimal
  animal_warthog:0 "wrattenzwijn"
  animal_monkey:0 "aap"
