@@ -1,13 +1,13 @@
 ﻿l_english:
- possessed_vision:0 "vision"
+ possessed_vision:0 "visie"
  possessed_episode:0 "episode"
 
- age_young:0 "young"
- age_middle_aged:0 "middle-aged"
- age_old:0 "old"
+ age_young:0 "jong"
+ age_middle_aged:0 "van middelbare leeftijd"
+ age_old:0 "oud"
 
- medic_doctor:0 "doctor"
- medic_physic:0 "physic"
- medic_surgeon:0 "surgeon"
- medic_sawbones:0 "sawbones"
- medic_barber:0 "barber"
+ medic_doctor:0 "doktor"
+ medic_physic:0 "fysio"
+ medic_surgeon:0 "chirurg"
+ medic_sawbones:0 "Bottenbreker"
+ medic_barber:0 "wondverzorger"
