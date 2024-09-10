@@ -1,23 +1,22 @@
 ﻿l_english:
  #PrisonType
- prisontype_dungeon:0 "dungeon"
- prisontype_house_arrest:0 "house arrest"
+ prisontype_dungeon:0 "kerker"
+ prisontype_house_arrest:0 "huisarrest"
  #PrisonTypeCell
- prisontypecell_dungeon_cell:0 "dungeon cell"
- prisontypecell_house_arrest:0 "house arrest"
+ prisontypecell_dungeon_cell:0 "kerkercel"
+ prisontypecell_house_arrest:0 "huisarrest"
  #PrisonContentsSingular
- prison_contents_racking:0 "racking"
- prison_contents_flaying:0 "flaying"
- prison_contents_fruit_throwing:0 "rotten fruit pelting"
- prison_contents_crusted_blood:0 "crusted blood"
- prison_contents_impaling:0 "impaling"
- prison_contents_foot_roasting:0 "foot roasting"
- prison_contents_whipping:0 "whipping"
- prison_contents_mold:0 "mold in the gruel"
+ prison_contents_racking:0 "kwellen"
+ prison_contents_flaying:0 "vervellen"
+ prison_contents_fruit_throwing:0 "bekogelen met rot fruit"
+ prison_contents_crusted_blood:0 "bloedkorstjes"
+ prison_contents_impaling:0 "spietsen"
+ prison_contents_foot_roasting:0 "voeten verbranden"
+ prison_contents_whipping:0 "geselen"
+ prison_contents_mold:0 "schimmel in de brij"
  #PrisonContentsPlural
- prison_contents_rat_droppings:0 "rat droppings"
- prison_contents_rabid_dogs:0 "rabid dogs"
- prison_contents_missed_meals:0 "missed meals"
- prison_contents_screaming_lunatics:0 "screaming lunatics"
+ prison_contents_rat_droppings:0 "rattenkeutels"
+ prison_contents_rabid_dogs:0 "dolle honden"
+ prison_contents_missed_meals:0 "gemiste maaltijden"
+ prison_contents_screaming_lunatics:0 "schreeuwende gekken"
  
-
