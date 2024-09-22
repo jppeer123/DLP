@@ -1,4 +1,4 @@
-﻿l_english:
+l_english:
  ACHIEVEMENT_GROUP_very_easy_achievements:0 "Zeer gemakkelijk"
  ACHIEVEMENT_GROUP_easy_achievements:0 "Gemakkelijk"
  ACHIEVEMENT_GROUP_medium_achievements:0 "Gemiddeld"
@@ -152,7 +152,7 @@
  ACHIEVEMENT_DESC_ep2_10_hunting_accident_achievement:1 "Voer een $murder_attendee_intent$ [intent|E] uit voor een [GetActivityType( 'activity_hunt' ).GetName]"
  ACHIEVEMENT_DESC_ep2_11_lions_and_tigers_and_bears_oh_my_achievement:0 "Vang een groot wild dier tijdens een $hunt_type_standard$"
  ACHIEVEMENT_DESC_ep2_12_fly_my_pretty_achievement:0 "$trait_track_falconer$-type van de [GetTrait('lifestyle_hunter').GetName( GetNullCharacter )] [trait|E] afsluiten"
- ACHIEVEMENT_DESC_ep2_13_pathway_to_heaven_achievement:0 "Ga met één [character|E], op [pilgrimages|E] naa #EMP al#! je [holy_sites|E]"
+ ACHIEVEMENT_DESC_ep2_13_pathway_to_heaven_achievement:0 "Ga met één [character|E], op [pilgrimages|E] naar #EMP al#! je [holy_sites|E]"
  ACHIEVEMENT_DESC_ep2_14_sir_lance_a_lot_achievement:0 "Neem deel aan een $tournament_phase_joust$ met een voltooide $trait_track_horse$ variant van de [GetTrait('tourney_participant').GetName( GetNullCharacter )] [trait|E]"
  ACHIEVEMENT_DESC_ep2_15_im_in_my_elements_achievement:0 "Passeer elk [terrain|E], inclusief water, tijdens één [travel|E]"
  ACHIEVEMENT_DESC_ep2_16_ahab_achievement:0 "Succesvol een legendarische $hunt_type_legendary$ [GetActivityType( 'activity_hunt' ).GetName] voltooien"
