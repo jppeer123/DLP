@@ -823,7 +823,7 @@ l_english:
  encourage_confession_of_false_conversions_decision:0 "Amnestie voor valse bekeringen"
  encourage_confession_of_false_conversions_decision.tt:0 "Crypto-religionisten mogen hun verborgen [faith|E] onthullen"
  encourage_confession_of_false_conversions_decision.desc:0 "#F Het is een publiek geheim dat er in mijn rijk crypto-religieuzen zijn die hun geloof het geheim belijden. Misschien kan een officiële amnestie hen ervan overtuigen hun façade te laten vallen?#!"
- encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "Crypto-religieuzen binnen jouw rijk mogen zichzelf onthullen, als jouw [geloof|E] hun geheime geloof beter verdraagt dan hun publieke geloof"
+ encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "Crypto-religieuzen binnen jouw rijk mogen zichzelf onthullen, als jouw [faith|E] hun geheime geloof beter verdraagt dan hun publieke geloof"
  encourage_confession_of_false_conversions_decision.desc.tt_paranoia:0 "[characters|E] die [GetTrait('deceitful').GetName( GetNullCharacter )] of [GetTrait('paranoid').GetName( GetNullCharacter )] zijn, geven hun geheime [faith|E] niet prijs tenzij het overeenkomt met het jouwe"
  encourage_confession_of_false_conversions_decision.desc.tt_pluralist_counties:0 "Als je [independent|E] bent, kunnen [counties|E] binnen jouw [realm|E] die [GetModifier('false_convert_modifier').GetNameWithTooltip] hebben, zich openlijk bekeren, afhankelijk van hoe vijandig je tegenover hun nieuwe [faith|E] zou staan"
  encourage_confession_of_false_conversions_decision.desc.tt_coreligionist:0 "Crypto-religionisten binnen jouw rijk mogen zichzelf onthullen, als hun privé [faith|E] hetzelfde is als jouw publieke geloof."
@@ -1246,7 +1246,7 @@ l_english:
  embrace_hebrew_language_decision_tooltip:0 "We zullen de Hebreeuwse taal aannemen."
  embrace_hebrew_language_decision_confirm:0 "Geen diaspora meer!"
  switch_to_israelite_language_tt:0 "[GetPlayer.GetCulture.GetName] zal de $language_israelite_name$ aannemen. [language|E]"
- switch_to_original_language_tt:0 "Je nieuwe cultuur spreekt [doel_andere_cultuur.GetLanguage.GetNameNoTooltip]."
+ switch_to_original_language_tt:0 "Je nieuwe cultuur spreekt [target_other_culture.GetLanguage.GetNameNoTooltip]."
  at_least_10_jewish_counties_tt:0 "Je moet minstens 10 Joodse [counties|E] van jouw [culture|E] bezitten"
  
  DECISION_TOOLTIP_TITLE: "$EFFECT_LIST_BULLET$ [Decision.GetName]"
