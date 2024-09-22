@@ -390,7 +390,7 @@ war_white_peace_defender:0 "[attacker.GetTitledFirstName] stemde in met een wape
 war_white_peace_defender_crusade_second_perspective:0 "$war_white_peace_defender_desc_crusade$"
 war_white_peace_defender_second_perspective:0 "[attacker.GetTitledFirstName] kwam een wapenstilstand overeen om de [attacker.GetHerHis] oorlog tegen jou te beëindigen"
 war_white_peace_defender_crusade_third_perspective:0 "$war_white_peace_defender_desc_crusade$"
-war_white_peace_defender_third_perspective:0 "[attacker.GetTitledFirstName] is een wapenstilstand overeengekomen om [attacker.GetHerHis] oorlog tegen [verdediger.GetTitledFirstName] te beëindigen"
+war_white_peace_defender_third_perspective:0 "[attacker.GetTitledFirstName] is een wapenstilstand overeengekomen om [attacker.GetHerHis] oorlog tegen [defender.GetTitledFirstName] te beëindigen"
 married_desc:0 "Ik trouwde met [spouse.GetTitledFirstName]"
 married_desc_second_perspective:0 "Je trouwde met [spouse.GetTitledFirstName]"
 married_desc_third_perspective:0 "[owner.GetFirstName] trouwde met [spouse.GetTitledFirstName]"
