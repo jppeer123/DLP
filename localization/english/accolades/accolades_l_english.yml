@@ -188,7 +188,7 @@
  accolade_manipulator:0 "Manipulator"
  accolade_sagely:0 "Sfeervol"
  accolade_mentor:0 "Mentor"
- accolade_fearsome:0 "Fearsome"
+ accolade_fearsome:0 "Afschuwelijk"
  accolade_contender:0 "Kandidaat"
 
  accolade_influences_regency:2 "$EFFECT_LIST_BULLET$[entrenched_regency|E] [scales_of_power|E] Evenwichtspunt: [EmptyScope.ScriptValue('accolade_scales_of_power_value')|-0]"
